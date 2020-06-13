@@ -1,0 +1,5 @@
+baseURL = "http://workout.mycontributes.online/"
+languageCode = "en-us"
+title = "Move, Exercise, Workout"
+theme = "mainroad"
+publishDir = "docs"
