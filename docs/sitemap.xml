@@ -3,8 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://workout.mycontributes.online/examples/data/datalist/</loc>
+    <lastmod>2020-06-20T12:09:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/examples/</loc>
+    <lastmod>2020-06-20T12:09:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/</loc>
+    <lastmod>2020-06-20T12:09:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/exercises/triceps-extension-push-up-workout-exercise/</loc>
+    <lastmod>2020-06-19T19:01:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/exercises/raised-leg-push-up-workout-exercise/</loc>
+    <lastmod>2020-06-19T18:59:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/exercises/stair-climbing-workout-exercise/</loc>
+    <lastmod>2020-06-19T18:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/exercises/calf-raises-workout-exercise/</loc>
+    <lastmod>2020-06-19T18:55:57+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://workout.mycontributes.online/blog/</loc>
-    <lastmod>2020-06-13T19:29:10+01:00</lastmod>
+    <lastmod>2020-06-17T10:24:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/blog/goals/</loc>
+    <lastmod>2020-06-17T10:24:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/blog/contact/</loc>
+    <lastmod>2020-06-16T10:14:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/exercises/</loc>
+    <lastmod>2020-06-15T17:42:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/blog/about/</loc>
+    <lastmod>2020-06-14T19:25:36+01:00</lastmod>
   </url>
   
   <url>
@@ -13,17 +68,15 @@
   </url>
   
   <url>
-    <loc>http://workout.mycontributes.online/</loc>
-    <lastmod>2020-06-13T19:29:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://workout.mycontributes.online/blog/hello/</loc>
-    <lastmod>2020-06-13T19:15:18+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://workout.mycontributes.online/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/equipment/</loc>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/muscles/</loc>
   </url>
   
   <url>

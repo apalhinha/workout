@@ -6,10 +6,93 @@
     <description>Recent content on Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2020 19:29:10 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 12:09:08 +0100</lastBuildDate>
     
 	<atom:link href="http://workout.mycontributes.online/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Datalist</title>
+      <link>http://workout.mycontributes.online/examples/data/datalist/</link>
+      <pubDate>Sat, 20 Jun 2020 12:09:08 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/examples/data/datalist/</guid>
+      <description>Data list example
+Iterate in data in the .md file is not possible.
+Iterate in a shortcode: All gone with the wind, year 1939Planet of the Apes, year 1968Chitty Chitty Bang Bang, year 1968Iterate in data where shortcode parameter Start:Planet of the Apes, year 1968Iterate in data where shortcode parameter from frontmatter Start:All gone with the wind, year 1939Chitty Chitty Bang Bang, year 1968Done.</description>
+    </item>
+    
+    <item>
+      <title>Triceps Extension Push Up</title>
+      <link>http://workout.mycontributes.online/exercises/triceps-extension-push-up-workout-exercise/</link>
+      <pubDate>Fri, 19 Jun 2020 19:01:46 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/exercises/triceps-extension-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raised Leg Push Up</title>
+      <link>http://workout.mycontributes.online/exercises/raised-leg-push-up-workout-exercise/</link>
+      <pubDate>Fri, 19 Jun 2020 18:59:52 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/exercises/raised-leg-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stair Climbing</title>
+      <link>http://workout.mycontributes.online/exercises/stair-climbing-workout-exercise/</link>
+      <pubDate>Fri, 19 Jun 2020 18:56:55 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/exercises/stair-climbing-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calf Raises</title>
+      <link>http://workout.mycontributes.online/exercises/calf-raises-workout-exercise/</link>
+      <pubDate>Fri, 19 Jun 2020 18:55:57 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/exercises/calf-raises-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>http://workout.mycontributes.online/blog/goals/</link>
+      <pubDate>Wed, 17 Jun 2020 10:24:50 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/blog/goals/</guid>
+      <description>&lt;p&gt;This site was created willing to share:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An extensive collection of workout exercises that show how to make them in proper form&lt;/li&gt;
+&lt;li&gt;Related exercises and progressions, alternatives and similar ones for a given goal&lt;/li&gt;
+&lt;li&gt;My own and personal workout journey&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://workout.mycontributes.online/blog/contact/</link>
+      <pubDate>Tue, 16 Jun 2020 10:14:21 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/blog/contact/</guid>
+      <description>&lt;p&gt;Have something to say?
+Get in touch&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://workout.mycontributes.online/blog/about/</link>
+      <pubDate>Sun, 14 Jun 2020 19:25:36 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/blog/about/</guid>
+      <description>Hi.
+I spend 30+ years without any exercise. Still young, I setup my own business. From there all priorities became mixed up: Countless hours on a desk or phone, fast food, working weekends, caffeine and cigarettes along the night. My own company&amp;rsquo;s growth kept me moving.
+In Feb&#39;18 I had to run for a bus.
+Fancy shoes, nicer trousers, laptop on my back. 40 meters later my lungs were about to explode.</description>
+    </item>
     
     <item>
       <title>Credits</title>
@@ -17,17 +100,8 @@
       <pubDate>Sat, 13 Jun 2020 19:29:10 +0100</pubDate>
       
       <guid>http://workout.mycontributes.online/blog/credits/</guid>
-      <description>I&amp;rsquo;m sitting in the shoulder of giants&amp;hellip;
- One Two Three  </description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>http://workout.mycontributes.online/blog/hello/</link>
-      <pubDate>Sat, 13 Jun 2020 19:15:18 +0100</pubDate>
-      
-      <guid>http://workout.mycontributes.online/blog/hello/</guid>
-      <description>Hi. Finally a web site.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m standing in the shoulder of giants.
+Mr Isaac Newton said, back in 1675.&lt;/p&gt;</description>
     </item>
     
   </channel>
