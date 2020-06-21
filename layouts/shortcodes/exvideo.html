@@ -1,6 +1,5 @@
 {{ range (where $.Site.Data.exercises "eid" .Page.Params.eid) }}
-  <p>'{{ .name }}' how to:</p>
-<!-- <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden> -->
+
 <div>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.video.videoid}}?start={{.video.start}}&end={{add .video.start .video.duration}}" frameborder="0" allowfullscreen>
   </iframe>

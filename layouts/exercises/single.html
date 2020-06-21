@@ -18,17 +18,19 @@
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix">
 
-			{{ .Content }}
-
-			{{ range (where $.Site.Data.exercises "eid" .Page.Params.eid) }}
-			  <p>How to:</p>
-				<div>
-				  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.video.videoid}}?start={{.video.start}}&end={{add .video.start .video.duration}}" frameborder="0" allowfullscreen>
-				  </iframe>
-				  {{if .video.name}}
-				    <p>Exterpt from <a href="https://www.youtube.com/watch?v={{.video.videoid}}" target="_blank">{{.video.name}}</a></p>
-				  {{end}}
-				</div>
+			{{ if .Content }}
+				{{ .Content }}
+			{{ else }}
+				{{ range (where $.Site.Data.exercises "eid" .Page.Params.eid) }}
+					<p>How to:</p>
+					<div>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/{{.video.videoid}}?start={{.video.start}}&end={{add .video.start .video.duration}}" frameborder="0" allowfullscreen>
+						</iframe>
+						{{if .video.name}}
+							<p>Exterpt from <a href="https://www.youtube.com/watch?v={{.video.videoid}}" target="_blank">{{.video.name}}</a></p>
+						{{end}}
+					</div>
+				{{ end }}
 			{{ end }}
 
 		</div>

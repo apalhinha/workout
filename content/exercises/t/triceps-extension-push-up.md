@@ -5,3 +5,5 @@ draft: false
 eid: 44
 url: "/exercises/triceps-extension-push-up-workout-exercise"
 ---
+This is how to do it:
+{{< exvideo >}}
