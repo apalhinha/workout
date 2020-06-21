@@ -12,5 +12,4 @@ Mr Isaac Newton said, back in 1675.
 * Motivation, coaching, learning: {{< link "Darebee" "http://www.darebee.com">}}
 * Technology to build this website: {{< link "Hugo" "https://gohugo.io/" >}}
 * Theme and formatting: {{< link "Mainroad" "https://github.com/Vimux/Mainroad/" >}}
-
-* Bbb
+{{< credits_allauthors >}}

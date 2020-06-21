@@ -1,0 +1,11 @@
+
+<li>
+  Proper form when exercising:
+
+{{- range $i, $e := .Site.Data.authors }}
+
+  {{ if ne $i 0}} / {{end}}
+
+  <a href="{{.url}}" target="_blank">{{.author}}</a>
+{{- end }}
+</li>

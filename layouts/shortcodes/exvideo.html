@@ -4,7 +4,13 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.video.videoid}}?start={{.video.start}}&end={{add .video.start .video.duration}}" frameborder="0" allowfullscreen>
   </iframe>
   {{if .video.name}}
-    <p>Exterpt from <a href="https://www.youtube.com/watch?v={{.video.videoid}}" target="_blank">{{.video.name}}</a></p>
+    <p>Exterpt from <a href="https://www.youtube.com/watch?v={{.video.videoid}}" target="_blank">{{.video.name}}</a>
+      {{if .video.author}}
+        {{ range (where $.Site.Data.authors "author" .video.author) }}
+          by <a href="{{.url}}" target="_blank">{{.author}}</a>
+        {{end}}
+      {{end}}
+    </p>
   {{end}}
 </div>
 
