@@ -1,0 +1,26 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+
+	{{- range $i, $e := .Paginator.Pages.ByTitle }}
+
+		{{ if ne $i 0}}
+			/
+		{{end}}
+
+		<!-- {{- .Render "summary" }} -->
+		<a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+
+	{{- end }}
+</main>
+{{ partial "pagination.html" . }}
+{{ end }}

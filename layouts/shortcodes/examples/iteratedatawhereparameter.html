@@ -1,0 +1,6 @@
+<ul>
+<li>Start:</li>
+{{ range (where $.Site.Data.examples.movies "type" (.Get 0)) }}
+  <li>{{ .name }}, year {{ .year }}</li>
+{{ end }}
+</ul>
