@@ -1,39 +1,156 @@
-
 [
-  {
-    "eid": 1,
-    "name": "Calf Raises",
-    "video": {
-      "url": "https://www.youtube.com/watch?v=UV8gOrHmuKc",
-      "videoid": "UV8gOrHmuKc",
-      "name": "Exercise Library: Calf Raises",
-      "start": 1,
-      "duration": 10,
-      "author": "Darebee"
-    }
-  },
-  {
-    "eid": 2,
-    "name": "Stair Climbing",
-    "video": {
-      "url": "https://www.youtube.com/watch?v=pGsa4oHTlv8",
-      "videoid": "pGsa4oHTlv8",
-      "name": "Exercise of the Month: Stair Climbing",
-      "start": 8,
-      "duration": 10,
-      "author": "Specialty Fitness"
-    }
-  },
-  {
-    "eid": 44,
-    "name": "Tricep extension push-up",
-    "video": {
-      "url": "https://www.youtube.com/watch?v=VYgVTinbx_A",
-      "videoid": "VYgVTinbx_A",
-      "name": "Bodyweight Tricep Extension Tutorial",
-      "start": 28,
-      "duration": 10,
-      "author": "Global Bodyweight Training"
-    }
+{
+  "eid": "calfr",
+  "name": "Calf raises",
+  "video": {
+  "videoid": "UV8gOrHmuKc",
+    "name": "Exercise Library: Calf Raises",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
   }
+},
+{
+  "eid": "stair",
+  "name": "Stair Climbing",
+  "video": {
+  "videoid": "pGsa4oHTlv8",
+    "name": "Exercise of the Month: Stair Climbing",
+    "start": 8,
+    "duration": 10,
+    "author": "Specialty Fitness"
+  }
+},
+{
+  "eid": "pus",
+  "name": "Push-ups",
+  "video": {
+  "videoid": "v9LABVJzv8A",
+    "name": "Exercise Library: Push-Ups",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
+  "eid": "slr",
+  "name": "Side leg raises",
+  "video": {
+  "videoid": "H8RrfDOLiZU",
+    "name": "Exercise Library: Side Leg Raises",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
+  "eid": "cru-raiseleg",
+  "name": "Raised Leg Crunches",
+  "video": {
+  "videoid": "yut42mEQXTk",
+    "name": "Exercise Library: Raised Leg Crunches",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
+  "eid": "neg-pul",
+  "name": "Negative Pullups",
+  "video": {
+  "videoid": "R8xNrImzdwI",
+    "name": "How To Do a Negative Pull-Up | Exercise Guide",
+    "start": 13,
+    "duration": 27,
+    "author": "Bodybuilding.com"
+  }
+},
+{
+  "eid": "pul-dead",
+  "name": "Dead hang",
+  "video": {
+  "videoid": "sRshX8wYOOI",
+    "name": "The Dead Hang",
+    "start": 3,
+    "duration": 10,
+    "author": "Testosterone Nation"
+  }
+},
+{
+  "eid": "pus-tricep",
+  "name": "Tricep extension push-up",
+  "video": {
+  "videoid": "VYgVTinbx_A",
+    "name": "Bodyweight Tricep Extension Tutorial",
+    "start": 28,
+    "duration": 10,
+    "author": "Global Bodyweight Training"
+  }
+},
+{
+  "eid": "pul",
+  "name": "Pull-ups",
+  "video": {
+  "videoid": "d0ZR1Df59a4",
+    "name": "Can't do Pull-Ups ?? Watch This Video",
+    "start": 25,
+    "duration": 10,
+    "author": "Gregory Scott Fitness"
+  }
+},
+{
+  "eid": "f-leg-rais",
+  "name": "Front leg raise",
+  "video": {
+  "videoid": "8kr91qSn3OM",
+    "name": "How to Do a Standing Leg Lift | Thighs Workout",
+    "start": 25,
+    "duration": 8,
+    "author": "Howcast"
+  }
+},
+{
+  "eid": "fw-pus",
+  "name": "Finger Wall Push-ups",
+  "video": {
+  "videoid": "Xq9H32JLTOY",
+    "name": "Wall Fingertips Push Up",
+    "start": 1,
+    "duration": 5,
+    "author": "Workout Freaks"
+  }
+},
+{
+  "eid": "pul-flex",
+  "name": "Flex Hang",
+  "video": {
+  "videoid": "zNXE1cRva9Y",
+    "name": "Flexed Arm Hang Practice",
+    "start": 66,
+    "duration": 10,
+    "author": "Old City CrossFit"
+  }
+},
+{
+  "eid": "w-lsit-pos",
+  "name": "Wall/floor L-Sit position",
+  "video": {
+  "videoid": "izOLJOQ9MzM",
+    "name": "SSC Challenge Series: Wall L-Sit",
+    "start": 10,
+    "duration": 10,
+    "author": "Strong Side Conditioning"
+  }
+},
+{
+  "eid": "ol-lsit",
+  "name": "One leg L-Sit",
+  "video": {
+  "videoid": "Q3D7eWdkctw",
+    "name": "Parallettes for Beginners | Exercise Collection",
+    "start": 162,
+    "duration": 7,
+    "author": "Mani the Monkey"
+  }
+}
 ]

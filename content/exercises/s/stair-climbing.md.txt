@@ -1,0 +1,7 @@
+---
+date: 2020-06-30T13:18:57+01:00
+draft: false
+title: "Stair Climbing"
+url: "/exercises/stair-climbing-workout-exercise"
+eid: "stair"
+---

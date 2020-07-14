@@ -10,6 +10,6 @@ Mr Isaac Newton said, back in 1675.
 <!--more-->
 
 * Motivation, coaching, learning: {{< link "Darebee" "http://www.darebee.com">}}
-* Technology to build this website: {{< link "Hugo" "https://gohugo.io/" >}}
-* Theme and formatting: {{< link "Mainroad" "https://github.com/Vimux/Mainroad/" >}}
+* Technology to build this website: {{< link "Hugo" "https://gohugo.io/" >}} static site generator
+* Look & feel, formatting: {{< link "Mainroad" "https://github.com/Vimux/Mainroad/" >}} theme for Hugo
 {{< credits_allauthors >}}

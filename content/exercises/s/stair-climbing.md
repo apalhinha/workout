@@ -1,7 +1,10 @@
 ---
-title: "Stair Climbing"
-date: 2020-06-19T18:56:55+01:00
+date: 2020-06-30T13:21:53+01:00
 draft: false
-eid: 2
+title: "Stair Climbing"
 url: "/exercises/stair-climbing-workout-exercise"
+eid: "stair"
+collections: ["Push-up Variations"]
+muscles: ["Triceps", "Hamstring", "Calves"]
+categories: ["Low Cardio"]
 ---

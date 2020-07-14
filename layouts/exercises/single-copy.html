@@ -40,33 +40,23 @@
 			{{ end }}
 		</div>
 
-		<footer class="post__footer">
 		{{- if .Params.tags }}
+		<footer class="post__footer">
 			{{ partial "post_tags.html" . }}
-		{{- end }}
-		{{- if .Params.categories }}
-			{{ partial "post_categories.html" . }}
-		{{- end }}
-		{{- if .Params.collections }}
-			{{ partial "post_collections.html" . }}
-		{{- end }}
-		{{- if .Params.progressions }}
-			{{ partial "post_progressions.html" . }}
-		{{- end }}
-		{{- if .Params.equipment }}
-			{{ partial "post_equipment.html" . }}
-		{{- end }}
-		{{- if .Params.muscles }}
-			{{ partial "post_muscles.html" . }}
-		{{- end }}
-		{{- if .Params.stretches }}
-			{{ partial "post_stretches.html" . }}
-		{{- end }}
-		{{- if .Params.flexibilities }}
-			{{ partial "post_flexibilities.html" . }}
+		</footer>
 		{{- end }}
 
+		{{- if .Params.muscles }}
+		<footer class="post__footer">
+			{{ partial "post_muscles.html" . }}
 		</footer>
+		{{- end }}
+
+		{{- if .Params.equipment }}
+		<footer class="post__footer">
+			{{ partial "post_equipment.html" . }}
+		</footer>
+		{{- end }}
 
 	</article>
 </main>

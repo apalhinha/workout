@@ -1,0 +1,36 @@
+
+[
+  {
+    "eid": "calfr",
+    "name": "Calf Raises",
+    "video": {
+      "videoid": "UV8gOrHmuKc",
+      "name": "Exercise Library: Calf Raises",
+      "start": 1,
+      "duration": 10,
+      "author": "Darebee"
+    }
+  },
+  {
+    "eid": "stair",
+    "name": "Stair Climbing",
+    "video": {
+      "videoid": "pGsa4oHTlv8",
+      "name": "Exercise of the Month: Stair Climbing",
+      "start": 8,
+      "duration": 10,
+      "author": "Specialty Fitness"
+    }
+  },
+  {
+    "eid": "slr",
+    "name": "Side Leg Raises",
+    "video": {
+      "videoid": "H8RrfDOLiZU",
+      "name": "Exercise Library: Side Leg Raises",
+      "start": 1,
+      "duration": 10,
+      "author": "Darebee"
+    }
+  }
+]

@@ -1,11 +1,18 @@
 
 <li>
-  Proper form when exercising:
+  How-to and proper form on exercises:
+{{ $au := slice }}
+{{ range $i, $e := .Site.Data.exercises }}
+  {{ if .video.author }}
+    {{ $au = $au | append .video.author }}
+  {{ end }}
+{{ end }}
+{{ $au = sort $au | uniq}}
 
-{{- range $i, $e := .Site.Data.authors }}
-
+{{ range $i, $one_au := $au }}
   {{ if ne $i 0}} / {{end}}
-
-  <a href="{{.url}}" target="_blank">{{.author}}</a>
-{{- end }}
+  {{ range (where $.Site.Data.authors "author" $one_au) }}
+    <a href="{{.url}}" target="_blank">{{.author}}</a>
+  {{ end }}
+{{ end }}
 </li>

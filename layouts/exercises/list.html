@@ -11,7 +11,7 @@
 	</div>
 	{{- end }}
 
-	{{- range $i, $e := .Paginator.Pages.ByTitle }}
+	{{- range $i, $e := (.Paginate (.Pages.ByTitle)).Pages }}
 
 		{{ if ne $i 0}}
 			/
