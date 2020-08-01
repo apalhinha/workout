@@ -99,6 +99,17 @@
   }
 },
 {
+  "eid": "pike-pus",
+  "name": "Pike push-ups",
+  "video": {
+  "videoid": "sposDXWEB0A",
+    "name": "The Pike Push-Up Tutorial",
+    "start": 22,
+    "duration": 25,
+    "author": "Global Bodyweight Training"
+  }
+},
+{
   "eid": "f-leg-rais",
   "name": "Front leg raise",
   "video": {
@@ -138,7 +149,7 @@
   "videoid": "izOLJOQ9MzM",
     "name": "SSC Challenge Series: Wall L-Sit",
     "start": 10,
-    "duration": 10,
+    "duration": 19,
     "author": "Strong Side Conditioning"
   }
 },

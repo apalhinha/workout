@@ -1,0 +1,13 @@
+
+{{ $eid := .Get 0 }}
+{{ $imagepage := .Site.GetPage "page" "fakestatic/allimages/index.md" }}
+{{ $folder := substr $eid 0 1 }}
+{{ $imagename := printf "%s/%s.png" $folder $eid }}
+{{ $image := $imagepage.Resources.GetMatch $imagename }}
+
+{{ if $image }}
+  <img src="{{ $image.RelPermalink }}" />
+{{ else }}
+  {{ $image := $imagepage.Resources.GetMatch "no-exercise-pic.png" }}
+  <img src="{{ $image.RelPermalink }}" />
+{{ end }}

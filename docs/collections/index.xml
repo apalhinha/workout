@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collections on Move, Exercise, Workout</title>
+    <link>http://workout.mycontributes.online/collections/</link>
+    <description>Recent content in Collections on Move, Exercise, Workout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jul 2020 09:58:16 +0100</lastBuildDate>
+    
+	<atom:link href="http://workout.mycontributes.online/collections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Push-up Variations</title>
+      <link>http://workout.mycontributes.online/collections/push-up-variations/</link>
+      <pubDate>Wed, 22 Jul 2020 09:58:16 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/collections/push-up-variations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crunch</title>
+      <link>http://workout.mycontributes.online/collections/crunch/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/collections/crunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pull-up friendly</title>
+      <link>http://workout.mycontributes.online/collections/pull-up-friendly/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/collections/pull-up-friendly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

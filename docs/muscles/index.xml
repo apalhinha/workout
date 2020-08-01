@@ -6,9 +6,73 @@
     <description>Recent content in Muscles on Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jul 2020 09:45:39 +0100</lastBuildDate>
     
 	<atom:link href="http://workout.mycontributes.online/muscles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Back</title>
+      <link>http://workout.mycontributes.online/muscles/back/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/muscles/back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biceps</title>
+      <link>http://workout.mycontributes.online/muscles/biceps/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/muscles/biceps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calves</title>
+      <link>http://workout.mycontributes.online/muscles/calves/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/muscles/calves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chest</title>
+      <link>http://workout.mycontributes.online/muscles/chest/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/muscles/chest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forearms</title>
+      <link>http://workout.mycontributes.online/muscles/forearms/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/muscles/forearms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoulder</title>
+      <link>http://workout.mycontributes.online/muscles/shoulder/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/muscles/shoulder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Triceps</title>
+      <link>http://workout.mycontributes.online/muscles/triceps/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/muscles/triceps/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

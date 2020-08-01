@@ -12,6 +12,8 @@
 	{{- end }}
 
 	{{ range .Paginator.Pages.ByParam "progressions_weight" }}
+		<p>{{- .Params.progressions_notes }}</p>
+
 		{{ partial "ex_retangulo" .}}
 
 	{{- end }}

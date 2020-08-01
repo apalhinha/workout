@@ -1,0 +1,19 @@
+
+<ol>
+
+  {{ range where .Site.Pages "Section" "exercises" }}
+    {{ $eid := .Params.Eid }}
+
+    {{ if $eid }}
+      {{ $imagepage := .Site.GetPage "page" "fakestatic/allimages/index.md" }}
+      {{ $folder := substr $eid 0 1 }}
+      {{ $imagename := printf "%s/%s.png" $folder $eid }}
+      {{ $image := $imagepage.Resources.GetMatch $imagename }}
+      {{ if not ($image) }}
+        <li>{{- $eid }} <a href="{{- .RelPermalink }}">{{- .Title}}</a></li>
+      {{ end }}
+    {{ end }}
+
+  {{ end }}
+
+</ol>

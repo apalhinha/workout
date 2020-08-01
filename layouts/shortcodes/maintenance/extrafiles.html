@@ -1,0 +1,9 @@
+Extra files found:
+
+<ol>
+
+{{ range $i, $e := .Site.Data.extrafiles }}
+    <li> {{- .file}}</li>
+{{ end }}
+
+</ol>
