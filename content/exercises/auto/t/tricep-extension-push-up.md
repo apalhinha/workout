@@ -6,4 +6,5 @@ title: "Tricep extension push-up"
 url: "/exercises/tricep-extension-push-up-workout-exercise"
 eid: "pus-tricep"
 collections: ["Push-up Variations"]
+muscles: ["Triceps"]
 ---
