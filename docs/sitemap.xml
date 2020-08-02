@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>http://workout.mycontributes.online/collections/pull-up-friendly/</loc>
+    <loc>http://workout.mycontributes.online/progressions/</loc>
     <lastmod>2020-07-22T09:45:39+01:00</lastmod>
   </url>
   
@@ -163,6 +163,16 @@
   </url>
   
   <url>
+    <loc>http://workout.mycontributes.online/progressions/l-sit-progression/</loc>
+    <lastmod>2020-07-11T12:01:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/collections/pull-up-friendly/</loc>
+    <lastmod>2020-07-11T12:01:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://workout.mycontributes.online/maintenance/extrafiles/</loc>
     <lastmod>2020-07-11T09:11:42+01:00</lastmod>
   </url>
@@ -223,10 +233,6 @@
   
   <url>
     <loc>http://workout.mycontributes.online/flexibilities/</loc>
-  </url>
-  
-  <url>
-    <loc>http://workout.mycontributes.online/progressions/</loc>
   </url>
   
   <url>

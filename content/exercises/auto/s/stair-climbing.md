@@ -4,7 +4,6 @@ draft: false
 title: "Stair Climbing"
 url: "/exercises/stair-climbing-workout-exercise"
 eid: "stair"
-collections: ["Push-up Variations"]
 muscles: ["Calves"]
 categories: ["Low Cardio"]
 ---

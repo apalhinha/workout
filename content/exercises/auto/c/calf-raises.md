@@ -4,6 +4,5 @@ draft: false
 title: "Calf raises"
 url: "/exercises/calf-raises-workout-exercise"
 eid: "calfr"
-collections: ["Push-up Variations"]
 muscles: ["Calves"]
 ---

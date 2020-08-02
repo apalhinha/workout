@@ -11,7 +11,8 @@
       {{ $image := $imagepage.Resources.GetMatch $imagename }}
 
       {{ if $image }}
-        <img src="{{- $image.RelPermalink }}" alt="{{- .Title}} icon" style="width:150px;height:150px;">
+        {{ $i := $image.Resize "150x" }}
+        <img src="{{- $i.RelPermalink }}" alt="{{- .Title}} icon" width="{{ $i.Width }}" height="{{ $i.Height }}" style="">
       {{ else }}
         <p>...</p>
       {{ end }}
