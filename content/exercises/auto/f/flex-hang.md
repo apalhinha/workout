@@ -5,5 +5,5 @@ title: "Flex Hang"
 url: "/exercises/flex-hang-workout-exercise"
 eid: "pul-flex"
 collections: ["Pull-up friendly"]
-muscles: ["Shoulder", "Biceps", "Triceps", "Forearms"]
+muscles: ["Biceps", "Back", "Forearms"]
 ---
