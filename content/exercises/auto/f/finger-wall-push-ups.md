@@ -4,4 +4,5 @@ draft: false
 title: "Finger Wall Push-ups"
 url: "/exercises/finger-wall-push-ups-workout-exercise"
 eid: "fw-pus"
+collections: ["Push-up Variations"]
 ---
