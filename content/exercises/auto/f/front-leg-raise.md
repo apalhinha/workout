@@ -6,4 +6,7 @@ url: "/exercises/front-leg-raise-workout-exercise"
 eid: "f-leg-rais"
 progressions: ["L-Sit Progression"]
 progressions_weight: 5
+muscles: ["Abs", "Hips", "Glutes"]
+stretches: ["Harmstring", "Hips"]
+flexibilities: ["Hips"]
 ---

@@ -6,9 +6,28 @@
     <description>Recent content in Stretches on Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jul 2020 09:45:39 +0100</lastBuildDate>
     
 	<atom:link href="http://workout.mycontributes.online/stretches/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Harmstring</title>
+      <link>http://workout.mycontributes.online/stretches/harmstring/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/stretches/harmstring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hips</title>
+      <link>http://workout.mycontributes.online/stretches/hips/</link>
+      <pubDate>Wed, 22 Jul 2020 09:45:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/stretches/hips/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
