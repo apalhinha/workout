@@ -6,3 +6,9 @@ url: "/exercises/pull-ups-workout-exercise"
 eid: "pul"
 muscles: ["Chest", "Shoulder", "Biceps", "Back"]
 ---
+Hang on a pull-up bar with straigth arms and legs off the floor. Pull yourself until your chin passes the bar.
+<!--more-->
+
+The pull-up is a quite complete exercise for your chest, back, shoulder and biceps.
+
+{{< exvideo >}}
