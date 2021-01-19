@@ -6,7 +6,7 @@ aaa: ""
 title: "Dead hang"
 url: "/exercises/dead-hang-workout-exercise"
 eid: "pul-dead"
-collections: ["Pull-up friendly"]
+collections: ["Pull-up friendly", "Hanging"]
 ---
 Hold in the Hanging Bar, stand there counting the number of seconds.
 

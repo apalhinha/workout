@@ -4,5 +4,5 @@ draft: false
 title: "Negative Pullups"
 url: "/exercises/negative-pullups-workout-exercise"
 eid: "neg-pul"
-collections: ["Pull-up friendly"]
+collections: ["Pull-up friendly", "Hanging"]
 ---

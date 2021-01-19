@@ -5,4 +5,4 @@ draft: false
 menu: footer
 ---
 
-501 Exercises.
+Current exercise list:
