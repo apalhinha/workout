@@ -33,6 +33,17 @@
   }
 },
 {
+  "eid": "r-leg-pus",
+  "name": "Raised leg push-ups",
+  "video": {
+  "videoid": "XA8T_bHHkl0",
+    "name": "Exercise Library: Raised Leg Push-Ups",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "slr",
   "name": "Side leg raises",
   "video": {
@@ -55,12 +66,23 @@
   }
 },
 {
+  "eid": "chin",
+  "name": "Chin-ups",
+  "video": {
+  "videoid": "qV7vOUcUfD4",
+    "name": "How To Do CHIN-UPS: The Fifth Lift",
+    "start": 35,
+    "duration": 10,
+    "author": "Barbell Logic"
+  }
+},
+{
   "eid": "neg-pul",
   "name": "Negative Pullups",
   "video": {
-  "videoid": "R8xNrImzdwI",
+  "videoid": "0f3wkcdmVN8",
     "name": "How To Do a Negative Pull-Up | Exercise Guide",
-    "start": 13,
+    "start": 113,
     "duration": 27,
     "author": "Bodybuilding.com"
   }

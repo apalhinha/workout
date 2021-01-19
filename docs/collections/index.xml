@@ -6,10 +6,28 @@
     <description>Recent content in Collections on Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 17:29:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 19:41:55 +0100</lastBuildDate>
     
 	<atom:link href="http://workout.mycontributes.online/collections/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hanging</title>
+      <link>http://workout.mycontributes.online/collections/hanging/</link>
+      <pubDate>Tue, 19 Jan 2021 19:41:55 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/collections/hanging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Push-up Variations</title>
+      <link>http://workout.mycontributes.online/collections/push-up-variations/</link>
+      <pubDate>Tue, 19 Jan 2021 19:08:39 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/collections/push-up-variations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crunch</title>
@@ -17,15 +35,6 @@
       <pubDate>Wed, 02 Sep 2020 17:29:00 +0100</pubDate>
       
       <guid>http://workout.mycontributes.online/collections/crunch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Push-up Variations</title>
-      <link>http://workout.mycontributes.online/collections/push-up-variations/</link>
-      <pubDate>Wed, 02 Sep 2020 17:23:27 +0100</pubDate>
-      
-      <guid>http://workout.mycontributes.online/collections/push-up-variations/</guid>
       <description></description>
     </item>
     
