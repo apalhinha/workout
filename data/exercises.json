@@ -110,6 +110,17 @@
   }
 },
 {
+  "eid": "sqt-jmp",
+  "name": "Jump squats",
+  "video": {
+  "videoid": "bv7as8mDXLQ",
+    "name": "Exercise Library: Jump Squats",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "pul",
   "name": "Pull-ups",
   "video": {
