@@ -7,6 +7,6 @@ eid: "f-leg-rais"
 progressions: ["L-Sit Progression"]
 progressions_weight: 5
 muscles: ["Abs", "Hips", "Glutes"]
-stretches: ["Harmstring", "Hips"]
-flexibilities: ["Hips"]
+mobilities: ["Hips"]
+flexibilities: ["Hips", "Harmstring"]
 ---

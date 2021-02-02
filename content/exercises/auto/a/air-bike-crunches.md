@@ -4,6 +4,6 @@ draft: false
 title: "Air bike crunches"
 url: "/exercises/air-bike-crunches-workout-exercise"
 eid: "air-bike-cru"
-collections: ["Crunch"]
+collections: ["Crunch Variations"]
 muscles: ["Abs"]
 ---

@@ -4,5 +4,5 @@ draft: false
 title: "Raised Leg Crunches"
 url: "/exercises/raised-leg-crunches-workout-exercise"
 eid: "cru-raiseleg"
-collections: ["Crunch"]
+collections: ["Crunch Variations"]
 ---

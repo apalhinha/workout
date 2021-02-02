@@ -10,7 +10,7 @@ collections: ["Test collection"]
 progressions: ["Test progression"]
 equipment: ["Test equipment"]
 muscles: ["Triceps"]
-stretches: ["Test1 Stretch"]
+mobilities: ["Test1 Mobility"]
 flexibilities: ["Test flexibility"]
 ---
 Lie down in push-up position, hands ahead so that triceps are needed to raise
