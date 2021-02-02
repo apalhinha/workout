@@ -11,8 +11,6 @@ equipment: ["Pull-up Bar"]
 ---
 Hold in the Hanging Bar, stand there counting the number of seconds.
 
-With some changes
-
 <!--more-->
 
 {{< exvideo >}}
