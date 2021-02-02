@@ -7,6 +7,7 @@ title: "Dead hang"
 url: "/exercises/dead-hang-workout-exercise"
 eid: "pul-dead"
 collections: ["Pull-up friendly", "Hanging"]
+equipment: ["Pull-up Bar"]
 ---
 Hold in the Hanging Bar, stand there counting the number of seconds.
 

@@ -1,0 +1,3 @@
+
+Favicon foi alterado dentro do theme, decerto errado
+Trazer \static\images\favicon.ico para \themes\mainroad\static\favicon.ico

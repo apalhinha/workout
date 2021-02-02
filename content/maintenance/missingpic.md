@@ -10,5 +10,5 @@ Listing of exercise files without a thumbnail.
 
 {{< maintenance/missingpic >}}
 
-{{< ex_quad_shortcode "pus-tricep" >}}
+{{< ex_quad_shortcode "r-leg-pus" >}}
 {{< ex_quad_shortcode "abc" >}}

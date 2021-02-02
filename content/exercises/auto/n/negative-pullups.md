@@ -5,4 +5,5 @@ title: "Negative Pullups"
 url: "/exercises/negative-pullups-workout-exercise"
 eid: "neg-pul"
 collections: ["Pull-up friendly", "Hanging"]
+equipment: ["Pull-up Bar"]
 ---

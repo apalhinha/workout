@@ -34,7 +34,7 @@
 },
 {
   "eid": "r-leg-pus",
-  "name": "Raised leg push-ups",
+  "name": "Raised leg push-up",
   "video": {
   "videoid": "XA8T_bHHkl0",
     "name": "Exercise Library: Raised Leg Push-Ups",
@@ -132,6 +132,17 @@
   }
 },
 {
+  "eid": "close-g-pus",
+  "name": "Close grip push-ups",
+  "video": {
+  "videoid": "SwoNNo4W1OU",
+    "name": "Exercise Library: Push-Ups / Close Grip",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "air-bike-cru",
   "name": "Air bike crunches",
   "video": {
@@ -165,7 +176,18 @@
   }
 },
 {
-  "eid": "fw-pus",
+  "eid": "bird-dog",
+  "name": "Bird dog",
+  "video": {
+  "videoid": "k2azbhhuKuM",
+    "name": "Bird Dog Exercise",
+    "start": 11,
+    "duration": 10,
+    "author": "National Training Center - Clermont, FL"
+  }
+},
+{
+  "eid": "fg-w-pus",
   "name": "Finger Wall Push-ups",
   "video": {
   "videoid": "Xq9H32JLTOY",

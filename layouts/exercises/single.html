@@ -21,8 +21,13 @@
 			{{ if .Content }}
 				{{ .Content }}
 			{{ else }}
+				{{ partial "ex_logo" .}}
+				{{ if .Params.description }}
+					<p>{{- .Params.description }}</p>
+				{{ end }}
+				<!-- Video -->
 				{{ range (where $.Site.Data.exercises "eid" .Page.Params.eid) }}
-					<p>How to:</p>
+					<p>Video demonstration:</p>
 					<div>
 						<iframe width="560" height="315" src="https://www.youtube.com/embed/{{.video.videoid}}?start={{.video.start}}&end={{add .video.start .video.duration}}" frameborder="0" allowfullscreen>
 						</iframe>

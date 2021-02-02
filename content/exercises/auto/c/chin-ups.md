@@ -5,4 +5,5 @@ title: "Chin-ups"
 url: "/exercises/chin-ups-workout-exercise"
 eid: "chin"
 collections: ["Hanging"]
+equipment: ["Pull-up Bar"]
 ---
