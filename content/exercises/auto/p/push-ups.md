@@ -4,6 +4,7 @@ draft: false
 title: "Push-ups"
 url: "/exercises/push-ups-workout-exercise"
 eid: "pus"
+hints: ["Keep your core engagedx", "Your back should follow a straight line"]
 collections: ["Push-up Variations"]
 muscles: ["Chest", "Shoulder"]
 ---

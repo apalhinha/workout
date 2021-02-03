@@ -1,0 +1,36 @@
+<!-- Miniatura do exercício com link para lá -->
+
+{{ $eid := .Get 0 }}
+{{ $imagepage := .Site.GetPage "page" "fakestatic/allimages/index.md" }}
+{{ $folder := substr $eid 0 1 }}
+{{ $imagename := printf "%s/%s.png" $folder $eid }}
+{{ $image := $imagepage.Resources.GetMatch $imagename }}
+
+<div style="display: inline-block; text-align: center; width: 150px;" >
+
+<!-- border-style: solid -->
+  <div style="text-align: center;">
+
+    {{ range where .Site.Pages "Params.eid" $eid}}
+      {{ $link := .Permalink }}
+    <a href="{{- $link }}">
+    {{ end }}
+
+      {{ if $image }}
+  <!--        <p>[{{- $image.RelPermalink }}]</p> -->
+        {{ $i := $image.Resize "150x" }}
+        <img src="{{- $i.RelPermalink }}" width="{{ $i.Width }}" height="{{ $i.Height }}" style="">
+      {{ else }}
+        <p>...</p>
+      {{ end }}
+    </a>
+  </div>
+
+  {{ range where .Site.Pages "Params.eid" $eid}}
+    <div style="display: inline-block; vertical-align: top; text-align: center;">
+      <a href="{{.Permalink}}">{{.Title}}</a>
+    </div>
+
+  {{ end }}
+
+</div>

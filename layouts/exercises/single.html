@@ -25,6 +25,15 @@
 				{{ if .Params.description }}
 					<p>{{- .Params.description }}</p>
 				{{ end }}
+				{{ if .Params.hints }}
+					<ul>
+						{{range .Params.hints}}
+						<li>
+							{{ . }}
+						</li>
+						{{end}}
+					</ul>
+				{{ end }}
 				<!-- Video -->
 				{{ range (where $.Site.Data.exercises "eid" .Page.Params.eid) }}
 					<p>Video demonstration:</p>
