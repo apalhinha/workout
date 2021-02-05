@@ -165,6 +165,17 @@
   }
 },
 {
+  "eid": "calfr-h",
+  "name": "Calf Raises Hold",
+  "video": {
+  "videoid": "uT0_UteBwAI",
+    "name": "CALF RAISE HOLD",
+    "start": 3,
+    "duration": 20,
+    "author": "Goliaz HIIT"
+  }
+},
+{
   "eid": "f-leg-rais",
   "name": "Front leg raise",
   "video": {
@@ -176,6 +187,17 @@
   }
 },
 {
+  "eid": "tricep-w-pus",
+  "name": "Tricep wall push-up",
+  "video": {
+  "videoid": "f-ez1Tzehas",
+    "name": "wall tricep push up",
+    "start": 1,
+    "duration": 10,
+    "author": "360 Fitness Personal Training Red Deer"
+  }
+},
+{
   "eid": "bird-dog",
   "name": "Bird dog",
   "video": {
@@ -184,6 +206,17 @@
     "start": 11,
     "duration": 10,
     "author": "National Training Center - Clermont, FL"
+  }
+},
+{
+  "eid": "tricep-knee-pus",
+  "name": "Tricep Knees Push-up",
+  "video": {
+  "videoid": "Qz1NlN2OPYw",
+    "name": "Tricep Push Up (Lv 1)",
+    "start": 2,
+    "duration": 10,
+    "author": "FitnessBlender"
   }
 },
 {

@@ -6,10 +6,37 @@
     <description>Recent content on Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Feb 2021 19:03:19 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2021 00:24:30 +0100</lastBuildDate>
     
 	<atom:link href="http://workout.mycontributes.online/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tricep Knees Push-up</title>
+      <link>http://workout.mycontributes.online/exercises/tricep-knees-push-up-workout-exercise/</link>
+      <pubDate>Fri, 05 Feb 2021 00:24:30 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/exercises/tricep-knees-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tricep wall push-up</title>
+      <link>http://workout.mycontributes.online/exercises/tricep-wall-push-up-workout-exercise/</link>
+      <pubDate>Fri, 05 Feb 2021 00:24:30 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/exercises/tricep-wall-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calf Raises Hold</title>
+      <link>http://workout.mycontributes.online/exercises/calf-raises-hold-workout-exercise/</link>
+      <pubDate>Thu, 04 Feb 2021 15:33:25 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/exercises/calf-raises-hold-workout-exercise/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Close grip push-ups</title>
@@ -71,7 +98,22 @@
       <pubDate>Thu, 14 Jan 2021 19:25:36 +0100</pubDate>
       
       <guid>http://workout.mycontributes.online/blog/recent-changes/</guid>
-      <description>&lt;p&gt;A first set of exercises were added to this database.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A first set of exercises were added to this database.
+A second line.&lt;/p&gt;
+&lt;p&gt;And a separated one&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Also blockquotes are available.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now with a list:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Like&lt;/li&gt;
+&lt;li&gt;this&lt;/li&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In fact
+Friendly to use&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>

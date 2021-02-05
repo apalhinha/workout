@@ -25,15 +25,6 @@
 				{{ if .Params.description }}
 					<p>{{- .Params.description }}</p>
 				{{ end }}
-				{{ if .Params.hints }}
-					<ul>
-						{{range .Params.hints}}
-						<li>
-							{{ . }}
-						</li>
-						{{end}}
-					</ul>
-				{{ end }}
 				<!-- Video -->
 				{{ range (where $.Site.Data.exercises "eid" .Page.Params.eid) }}
 					<p>Video demonstration:</p>
@@ -51,8 +42,81 @@
 						{{end}}
 					</div>
 				{{ end }}
+
+				{{ if .Params.steps }}
+					<p>Step by step:</p>
+					<ol>
+						{{range .Params.steps}}
+						<li>
+							{{ . }}
+						</li>
+						{{end}}
+					</ol>
+				{{ end }}
+
+				{{ if .Params.hints }}
+					<p>Hints & tips:</p>
+					<ul>
+						{{range .Params.hints}}
+						<li>
+							{{ . }}
+						</li>
+						{{end}}
+					</ul>
+				{{ end }}
+
+				{{ if .Params.benefits }}
+					<p>Benefits:</p>
+					<ul>
+						{{range .Params.benefits}}
+						<li>
+							{{ . }}
+						</li>
+						{{end}}
+					</ul>
+				{{ end }}
+
+				{{ if .Params.counting }}
+					<p>Counting & gamification:</p>
+					<ul>
+						{{range .Params.counting}}
+						<li>
+							{{ . }}
+						</li>
+						{{end}}
+					</ul>
+				{{ end }}
+
 			{{ end }}
 		</div>
+
+		{{ $au := slice }}
+		{{ range .Params.muscles }}
+    	{{ $au = $au | append . }}
+		{{ end }}
+		{{ range .Params.mobilities }}
+    	{{ $au = $au | append . }}
+		{{ end }}
+		{{ range .Params.flexibilities }}
+    	{{ $au = $au | append . }}
+		{{ end }}
+		{{ $au = sort $au | uniq}}
+		{{ if $au }}
+			<p>Muscles and areas involved:
+				{{ range $i, $one_au := $au }}
+				  {{- if ne $i 0 -}}, {{end}}
+				  {{ . }}
+				{{ end }}
+			</p>
+		{{ end }}
+
+		{{ if .Params.similar }}
+		<p>Similar or related exercises:</p>
+			{{ range (where (where .Site.Pages "Params.similar" .Params.similar) "Params.eid" "!=" .Params.eid ) }}
+			  {{ $eid := .Params.eid }}
+				{{ partial "ex_quadrado_argument.html" . }}
+			{{ end }}
+		{{ end }}
 
 		<footer class="post__footer">
 		{{- if .Params.tags }}
