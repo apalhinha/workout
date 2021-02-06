@@ -4,6 +4,6 @@ draft: false
 title: "Tricep wall push-up"
 url: "/exercises/tricep-wall-push-up-workout-exercise"
 eid: "tricep-w-pus"
-support_to: ["tricep-knee-pus", "pul"]
+support_to: ["tricep-knee-pus"]
 collections: ["Pull-up friendly", "Push-up Variations"]
 ---

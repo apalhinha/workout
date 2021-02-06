@@ -110,11 +110,21 @@
 			</p>
 		{{ end }}
 
-		{{ if .Params.similar }}
+		{{ if or (.Params.similar) (.Params.oneway) }}
 			<h2>Similar or related exercises:</h2>
+		{{end}}
+
+		{{ if .Params.oneway }}
+			{{ $s := .Params.oneway }}
+			{{ range .Site.Pages }}
+				{{ if (eq $s .Params.eid) }}
+					{{ partial "ex_quadrado_argument.html" . }}
+				{{ end }}
+			{{ end }}
+		{{ end }}
+		{{ if .Params.similar }}
 			{{ range (where (where .Site.Pages "Params.similar" .Params.similar) "Params.eid" "!=" .Params.eid ) }}
-			  {{ $eid := .Params.eid }}
-				{{ partial "ex_quadrado_argument.html" . }}
+			  {{ partial "ex_quadrado_argument.html" . }}
 			{{ end }}
 		{{ end }}
 
