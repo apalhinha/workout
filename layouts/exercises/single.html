@@ -111,10 +111,30 @@
 		{{ end }}
 
 		{{ if .Params.similar }}
-		<p>Similar or related exercises:</p>
+			<h2>Similar or related exercises:</h2>
 			{{ range (where (where .Site.Pages "Params.similar" .Params.similar) "Params.eid" "!=" .Params.eid ) }}
 			  {{ $eid := .Params.eid }}
 				{{ partial "ex_quadrado_argument.html" . }}
+			{{ end }}
+		{{ end }}
+
+		{{ if .Params.support_to }}
+			<h2>Supports and facilitates:</h2>
+			{{ $s := .Params.support_to}}
+			{{ range .Site.Pages }}
+				{{ if in $s .Params.eid }}
+					{{ partial "ex_quadrado_argument.html" . }}
+				{{ end }}
+			{{ end }}
+		{{ end }}
+
+		{{ if .Params.support_from }}
+			<h2>Supported and facilitated by:</h2>
+			{{ $s := .Params.support_from}}
+			{{ range .Site.Pages }}
+				{{ if in $s .Params.eid }}
+					{{ partial "ex_quadrado_argument.html" . }}
+				{{ end }}
 			{{ end }}
 		{{ end }}
 
@@ -143,6 +163,11 @@
 		{{- if .Params.flexibilities }}
 			{{ partial "post_flexibilities.html" . }}
 		{{- end }}
+
+
+<hr>
+
+[{{- .Params.eid }}]
 
 		</footer>
 

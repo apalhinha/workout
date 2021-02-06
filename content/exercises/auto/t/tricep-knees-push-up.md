@@ -4,5 +4,7 @@ draft: false
 title: "Tricep Knees Push-up"
 url: "/exercises/tricep-knees-push-up-workout-exercise"
 eid: "tricep-knee-pus"
+support_to: ["pus-tricep"]
+support_from: ["tricep-w-pus"]
 collections: ["Push-up Variations"]
 ---

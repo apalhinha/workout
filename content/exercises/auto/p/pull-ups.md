@@ -4,6 +4,7 @@ draft: false
 title: "Pull-ups"
 url: "/exercises/pull-ups-workout-exercise"
 eid: "pul"
+support_from: ["tricep-w-pus"]
 collections: ["Hanging"]
 equipment: ["Pull-up Bar"]
 muscles: ["Chest", "Shoulder", "Biceps", "Back"]
