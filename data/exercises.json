@@ -56,7 +56,7 @@
 },
 {
   "eid": "cru-raiseleg",
-  "name": "Raised Leg Crunches",
+  "name": "Raised Leg Crunch",
   "video": {
   "videoid": "yut42mEQXTk",
     "name": "Exercise Library: Raised Leg Crunches",
@@ -107,6 +107,17 @@
     "start": 28,
     "duration": 10,
     "author": "Global Bodyweight Training"
+  }
+},
+{
+  "eid": "cru",
+  "name": "Crunch",
+  "video": {
+  "videoid": "HiRsmHH7psA",
+    "name": "Exercise Library: Crunches",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
   }
 },
 {
