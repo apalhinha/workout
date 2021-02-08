@@ -87,28 +87,30 @@
 					</ul>
 				{{ end }}
 
-			{{ end }}
+				<!-- Muscles worked -->
+				{{ $au := slice }}
+				{{ range .Params.muscles }}
+		    	{{ $au = $au | append . }}
+				{{ end }}
+				{{ range .Params.mobilities }}
+		    	{{ $au = $au | append . }}
+				{{ end }}
+				{{ range .Params.flexibilities }}
+		    	{{ $au = $au | append . }}
+				{{ end }}
+				{{ $au = sort $au | uniq}}
+				{{ if $au }}
+					<p>Muscles and areas involved:
+						{{ range $i, $one_au := $au }}
+						  {{- if ne $i 0 -}}, {{end}}
+						  {{ . }}
+						{{ end }}
+					</p>
+				{{ end }}
+
+			{{ end }} <!-- Content -->
 		</div>
 
-		{{ $au := slice }}
-		{{ range .Params.muscles }}
-    	{{ $au = $au | append . }}
-		{{ end }}
-		{{ range .Params.mobilities }}
-    	{{ $au = $au | append . }}
-		{{ end }}
-		{{ range .Params.flexibilities }}
-    	{{ $au = $au | append . }}
-		{{ end }}
-		{{ $au = sort $au | uniq}}
-		{{ if $au }}
-			<p>Muscles and areas involved:
-				{{ range $i, $one_au := $au }}
-				  {{- if ne $i 0 -}}, {{end}}
-				  {{ . }}
-				{{ end }}
-			</p>
-		{{ end }}
 
 		{{ if or (.Params.similar) (.Params.oneway) }}
 			<h2>Similar or related exercises:</h2>

@@ -3,13 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://workout.mycontributes.online/muscles/abs/</loc>
+    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://workout.mycontributes.online/collections/</loc>
-    <lastmod>2021-02-05T00:24:30+01:00</lastmod>
+    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/exercises/crunch-workout-exercise/</loc>
+    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/collections/crunch-variations/</loc>
+    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://workout.mycontributes.online/</loc>
-    <lastmod>2021-02-05T00:24:30+01:00</lastmod>
+    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/muscles/</loc>
+    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/muscles/obliques/</loc>
+    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/exercises/raised-leg-crunch-workout-exercise/</loc>
+    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
   </url>
   
   <url>
@@ -38,17 +68,17 @@
   </url>
   
   <url>
-    <loc>http://workout.mycontributes.online/muscles/</loc>
-    <lastmod>2021-02-04T15:33:25+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://workout.mycontributes.online/exercises/close-grip-push-ups-workout-exercise/</loc>
     <lastmod>2021-02-01T19:03:19+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://workout.mycontributes.online/equipment/</loc>
+    <lastmod>2021-02-01T18:44:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/progressions/l-sit-preparation/</loc>
     <lastmod>2021-02-01T18:44:21+01:00</lastmod>
   </url>
   
@@ -80,11 +110,6 @@
   <url>
     <loc>http://workout.mycontributes.online/muscles/glutes/</loc>
     <lastmod>2021-02-01T13:34:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://workout.mycontributes.online/muscles/abs/</loc>
-    <lastmod>2021-02-01T12:09:34+01:00</lastmod>
   </url>
   
   <url>
@@ -128,7 +153,17 @@
   </url>
   
   <url>
+    <loc>http://workout.mycontributes.online/muscles/biceps/</loc>
+    <lastmod>2021-01-19T19:41:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://workout.mycontributes.online/exercises/chin-ups-workout-exercise/</loc>
+    <lastmod>2021-01-19T19:41:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://workout.mycontributes.online/muscles/forearms/</loc>
     <lastmod>2021-01-19T19:41:55+01:00</lastmod>
   </url>
   
@@ -158,11 +193,6 @@
   </url>
   
   <url>
-    <loc>http://workout.mycontributes.online/collections/crunch-variations/</loc>
-    <lastmod>2020-09-02T17:29:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://workout.mycontributes.online/exercises/tricep-push-up-workout-exercise/</loc>
     <lastmod>2020-09-02T17:23:27+01:00</lastmod>
   </url>
@@ -183,11 +213,6 @@
   </url>
   
   <url>
-    <loc>http://workout.mycontributes.online/muscles/biceps/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://workout.mycontributes.online/exercises/finger-wall-push-ups-workout-exercise/</loc>
     <lastmod>2020-07-22T09:45:39+01:00</lastmod>
   </url>
@@ -199,11 +224,6 @@
   
   <url>
     <loc>http://workout.mycontributes.online/flexibilities/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://workout.mycontributes.online/muscles/forearms/</loc>
     <lastmod>2020-07-22T09:45:39+01:00</lastmod>
   </url>
   
@@ -238,6 +258,11 @@
   </url>
   
   <url>
+    <loc>http://workout.mycontributes.online/collections/kick-friendly/</loc>
+    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://workout.mycontributes.online/categories/low-cardio/</loc>
     <lastmod>2020-07-22T09:45:39+01:00</lastmod>
   </url>
@@ -259,11 +284,6 @@
   
   <url>
     <loc>http://workout.mycontributes.online/exercises/push-ups-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://workout.mycontributes.online/exercises/raised-leg-crunches-workout-exercise/</loc>
     <lastmod>2020-07-22T09:45:39+01:00</lastmod>
   </url>
   
@@ -308,7 +328,7 @@
   </url>
   
   <url>
-    <loc>http://workout.mycontributes.online/progressions/l-sit-progression/</loc>
+    <loc>http://workout.mycontributes.online/progressions/floor-l-sit-progression/</loc>
     <lastmod>2020-07-11T12:01:45+01:00</lastmod>
   </url>
   

@@ -4,7 +4,7 @@ draft: false
 title: "One leg L-Sit"
 url: "/exercises/one-leg-l-sit-workout-exercise"
 eid: "ol-lsit"
-progressions: ["L-Sit Progression"]
-progressions_weight: 24
+progressions: ["L-Sit Preparation", "Floor L-Sit Progression"]
+progressions_weight: 1
 equipment: ["Paralettes"]
 ---
