@@ -44,7 +44,7 @@
 				{{ end }}
 
 				{{ if .Params.steps }}
-					<p>Step by step:</p>
+					<h2>Step by step:</h2>
 					<ol>
 						{{range .Params.steps}}
 						<li>
@@ -55,7 +55,7 @@
 				{{ end }}
 
 				{{ if .Params.hints }}
-					<p>Hints & tips:</p>
+					<h2>Hints & tips:</h2>
 					<ul>
 						{{range .Params.hints}}
 						<li>
@@ -66,7 +66,7 @@
 				{{ end }}
 
 				{{ if .Params.benefits }}
-					<p>Benefits:</p>
+					<h2>Benefits:</h2>
 					<ul>
 						{{range .Params.benefits}}
 						<li>
@@ -77,7 +77,7 @@
 				{{ end }}
 
 				{{ if .Params.counting }}
-					<p>Counting & gamification:</p>
+					<h2>Counting & gamification:</h2>
 					<ul>
 						{{range .Params.counting}}
 						<li>
@@ -177,7 +177,7 @@
 
 <hr>
 
-[{{- .Params.eid }}]
+<small>[{{- .Params.eid }}]</small>
 
 		</footer>
 

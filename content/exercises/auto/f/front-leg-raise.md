@@ -4,7 +4,8 @@ draft: false
 title: "Front leg raise"
 url: "/exercises/front-leg-raise-workout-exercise"
 eid: "f-leg-rais"
-similar: "front leg raises"
+similar: "leg raises"
+collections: ["Kick Friendly"]
 progressions: ["L-Sit Progression"]
 progressions_weight: 5
 muscles: ["Abs", "Hips", "Glutes"]
