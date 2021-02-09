@@ -22,9 +22,14 @@
 				{{ .Content }}
 			{{ else }}
 				{{ partial "ex_logo" .}}
-				{{ if .Params.description }}
-					<p>{{- .Params.description }}</p>
-				{{ end }}
+
+				<!--{{ if .Params.intro }}-->
+						{{range .Params.intro}}
+							<p>{{ . }}</p>
+						{{end}}
+				<!--{{ end }}-->
+
+
 				<!-- Video -->
 				{{ range (where $.Site.Data.exercises "eid" .Page.Params.eid) }}
 					<p>Video demonstration:</p>

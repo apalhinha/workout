@@ -4,7 +4,7 @@ draft: false
 title: "Push-ups"
 url: "/exercises/push-ups-workout-exercise"
 eid: "pus"
-description: "Push-ups is a complete exercise with main targets on chest, shoulders, triceps, but also working the core and back. Can be done anywhere as it requires no equipment. There are tons of variants aiming different results."
+intro: ["The Push-ups is a complete exercise with main targets on chest, shoulders, triceps, but also working the core and back.", "Can be done anywhere as it requires no equipment. There are tons of variants aiming different results.."]
 steps: ["Get down on all fours.", "Place hands slightly wider than your shoulders.", "Straighten arms and legs.", "Lower the body, the chest nearly touches the floor.", "Pause, then straight your arms and push back up."]
 hints: ["Keep your core engaged.", "Your back should follow a straight line."]
 benefits: ["Builds upper body strength.", "Engages lower back and abdominal muscles.", "Effective exercise to build muscle.", "Protect shoulders from injury.", "While activating large muscle groups, heart will work harder to deliver oxygen-rich blood and this activity results in an effective cardiovascular exercise."]

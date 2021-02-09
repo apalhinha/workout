@@ -23,12 +23,3 @@ Sometimes office-friendly exercises are needed, or easier ones, with a different
 For example, took me 2 or 3 months to do my first pull-up.
 In that period a couple of exercises helped me to gain the necessary strength on the related muscles.
 Sharing several collections of related exercises is our second goal.
-
-This goal is ***not served*** yet, there is no content about it.
-
-### Daily log for my own activities
-Making a personal log became an amazing tool to evaluate progress, compare to what I had a few weeks before, and motivate myself to procees.
-
-Keeping my own personal and daily log is the last goal on this site.
-
-This goal is ***not served*** yet, there is no content about it.
