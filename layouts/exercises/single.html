@@ -49,7 +49,7 @@
 				{{ end }}
 
 				{{ if .Params.steps }}
-					<h2>Step by step:</h2>
+					<h3>Step by step:</h3>
 					<ol>
 						{{range .Params.steps}}
 						<li>
@@ -60,7 +60,7 @@
 				{{ end }}
 
 				{{ if .Params.hints }}
-					<h2>Hints & tips:</h2>
+					<h3>Hints & tips:</h3>
 					<ul>
 						{{range .Params.hints}}
 						<li>
@@ -71,7 +71,7 @@
 				{{ end }}
 
 				{{ if .Params.benefits }}
-					<h2>Benefits:</h2>
+					<h3>Benefits:</h3>
 					<ul>
 						{{range .Params.benefits}}
 						<li>
@@ -82,7 +82,7 @@
 				{{ end }}
 
 				{{ if .Params.counting }}
-					<h2>Counting & gamification:</h2>
+					<h3>Counting & gamification:</h3>
 					<ul>
 						{{range .Params.counting}}
 						<li>
@@ -105,7 +105,7 @@
 				{{ end }}
 				{{ $au = sort $au | uniq}}
 				{{ if $au }}
-					<p>Muscles and areas involved:
+					<p>Muscles and body parts involved:
 						{{ range $i, $one_au := $au }}
 						  {{- if ne $i 0 -}}, {{end}}
 						  {{ . }}
@@ -118,7 +118,7 @@
 
 
 		{{ if or (.Params.similar) (.Params.oneway) }}
-			<h2>Similar or related exercises:</h2>
+			<h3>Similar or related exercises:</h3>
 		{{end}}
 
 		{{ if .Params.oneway }}
@@ -136,7 +136,7 @@
 		{{ end }}
 
 		{{ if .Params.support_to }}
-			<h2>Supports and facilitates:</h2>
+			<h3>Supports and facilitates:</h3>
 			{{ $s := .Params.support_to}}
 			{{ range .Site.Pages }}
 				{{ if in $s .Params.eid }}
@@ -146,7 +146,7 @@
 		{{ end }}
 
 		{{ if .Params.support_from }}
-			<h2>Supported and facilitated by:</h2>
+			<h3>Supported and facilitated by:</h3>
 			{{ $s := .Params.support_from}}
 			{{ range .Site.Pages }}
 				{{ if in $s .Params.eid }}
