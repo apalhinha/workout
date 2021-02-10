@@ -126,9 +126,21 @@
   "letter_end": "O"
 },
 {
+  "othername": "Passive Dead Hang",
+  "eid": "pul-dead",
+  "letter_start": "P",
+  "letter_end": ""
+},
+{
+  "othername": "Passive Hang",
+  "eid": "pul-dead",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Pike push-ups",
   "eid": "pike-pus",
-  "letter_start": "P",
+  "letter_start": "",
   "letter_end": ""
 },
 {
@@ -222,9 +234,15 @@
   "letter_end": "T"
 },
 {
+  "othername": "Wall Skull Cruchers",
+  "eid": "tricep-w-pus",
+  "letter_start": "W",
+  "letter_end": ""
+},
+{
   "othername": "Wall/floor L-Sit position",
   "eid": "w-lsit-pos",
-  "letter_start": "W",
+  "letter_start": "",
   "letter_end": "W"
 }
 ]
