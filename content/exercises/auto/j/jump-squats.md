@@ -5,6 +5,7 @@ progressions_weight: 30
 title: "Jump squats"
 url: "/exercises/jump-squats-workout-exercise"
 eid: "sqt-jmp"
+othernames: ["Squat Jumps"]
 collections: ["Squat Variations"]
 muscles: ["Quads", "Glutes", "Calves"]
 categories: ["Cardio"]

@@ -4,6 +4,7 @@ draft: false
 title: "Flex Hang"
 url: "/exercises/flex-hang-workout-exercise"
 eid: "pul-flex"
+similar: "hang"
 collections: ["Pull-up friendly", "Hanging"]
 equipment: ["Pull-up Bar"]
 muscles: ["Biceps", "Back", "Forearms"]

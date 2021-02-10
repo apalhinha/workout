@@ -29,6 +29,14 @@
 						{{end}}
 				<!--{{ end }}-->
 
+				{{ if .Params.othernames }}
+					<p>Other names:
+						{{ range $i, $v := .Params.othernames }}
+						  {{- if ne $i 0 -}}, {{end}}
+						  {{- $v -}}
+						{{ end }}
+					</p>
+				{{ end }}
 
 				<!-- Video -->
 				{{ range (where $.Site.Data.exercises "eid" .Page.Params.eid) }}

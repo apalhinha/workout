@@ -11,16 +11,57 @@
 	</div>
 	{{- end }}
 
-	{{- range $i, $e := (.Paginate (.Pages.ByTitle)).Pages }}
+	{{ range $i, $e := .Site.Data.othernames }}
+		{{ if $e.letter_start }}
+			<h3>{{- $e.letter_start}}</h3>
+			<p>
+		{{ end }}
+		{{ range where $.Data.Pages "Params.eid" $e.eid }}
+			<a href="{{ .RelPermalink }}" rel="bookmark">{{ $e.othername }}</a>
+		{{ end }}
 
+		{{ if eq $e.letter_end ""}}
+			/
+		{{ else }}
+			</p>
+		{{ end }}
+	{{ end }}
+
+
+<!--
+	{{ $di := dict }}
+	{{ $di := dict "z1" "Antonio" "b1" "Bernardo" }}
+	{{ $di2 := dict "z1" "Antunes" "b1" "Bentes" }}
+	{{ $di := merge $di (dict "m1" "Manuel") }}
+	{{ $di2 := merge $di2 (dict "m1" "Martins") }}
+	{{ $di := sort $di }}
+	{{ $di2 := sort $di2 }}
+	{{ range $k, $v := $di }}
+		<p>Nome {{ $v }} apelido {{ index $di2 $k }}</p>
+	{{ end }}
+
+	{{ .Scratch.SetInMap "nam" "Abc" "Abc"}}
+	{{ range .Pages }}
+		<p>{{ .Title }}</p>
+		{{ .Scratch.SetInMap "nn" "Def" "Def"}}
+	{{ end }}
+	<p>Here: {{ .Scratch.Get "nam" }}</p>
+
+	{{.Scratch.Set "let" "abc"}}
+	<p>Hardcoded: {{ .Scratch.Get "let"}}</p>
+
+-->
+
+<!--
+	<p>The list:</p>
+	{{- range $i, $e := (.Paginate (.Pages.ByTitle)).Pages }}
 		{{ if ne $i 0}}
 			/
 		{{end}}
-
-		<!-- {{- .Render "summary" }} -->
 		<a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
-
 	{{- end }}
+-->
+
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}

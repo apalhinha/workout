@@ -4,6 +4,7 @@ draft: false
 title: "Front leg raise"
 url: "/exercises/front-leg-raise-workout-exercise"
 eid: "f-leg-rais"
+othernames: ["Standing Leg Raise", "Standing Leg Lift"]
 similar: "leg raises"
 collections: ["Kick Friendly"]
 progressions: ["L-Sit Preparation"]

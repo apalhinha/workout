@@ -3,7 +3,7 @@ title: "Last updates"
 date: 2021-01-14T19:25:36+01:00
 draft: false
 ---
-We have {{< update_number >}} documented exercises. These are some of the latest ones:
+Some of the latest added exercises:
 {{< exercicio_logo "calfr">}}
 {{< exercicio_logo "stair">}}
 {{< exercicio_logo "pus">}}
@@ -21,7 +21,7 @@ We have {{< update_number >}} documented exercises. These are some of the latest
 
 <!--more-->
 
-Catalog was las updated on {{< update_date >}}.
+The catalog was las updated on {{< update_date >}}.
 
 Also, a few collections were rehearsed:
 1. For push-up lovers, a few [push-up variations](/collections/push-up-variations/)

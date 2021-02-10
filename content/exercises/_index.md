@@ -5,4 +5,4 @@ draft: false
 menu: footer
 ---
 
-Current exercise list:
+The exercise catalog contains {{< num_exercises >}} exercises, some known by multiple names. Data was updated on {{< update_date >}}.

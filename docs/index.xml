@@ -6,10 +6,19 @@
     <description>Recent content on Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Feb 2021 12:58:06 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 16:47:11 +0100</lastBuildDate>
     
 	<atom:link href="http://workout.mycontributes.online/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dead hang</title>
+      <link>http://workout.mycontributes.online/exercises/dead-hang-workout-exercise/</link>
+      <pubDate>Tue, 09 Feb 2021 16:47:11 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/exercises/dead-hang-workout-exercise/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crunch</title>
@@ -116,8 +125,7 @@
       <pubDate>Thu, 14 Jan 2021 19:25:36 +0100</pubDate>
       
       <guid>http://workout.mycontributes.online/blog/last-updates/</guid>
-      <description>&lt;p&gt;We have 25
- documented exercises. These are some of the latest ones:
+      <description>&lt;p&gt;Some of the latest added exercises:
 
 
 
@@ -405,11 +413,11 @@
     </item>
     
     <item>
-      <title>Dead hang</title>
-      <link>http://workout.mycontributes.online/exercises/dead-hang-workout-exercise/</link>
+      <title>Duplicate Dead hang</title>
+      <link>http://workout.mycontributes.online/exercises/active-dead-hang-workout-exercise/</link>
       <pubDate>Sun, 05 Jul 2020 17:35:15 +0100</pubDate>
       
-      <guid>http://workout.mycontributes.online/exercises/dead-hang-workout-exercise/</guid>
+      <guid>http://workout.mycontributes.online/exercises/active-dead-hang-workout-exercise/</guid>
       <description>&lt;p&gt;Hold in the Hanging Bar, stand there counting the number of seconds.&lt;/p&gt;</description>
     </item>
     

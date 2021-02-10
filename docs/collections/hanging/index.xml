@@ -6,10 +6,19 @@
     <description>Recent content in Hanging on Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2021 19:41:55 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 16:47:11 +0100</lastBuildDate>
     
 	<atom:link href="http://workout.mycontributes.online/collections/hanging/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dead hang</title>
+      <link>http://workout.mycontributes.online/exercises/dead-hang-workout-exercise/</link>
+      <pubDate>Tue, 09 Feb 2021 16:47:11 +0100</pubDate>
+      
+      <guid>http://workout.mycontributes.online/exercises/dead-hang-workout-exercise/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chin-ups</title>
@@ -48,11 +57,11 @@
     </item>
     
     <item>
-      <title>Dead hang</title>
-      <link>http://workout.mycontributes.online/exercises/dead-hang-workout-exercise/</link>
+      <title>Duplicate Dead hang</title>
+      <link>http://workout.mycontributes.online/exercises/active-dead-hang-workout-exercise/</link>
       <pubDate>Sun, 05 Jul 2020 17:35:15 +0100</pubDate>
       
-      <guid>http://workout.mycontributes.online/exercises/dead-hang-workout-exercise/</guid>
+      <guid>http://workout.mycontributes.online/exercises/active-dead-hang-workout-exercise/</guid>
       <description>&lt;p&gt;Hold in the Hanging Bar, stand there counting the number of seconds.&lt;/p&gt;</description>
     </item>
     
