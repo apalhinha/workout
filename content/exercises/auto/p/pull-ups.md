@@ -4,13 +4,8 @@ draft: false
 title: "Pull-ups"
 url: "/exercises/pull-ups-workout-exercise"
 eid: "pul"
+intro: ["The Pull-up is an upper body exercise, that works the biceps, triceps, forearms, wrists, grip strength, lats, shoulders, back and core. The first pull-up requires some trainning and preparation.."]
 collections: ["Hanging"]
 equipment: ["Pull-up Bar"]
 muscles: ["Chest", "Shoulder", "Biceps", "Back"]
 ---
-Hang on a pull-up bar with straigth arms and legs off the floor. Pull yourself until your chin passes the bar.
-<!--more-->
-
-The pull-up is a complete exercise for your chest, back, shoulder and biceps.
-
-{{< exvideo >}}

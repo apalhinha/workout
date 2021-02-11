@@ -113,10 +113,10 @@
 				{{ end }}
 				{{ $au = sort $au | uniq}}
 				{{ if $au }}
-					<p>Muscles and body parts involved:
+					<p>Muscles worked and body parts involved:
 						{{ range $i, $one_au := $au }}
 						  {{- if ne $i 0 -}}, {{end}}
-						  {{ . }}
+						  {{- . -}}
 						{{ end }}
 					</p>
 				{{ end }}

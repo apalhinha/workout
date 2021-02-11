@@ -8,7 +8,7 @@ intro: ["The chin-up is a variant of a pull-up, commonly named like this when it
 steps: ["Hang on a bar with you hands facing your self, in a relaxed position.", "Raise your body until your chin is above the bar.", "Lower yourself back down, in a slow and controlled movement."]
 hints: ["Fully extend your arm when in the lower position.", "Use the right form.", "If you cand do the exercise, adopt the assisted form or focus on preparation exercises."]
 benefits: ["Improve grip strength.", "Strengthen muscles that stabilize the spine, reducing back-pain risks."]
-counting: ["Count the number of reps in a given time (minute, day, week, ...).", "Set a goal for a long period, ensuring daily chin-ups.", "Evaluate progress by the number of consecutive repetitions."]
+counting: ["Count the number of reps in a given time (minute, day, week, ...)", "Set a goal for a long period, ensuring daily chin-ups.", "Evaluate progress by the number of consecutive repetitions."]
 similar: "pul"
 collections: ["Hanging"]
 equipment: ["Pull-up Bar"]

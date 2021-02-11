@@ -13,5 +13,5 @@ similar: "tricep pushup"
 oneway: "pus"
 support_from: ["tricep-knee-pus"]
 collections: ["Push-up Variations"]
-muscles: ["Triceps"]
+muscles: ["Shoulder", "Triceps"]
 ---
