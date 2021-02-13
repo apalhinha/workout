@@ -9,7 +9,6 @@ similar: "leg raises"
 collections: ["Kick Friendly"]
 progressions: ["L-Sit Preparation"]
 progressions_weight: 5
-muscles: ["Abs", "Hips", "Glutes"]
-mobilities: ["Hips"]
+muscles: ["Abs", "Glutes", "Hips"]
 flexibilities: ["Hips", "Harmstring"]
 ---

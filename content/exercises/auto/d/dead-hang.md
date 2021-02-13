@@ -13,7 +13,10 @@ othernames: ["Passive Hang", "Passive Dead Hang"]
 similar: "hang"
 oneway: "pul"
 collections: ["Pull-up friendly", "Hanging"]
+progressions: ["Pull-up progression"]
+progressions_weight: 1
+progressions_notes: "Strengthen your grip, forearms and shoulders"
 equipment: ["Pull-up Bar"]
-muscles: ["Shoulder", "Back", "Hand", "Forearms"]
-mobilities: ["Shoulder"]
+muscles: ["Shoulder", "Forearms", "Hand", "Upper Back"]
+flexibilities: ["Shoulder"]
 ---

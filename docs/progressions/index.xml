@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Progressions on Move, Exercise, Workout</title>
-    <link>http://workout.mycontributes.online/progressions/</link>
-    <description>Recent content in Progressions on Move, Exercise, Workout</description>
+    <title>Progressions on Be Fit, Move, Exercise, Workout</title>
+    <link>http://www.befit.space/progressions/</link>
+    <description>Recent content in Progressions on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Feb 2021 18:44:21 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 16:47:11 +0100</lastBuildDate>
     
-	<atom:link href="http://workout.mycontributes.online/progressions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.befit.space/progressions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Pull-up progression</title>
+      <link>http://www.befit.space/progressions/pull-up-progression/</link>
+      <pubDate>Tue, 09 Feb 2021 16:47:11 +0100</pubDate>
+      
+      <guid>http://www.befit.space/progressions/pull-up-progression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>L-Sit Preparation</title>
-      <link>http://workout.mycontributes.online/progressions/l-sit-preparation/</link>
+      <link>http://www.befit.space/progressions/l-sit-preparation/</link>
       <pubDate>Mon, 01 Feb 2021 18:44:21 +0100</pubDate>
       
-      <guid>http://workout.mycontributes.online/progressions/l-sit-preparation/</guid>
+      <guid>http://www.befit.space/progressions/l-sit-preparation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Floor L-Sit progression</title>
-      <link>http://workout.mycontributes.online/progressions/floor-l-sit-progression/</link>
+      <link>http://www.befit.space/progressions/floor-l-sit-progression/</link>
       <pubDate>Sat, 11 Jul 2020 12:01:45 +0100</pubDate>
       
-      <guid>http://workout.mycontributes.online/progressions/floor-l-sit-progression/</guid>
+      <guid>http://www.befit.space/progressions/floor-l-sit-progression/</guid>
       <description>A small set of exercises which will help you progressing towards the floor L-Sit. This L-Sit progression shows the 6 mandatory achievements you need for an L-Sit, a compact sequence.
 You should also see the L-Sit Preparation list, an extensive collection of L-Sit friendly exercises</description>
     </item>

@@ -1,7 +1,7 @@
 ---
 date: 2021-01-30T18:35:47+01:00
-draft: false
 progressions_weight: 30
+draft: false
 title: "Jump squats"
 url: "/exercises/jump-squats-workout-exercise"
 eid: "sqt-jmp"
@@ -13,7 +13,7 @@ counting: ["Count sequences of 10 Reps, you should do 2 or 3 sets.", "If you hav
 othernames: ["Squat Jumps"]
 similar: "jump-squats"
 collections: ["Squat Variations"]
-muscles: ["Hips", "Quads", "Glutes", "Calves"]
-mobilities: ["Hips"]
+muscles: ["Glutes", "Hips", "Quads", "Calves"]
+flexibilities: ["Hips"]
 categories: ["Cardio", "Plyometrics"]
 ---

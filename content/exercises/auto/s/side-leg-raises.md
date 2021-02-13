@@ -11,6 +11,6 @@ counting: ["Make series of 10 in specific moments of the day, such as when prepa
 othernames: ["Standing Side Leg Raises"]
 similar: "leg raises"
 collections: ["Kick Friendly"]
-muscles: ["Hips", "Quads", "Glutes", "Adductor"]
-mobilities: ["Harmstring"]
+muscles: ["Glutes", "Hips", "Quads", "Abductor"]
+flexibilities: ["Hips"]
 ---

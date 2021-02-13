@@ -2,5 +2,6 @@ copy docs\CNAME .
 cd docs
 rm -R *
 cd ..
-echo workout.mycontributes.online  > docs\CNAME
+@rem echo workout.mycontributes.online  > docs\CNAME
+echo www.befit.space > docs\CNAME
 hugo

@@ -11,5 +11,5 @@ counting: ["Set a goal for all push-up variants, arrange a list of them to ensur
 othernames: ["One Leg Push-up"]
 oneway: "pus"
 collections: ["Push-up Variations"]
-muscles: ["Chest", "Shoulder", "Abs", "Back"]
+muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]
 ---

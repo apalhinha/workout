@@ -11,6 +11,9 @@ benefits: ["Great preparation for the regular pull-up.", "improves grip strength
 counting: ["Measure the number of seconds you take coming down. The longer the better. Count 'hanging exercises' in a period and include this one in your list."]
 oneway: "pul"
 collections: ["Pull-up friendly", "Hanging"]
+progressions: ["Pull-up progression"]
+progressions_weight: 3
+progressions_notes: "Work all muscles needed"
 equipment: ["Pull-up Bar"]
-muscles: ["Biceps", "Back", "Lats"]
+muscles: ["Biceps", "Upper Back", "Lats"]
 ---

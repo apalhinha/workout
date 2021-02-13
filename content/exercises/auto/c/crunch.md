@@ -11,5 +11,5 @@ benefits: ["Strengthen abdominal muscles and obliques.", "Strong abs are the fou
 counting: ["Create the habit of doing some crunch-series right after warmup and before your regular workout.", "Get a list of crunch variations, ensure some variation on your daily routine with a rigid number of reps, say 20 than 30 and so on."]
 similar: "crunch"
 collections: ["Crunch Variations"]
-muscles: ["Abs", "Obliques"]
+muscles: ["Obliques", "Abs"]
 ---

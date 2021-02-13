@@ -11,5 +11,5 @@ benefits: ["Builds upper body strength.", "Engages lower back and abdominal musc
 counting: ["Perform one or two daily series, increase the series repetitions once a week.", "Set a goal for a month or year period, record your repetitions to reach that goal."]
 othernames: ["Chest press-up", "Chest Press"]
 collections: ["Push-up Variations"]
-muscles: ["Chest", "Shoulder", "Abs", "Back"]
+muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]
 ---

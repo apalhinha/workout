@@ -1,10 +1,11 @@
-baseURL = "http://workout.mycontributes.online/"
+baseURL = "http://www.befit.space/"
 languageCode = "en-us"
-title = "Move, Exercise, Workout"
+title = "Be Fit, Move, Exercise, Workout"
 theme = "mainroad"
 publishDir = "docs"
 paginate= 100
-googleAnalytics = "UA-170110346-1" # Enable Google Analytics by entering your tracking id
+#googleAnalytics = "UA-170110346-1" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "G-78H173KSG5" # Wonder if this works
 
 
 [Params]

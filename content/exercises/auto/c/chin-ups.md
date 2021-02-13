@@ -12,5 +12,5 @@ counting: ["Count the number of reps in a given time (minute, day, week, ...)", 
 similar: "pul"
 collections: ["Hanging"]
 equipment: ["Pull-up Bar"]
-muscles: ["Shoulder", "Biceps", "Back", "Forearms"]
+muscles: ["Shoulder", "Biceps", "Forearms", "Upper Back"]
 ---

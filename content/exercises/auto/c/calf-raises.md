@@ -11,4 +11,5 @@ benefits: ["Strong calves stabilize your feet and ankle.", "Lower body performan
 counting: ["Count moves along the day.", "Set a goal for 20 consecutive days, restart counting the days if the daily goal is missed."]
 similar: "calves"
 muscles: ["Calves"]
+flexibilities: ["Calves"]
 ---

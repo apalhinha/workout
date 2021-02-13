@@ -6,6 +6,9 @@ url: "/exercises/flex-hang-workout-exercise"
 eid: "pul-flex"
 similar: "hang"
 collections: ["Pull-up friendly", "Hanging"]
+progressions: ["Pull-up progression"]
+progressions_weight: 2
+progressions_notes: "Prepare your biceps"
 equipment: ["Pull-up Bar"]
-muscles: ["Biceps", "Back", "Forearms"]
+muscles: ["Biceps", "Forearms", "Upper Back"]
 ---

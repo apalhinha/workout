@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maintenances on Move, Exercise, Workout</title>
-    <link>http://workout.mycontributes.online/maintenance/</link>
-    <description>Recent content in Maintenances on Move, Exercise, Workout</description>
+    <title>Maintenances on Be Fit, Move, Exercise, Workout</title>
+    <link>http://www.befit.space/maintenance/</link>
+    <description>Recent content in Maintenances on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jul 2020 09:11:42 +0100</lastBuildDate>
     
-	<atom:link href="http://workout.mycontributes.online/maintenance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.befit.space/maintenance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Missing Thumbnails</title>
-      <link>http://workout.mycontributes.online/maintenance/missingpic/</link>
+      <link>http://www.befit.space/maintenance/missingpic/</link>
       <pubDate>Mon, 20 Jul 2020 09:11:42 +0100</pubDate>
       
-      <guid>http://workout.mycontributes.online/maintenance/missingpic/</guid>
+      <guid>http://www.befit.space/maintenance/missingpic/</guid>
       <description>&lt;p&gt;Listing of exercise files without a thumbnail.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Extra Files</title>
-      <link>http://workout.mycontributes.online/maintenance/extrafiles/</link>
+      <link>http://www.befit.space/maintenance/extrafiles/</link>
       <pubDate>Sat, 11 Jul 2020 09:11:42 +0100</pubDate>
       
-      <guid>http://workout.mycontributes.online/maintenance/extrafiles/</guid>
+      <guid>http://www.befit.space/maintenance/extrafiles/</guid>
       <description>&lt;p&gt;Listing of exercise files not coming from the database:&lt;/p&gt;</description>
     </item>
     

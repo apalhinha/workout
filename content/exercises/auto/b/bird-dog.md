@@ -4,5 +4,5 @@ draft: false
 title: "Bird dog"
 url: "/exercises/bird-dog-workout-exercise"
 eid: "bird-dog"
-muscles: ["Back", "Glutes"]
+muscles: ["Upper Back", "Glutes"]
 ---
