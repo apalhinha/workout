@@ -1,6 +1,6 @@
 {{- if .Params.categories }}
 <div class="post__tags tags clearfix">
-	{{ partial "svg/tag.svg" (dict "class" "tags__badge") }}
+	{{ partial "svg/category.svg" (dict "class" "tags__badge") }}
 	<ul class="tags__list">
 		{{- range .Params.categories }}
 		<li class="tags__item">

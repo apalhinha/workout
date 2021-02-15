@@ -1,0 +1,10 @@
+<svg class="{{ with .class }}{{ . }} {{ end }}icon icon-tag" width="16" height="16" viewBox="0 0 32 32">
+
+<!--  <path style="fill-opacity: 0; stroke: rgb(255, 255, 255" d=""/> -->
+<!-- Encarnado: 226, 45, 48 -->
+
+
+<path style="stroke-linecap: round; stroke: rgb(226, 45, 48); fill: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 3px;" d="M 1.463 3.402 L 1.359 28.838 L 26.092 28.523 C 26.092 28.523 26.232 5.648 26.197 5.613 C 26.162 5.578 10.058 6.104 10.058 6.104 L 10.023 3.262 L 1.534 3.437"/>
+<path style="stroke-linecap: round; stroke: rgb(226, 45, 48); fill: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 3px;" d="M 1.517 28.751 L 7.482 12.683 L 30.742 11.911 L 26.223 28.329 L 1.517 28.751 Z"/>
+
+</svg>

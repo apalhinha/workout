@@ -77,6 +77,17 @@
   }
 },
 {
+  "eid": "o19",
+  "name": "Flutter Kicks",
+  "video": {
+  "videoid": "WRnq49TAv-w",
+    "name": "Exercise Library: Flutter Kicks",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "neg-pul",
   "name": "Negative Pullups",
   "video": {
