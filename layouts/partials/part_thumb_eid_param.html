@@ -1,0 +1,26 @@
+
+<div style="display: inline-block; text-align: center; width: 150px;" >
+<!-- border-style: solid -->
+  <div style="text-align: center;">
+
+    <a href="{{.page.RelPermalink}}">
+      {{ $imagepage := .Site.GetPage "fakestatic/allimages/index.md" }}
+      {{ $folder := substr .eid 0 1 }}
+      {{ $imagename := printf "%s/%s.png" $folder .eid }}
+      {{ $image := .imagepage.Resources.GetMatch $imagename }}
+      {{ if $image }}
+<!--        <p>[{{- $image.RelPermalink }}]</p> -->
+        {{ $i := $image.Resize "150x" }}
+        <img src="{{- $i.RelPermalink }}" alt="{{- .page.Title}} icon" width="{{ $i.Width }}" height="{{ $i.Height }}" style="">
+      {{ else }}
+        <p>...</p>
+      {{ end }}
+    </a>
+  </div>
+  <div style="display: inline-block; vertical-align: top; text-align: center;">
+      <a href="{{.page.Permalink}}">{{.page.Title}}</a>
+  </div>
+
+  <br><br>
+
+</div>

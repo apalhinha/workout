@@ -9,7 +9,10 @@ steps: ["Stand up straight, eventually holding to something.", "Raise your heels
 hints: ["You can hold on a chair or wall for balance.", "Holding weights (bags or dumbbells) will make the exercise more effective.", "Calf raises can easily be done while in the morning mirror, or in front of the TV."]
 benefits: ["Strong calves stabilize your feet and ankle.", "Lower body performance frequently depends on calves, strength them will make a difference.", "Advantage or explosiveness in sprinting.", "Protect knees on jumps, burpees and any impact actions."]
 counting: ["Count moves along the day.", "Set a goal for 20 consecutive days, restart counting the days if the daily goal is missed."]
+number: 3
 similar: "calves"
+OrderFull_Next: "stair"
+OrderFull_Last: "neg-pul"
 muscles: ["Calves"]
 flexibilities: ["Calves"]
 ---

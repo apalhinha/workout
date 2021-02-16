@@ -9,6 +9,11 @@ steps: ["Lie down on your back.", "Place your hands behind your head.", "Bring y
 hints: ["Avoid moving or swinging your legs.", "Cross your legs if you have difficulties keeping then steady.", "The movement should come from contracting the abs, not swaying your body."]
 benefits: ["Strong abs are the foundation of many daily moves such as carrying any object or just raising yourself.", "A strong core is a requisite for many exercises.", "This variant of the crunch increases the impact on affected muscles."]
 counting: ["Get a list of crunch variations, ensure some variation on your daily routine with a rigid number of reps, say 20 than 30 and so on."]
+number: 8
 similar: "crunch"
+OrderFull_Prev: "s-l-rais"
+OrderFull_First: "calfr"
+OrderFull_Next: "chin"
+OrderFull_Last: "neg-pul"
 collections: ["Crunch Variations"]
 ---

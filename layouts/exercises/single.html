@@ -192,7 +192,40 @@
 
 <hr>
 
-<small>[{{- .Params.eid }}]</small>
+{{ if or (.Params.OrderFull_First) (.Params.OrderFull_Last) }}
+	Scan all exercises:<br>
+	<p>
+	{{ if .Params.OrderFull_First }}
+		{{range (where .Site.Pages ".Params.eid" .Params.OrderFull_First )}}
+			<a href="{{.RelPermalink}}"><<</a>
+		{{ end }}
+		|
+	{{ end }}
+	{{ if .Params.OrderFull_Prev }}
+		{{range (where .Site.Pages ".Params.eid" .Params.OrderFull_Prev )}}
+			<a href="{{.RelPermalink}}"><{{.Title}}</a>
+		{{ end }}
+		|
+	{{ end }}
+	{{.Title}}
+	{{ if .Params.OrderFull_Next }}
+		|
+		{{range (where .Site.Pages ".Params.eid" .Params.OrderFull_Next )}}
+			<a href="{{.RelPermalink}}">{{.Title}}></a>
+		{{ end }}
+	{{ end }}
+	{{ if .Params.OrderFull_Last }}
+		|
+		{{range (where .Site.Pages ".Params.eid" .Params.OrderFull_Last )}}
+			<a href="{{.RelPermalink}}">>></a>
+		{{ end }}
+	{{ end }}
+	</p>
+{{ end }}
+
+<p>
+<small>[{{- if .Params.number}}{{- .Params.number}}/{{- end}}{{- .Params.eid }}]</small>
+</p>
 
 		</footer>
 

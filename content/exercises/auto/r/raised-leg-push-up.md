@@ -9,7 +9,12 @@ steps: ["Get down on all fours.", "Place hands slightly wider than your shoulder
 benefits: ["Same as the regular push-up (strength, build muscle, cardio effort) with stronger core engagement."]
 counting: ["Set a goal for all push-up variants, arrange a list of them to ensure many are tried."]
 othernames: ["One Leg Push-up"]
+number: 6
 oneway: "pus"
+OrderFull_Prev: "pus"
+OrderFull_First: "calfr"
+OrderFull_Next: "s-l-rais"
+OrderFull_Last: "neg-pul"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]
 ---

@@ -1,0 +1,7 @@
+
+{{range $i, $v := ((where .Site.Pages ".Params.number" ">" 0 ).ByParam "number").Reverse }}
+  {{ if le $i 7 }}
+    {{ $imagepage := .Site.GetPage "fakestatic/allimages/index.md" }}
+    {{partial "part_thumb_eid_param.html" (dict "page" . "eid" .Params.eid "imagepage" $imagepage) }}
+  {{ end }}
+{{ end }}
