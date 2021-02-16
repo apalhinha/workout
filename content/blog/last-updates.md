@@ -4,8 +4,8 @@ date: 2021-01-14T19:25:36+01:00
 draft: false
 ---
 Some of the latest added exercises:
-{{< exercicio_logo "calfr">}}
-{{< exercicio_logo "stair">}}
+{{< exercicio_logo "pul">}}
+{{< exercicio_logo "pul-dead">}}
 {{< exercicio_logo "pus">}}
 {{< exercicio_logo "r-leg-pus">}}
 <!--more-->
