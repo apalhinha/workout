@@ -1,8 +1,8 @@
 ---
-date: 2020-07-22T09:45:39+01:00
+date: 2021-02-18T09:31:11+01:00
 draft: false
-title: "Push-ups"
-url: "/exercises/push-ups-workout-exercise"
+title: "Push-up"
+url: "/exercises/push-up-workout-exercise"
 eid: "pus"
 intro: ["The Push-ups is a complete exercise with main targets on chest, shoulders, triceps, but also working the core and back.", "Can be done anywhere as it requires no equipment. There are tons of variants aiming different results."]
 steps: ["Get down on all fours.", "Place hands slightly wider than your shoulders.", "Straighten arms and legs.", "Lower the body, the chest nearly touches the floor.", "Pause, then straight your arms and push back up."]

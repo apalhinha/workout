@@ -207,7 +207,7 @@
 		{{ end }}
 		|
 	{{ end }}
-	{{.Title}}
+	<b>{{.Title}}</b>
 	{{ if .Params.OrderFull_Next }}
 		|
 		{{range (where .Site.Pages ".Params.eid" .Params.OrderFull_Next )}}

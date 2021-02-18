@@ -1,7 +1,7 @@
 ---
-date: 2021-02-01T12:09:34+01:00
+date: 2021-02-18T09:31:11+01:00
 draft: false
-title: "Raised leg push-up"
+title: "Raised Leg Push-up"
 url: "/exercises/raised-leg-push-up-workout-exercise"
 eid: "r-leg-pus"
 intro: ["Doing push-ups with one raised leg empathizes the core and abs use. Similar to the push-up it is a great exercise for chest, shoulders, triceps, back and core."]
@@ -13,7 +13,7 @@ number: 6
 oneway: "pus"
 OrderFull_Prev: "pus"
 OrderFull_First: "calfr"
-OrderFull_Next: "s-l-rais"
+OrderFull_Next: "s-leg-rais"
 OrderFull_Last: "neg-pul"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]

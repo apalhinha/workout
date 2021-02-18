@@ -1,38 +1,8 @@
 [
 {
-  "othername": "Air bike crunches",
-  "eid": "air-bike-cru",
-  "letter_start": "A",
-  "letter_end": "A"
-},
-{
-  "othername": "Bicycle crunch",
-  "eid": "air-bike-cru",
-  "letter_start": "B",
-  "letter_end": ""
-},
-{
-  "othername": "Bike crunch",
-  "eid": "air-bike-cru",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Bird dog",
-  "eid": "bird-dog",
-  "letter_start": "",
-  "letter_end": "B"
-},
-{
-  "othername": "Calf Raises Hold",
-  "eid": "calfr-h",
-  "letter_start": "C",
-  "letter_end": ""
-},
-{
-  "othername": "Calf raises",
+  "othername": "Calf Raises",
   "eid": "calfr",
-  "letter_start": "",
+  "letter_start": "C",
   "letter_end": ""
 },
 {
@@ -48,67 +18,13 @@
   "letter_end": ""
 },
 {
-  "othername": "Chin-ups",
+  "othername": "Chin-up",
   "eid": "chin",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Close grip push-ups",
-  "eid": "close-g-pus",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Crunch",
-  "eid": "cru",
   "letter_start": "",
   "letter_end": "C"
 },
 {
-  "othername": "Dead hang",
-  "eid": "pul-dead",
-  "letter_start": "D",
-  "letter_end": ""
-},
-{
-  "othername": "Diamond Push-up",
-  "eid": "close-g-pus",
-  "letter_start": "",
-  "letter_end": "D"
-},
-{
-  "othername": "Finger Wall Push-ups",
-  "eid": "fg-w-pus",
-  "letter_start": "F",
-  "letter_end": ""
-},
-{
-  "othername": "Flex Hang",
-  "eid": "pul-flex",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Front leg raise",
-  "eid": "f-leg-rais",
-  "letter_start": "",
-  "letter_end": "F"
-},
-{
-  "othername": "Jump squats",
-  "eid": "sqt-jmp",
-  "letter_start": "J",
-  "letter_end": "J"
-},
-{
-  "othername": "L-Sit Leg Extension",
-  "eid": "ol-lsit",
-  "letter_start": "L",
-  "letter_end": "L"
-},
-{
-  "othername": "Negative Pullups",
+  "othername": "Negative Pull-up",
   "eid": "neg-pul",
   "letter_start": "N",
   "letter_end": "N"
@@ -117,42 +33,12 @@
   "othername": "One Leg Push-up",
   "eid": "r-leg-pus",
   "letter_start": "O",
-  "letter_end": ""
-},
-{
-  "othername": "One leg L-Sit",
-  "eid": "ol-lsit",
-  "letter_start": "",
   "letter_end": "O"
 },
 {
-  "othername": "Passive Dead Hang",
-  "eid": "pul-dead",
-  "letter_start": "P",
-  "letter_end": ""
-},
-{
-  "othername": "Passive Hang",
-  "eid": "pul-dead",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Pike push-ups",
-  "eid": "pike-pus",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Pull-ups",
-  "eid": "pul",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Push-ups",
+  "othername": "Push-up",
   "eid": "pus",
-  "letter_start": "",
+  "letter_start": "P",
   "letter_end": "P"
 },
 {
@@ -162,21 +48,15 @@
   "letter_end": ""
 },
 {
-  "othername": "Raised leg push-up",
+  "othername": "Raised Leg Push-up",
   "eid": "r-leg-pus",
   "letter_start": "",
   "letter_end": "R"
 },
 {
-  "othername": "Side leg raises",
-  "eid": "s-l-rais",
+  "othername": "Side Leg Raises",
+  "eid": "s-leg-rais",
   "letter_start": "S",
-  "letter_end": ""
-},
-{
-  "othername": "Squat Jumps",
-  "eid": "sqt-jmp",
-  "letter_start": "",
   "letter_end": ""
 },
 {
@@ -186,63 +66,9 @@
   "letter_end": ""
 },
 {
-  "othername": "Standing Leg Lift",
-  "eid": "f-leg-rais",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Standing Leg Raise",
-  "eid": "f-leg-rais",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
   "othername": "Standing Side Leg Raises",
-  "eid": "s-l-rais",
+  "eid": "s-leg-rais",
   "letter_start": "",
   "letter_end": "S"
-},
-{
-  "othername": "Tiger Pushup",
-  "eid": "pus-tricep",
-  "letter_start": "T",
-  "letter_end": ""
-},
-{
-  "othername": "Tricep Knees Push-up",
-  "eid": "tricep-knee-pus",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Tricep Push-up",
-  "eid": "pus-tricep",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Tricep extension Push-up",
-  "eid": "pus-tricep",
-  "letter_start": "",
-  "letter_end": ""
-},
-{
-  "othername": "Tricep wall push-up",
-  "eid": "tricep-w-pus",
-  "letter_start": "",
-  "letter_end": "T"
-},
-{
-  "othername": "Wall Skull Cruchers",
-  "eid": "tricep-w-pus",
-  "letter_start": "W",
-  "letter_end": ""
-},
-{
-  "othername": "Wall/floor L-Sit position",
-  "eid": "w-lsit-pos",
-  "letter_start": "",
-  "letter_end": "W"
 }
 ]

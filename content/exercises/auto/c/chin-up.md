@@ -1,8 +1,8 @@
 ---
-date: 2021-01-19T19:41:55+01:00
+date: 2021-02-18T09:31:11+01:00
 draft: false
-title: "Chin-ups"
-url: "/exercises/chin-ups-workout-exercise"
+title: "Chin-up"
+url: "/exercises/chin-up-workout-exercise"
 eid: "chin"
 intro: ["The chin-up is a variant of a pull-up, commonly named like this when it is performed with the palm of your hands toward your face.", "Sometimes you will find organizations that use the term pull-up interchangeably to refer to both the overhand and underhand grips. Most typically, chin-up is executed with the palm toward you, and pull-up with the palm facing away."]
 steps: ["Hang on a bar with you hands facing your self, in a relaxed position.", "Raise your body until your chin is above the bar.", "Lower yourself back down, in a slow and controlled movement."]

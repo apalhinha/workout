@@ -1,7 +1,7 @@
 [
 {
   "eid": "calfr",
-  "name": "Calf raises",
+  "name": "Calf Raises",
   "video": {
   "videoid": "UV8gOrHmuKc",
     "name": "Exercise Library: Calf Raises",
@@ -23,7 +23,7 @@
 },
 {
   "eid": "pus",
-  "name": "Push-ups",
+  "name": "Push-up",
   "video": {
   "videoid": "v9LABVJzv8A",
     "name": "Exercise Library: Push-Ups",
@@ -34,7 +34,7 @@
 },
 {
   "eid": "r-leg-pus",
-  "name": "Raised leg push-up",
+  "name": "Raised Leg Push-up",
   "video": {
   "videoid": "XA8T_bHHkl0",
     "name": "Exercise Library: Raised Leg Push-Ups",
@@ -44,8 +44,8 @@
   }
 },
 {
-  "eid": "s-l-rais",
-  "name": "Side leg raises",
+  "eid": "s-leg-rais",
+  "name": "Side Leg Raises",
   "video": {
   "videoid": "H8RrfDOLiZU",
     "name": "Exercise Library: Side Leg Raises",
@@ -67,7 +67,7 @@
 },
 {
   "eid": "chin",
-  "name": "Chin-ups",
+  "name": "Chin-up",
   "video": {
   "videoid": "qV7vOUcUfD4",
     "name": "How To Do CHIN-UPS: The Fifth Lift",
@@ -78,200 +78,13 @@
 },
 {
   "eid": "neg-pul",
-  "name": "Negative Pullups",
+  "name": "Negative Pull-up",
   "video": {
   "videoid": "0f3wkcdmVN8",
     "name": "How To Do a Negative Pull-Up | Exercise Guide",
     "start": 113,
     "duration": 27,
     "author": "Bodybuilding.com"
-  }
-},
-{
-  "eid": "pul-dead",
-  "name": "Dead hang",
-  "video": {
-  "videoid": "sRshX8wYOOI",
-    "name": "The Dead Hang",
-    "start": 3,
-    "duration": 10,
-    "author": "Testosterone Nation"
-  }
-},
-{
-  "eid": "pus-tricep",
-  "name": "Tricep Push-up",
-  "video": {
-  "videoid": "VYgVTinbx_A",
-    "name": "Bodyweight Tricep Extension Tutorial",
-    "start": 28,
-    "duration": 10,
-    "author": "Global Bodyweight Training"
-  }
-},
-{
-  "eid": "cru",
-  "name": "Crunch",
-  "video": {
-  "videoid": "HiRsmHH7psA",
-    "name": "Exercise Library: Crunches",
-    "start": 1,
-    "duration": 10,
-    "author": "Darebee"
-  }
-},
-{
-  "eid": "sqt-jmp",
-  "name": "Jump squats",
-  "video": {
-  "videoid": "bv7as8mDXLQ",
-    "name": "Exercise Library: Jump Squats",
-    "start": 1,
-    "duration": 10,
-    "author": "Darebee"
-  }
-},
-{
-  "eid": "pul",
-  "name": "Pull-ups",
-  "video": {
-  "videoid": "d0ZR1Df59a4",
-    "name": "Can't do Pull-Ups ?? Watch This Video",
-    "start": 25,
-    "duration": 10,
-    "author": "Gregory Scott Fitness"
-  }
-},
-{
-  "eid": "close-g-pus",
-  "name": "Close grip push-ups",
-  "video": {
-  "videoid": "SwoNNo4W1OU",
-    "name": "Exercise Library: Push-Ups / Close Grip",
-    "start": 1,
-    "duration": 10,
-    "author": "Darebee"
-  }
-},
-{
-  "eid": "air-bike-cru",
-  "name": "Air bike crunches",
-  "video": {
-  "videoid": "jKT7-9L935g",
-    "name": "Exercise Library: Air Bike Crunches",
-    "start": 1,
-    "duration": 10,
-    "author": "Darebee"
-  }
-},
-{
-  "eid": "pike-pus",
-  "name": "Pike push-ups",
-  "video": {
-  "videoid": "sposDXWEB0A",
-    "name": "The Pike Push-Up Tutorial",
-    "start": 22,
-    "duration": 25,
-    "author": "Global Bodyweight Training"
-  }
-},
-{
-  "eid": "calfr-h",
-  "name": "Calf Raises Hold",
-  "video": {
-  "videoid": "uT0_UteBwAI",
-    "name": "Calf Raise Hold",
-    "start": 3,
-    "duration": 20,
-    "author": "Goliaz HIIT"
-  }
-},
-{
-  "eid": "f-leg-rais",
-  "name": "Front leg raise",
-  "video": {
-  "videoid": "8kr91qSn3OM",
-    "name": "How to Do a Standing Leg Lift | Thighs Workout",
-    "start": 25,
-    "duration": 8,
-    "author": "Howcast"
-  }
-},
-{
-  "eid": "tricep-w-pus",
-  "name": "Tricep wall push-up",
-  "video": {
-  "videoid": "f-ez1Tzehas",
-    "name": "wall tricep push up",
-    "start": 1,
-    "duration": 10,
-    "author": "360 Fitness Personal Training Red Deer"
-  }
-},
-{
-  "eid": "bird-dog",
-  "name": "Bird dog",
-  "video": {
-  "videoid": "k2azbhhuKuM",
-    "name": "Bird Dog Exercise",
-    "start": 11,
-    "duration": 10,
-    "author": "National Training Center - Clermont, FL"
-  }
-},
-{
-  "eid": "tricep-knee-pus",
-  "name": "Tricep Knees Push-up",
-  "video": {
-  "videoid": "Qz1NlN2OPYw",
-    "name": "Tricep Push Up (Lv 1)",
-    "start": 2,
-    "duration": 10,
-    "author": "FitnessBlender"
-  }
-},
-{
-  "eid": "fg-w-pus",
-  "name": "Finger Wall Push-ups",
-  "video": {
-  "videoid": "Xq9H32JLTOY",
-    "name": "Wall Fingertips Push Up",
-    "start": 1,
-    "duration": 5,
-    "author": "Workout Freaks"
-  }
-},
-{
-  "eid": "pul-flex",
-  "name": "Flex Hang",
-  "video": {
-  "videoid": "zNXE1cRva9Y",
-    "name": "Flexed Arm Hang Practice",
-    "start": 66,
-    "duration": 10,
-    "author": "Old City CrossFit"
-  }
-},
-{
-  "eid": "w-lsit-pos",
-  "name": "Wall/floor L-Sit position",
-  "video": {
-  "videoid": "izOLJOQ9MzM",
-    "name": "SSC Challenge Series: Wall L-Sit",
-    "start": 10,
-    "duration": 19,
-    "author": "Strong Side Conditioning"
-  }
-},
-{
-  "eid": "ol-lsit",
-  "name": "One leg L-Sit",
-  "video": {
-  "videoid": "Q3D7eWdkctw",
-    "name": "Parallettes for Beginners | Exercise Collection",
-    "start": 162,
-    "duration": 7,
-    "author": "Mani the Monkey"
   }
 }
 ]

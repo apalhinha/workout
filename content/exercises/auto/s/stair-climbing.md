@@ -1,5 +1,5 @@
 ---
-date: 2020-07-22T09:45:39+01:00
+date: 2021-02-18T09:31:11+01:00
 draft: false
 title: "Stair Climbing"
 url: "/exercises/stair-climbing-workout-exercise"

@@ -1,5 +1,5 @@
 ---
-date: 2021-02-07T12:58:06+01:00
+date: 2021-02-18T09:31:11+01:00
 draft: false
 title: "Raised Leg Crunch"
 url: "/exercises/raised-leg-crunch-workout-exercise"
@@ -11,7 +11,7 @@ benefits: ["Strong abs are the foundation of many daily moves such as carrying a
 counting: ["Get a list of crunch variations, ensure some variation on your daily routine with a rigid number of reps, say 20 than 30 and so on."]
 number: 8
 similar: "crunch"
-OrderFull_Prev: "s-l-rais"
+OrderFull_Prev: "s-leg-rais"
 OrderFull_First: "calfr"
 OrderFull_Next: "chin"
 OrderFull_Last: "neg-pul"

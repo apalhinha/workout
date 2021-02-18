@@ -1,9 +1,9 @@
 ---
-date: 2020-07-22T09:45:39+01:00
+date: 2021-02-18T09:31:11+01:00
 draft: false
-title: "Side leg raises"
+title: "Side Leg Raises"
 url: "/exercises/side-leg-raises-workout-exercise"
-eid: "s-l-rais"
+eid: "s-leg-rais"
 intro: ["Simple exercise for the glutes and core without space or floor requisites."]
 steps: ["Stand with your feet shoulder-width apart.", "Raise one leg to the side, waist high, while inhaling.", "Hold the top position for one or two seconds.", "Bring the leg down slowly, exhaling.", "This is one rep."]
 hints: ["Ok to hold on a chair to keep the balance."]
