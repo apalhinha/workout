@@ -14,7 +14,7 @@ similar: ["leg raises"]
 OrderFull_Prev: "r-leg-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "rais-leg-cru"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Kick Friendly"]
 muscles: ["Glutes", "Hips", "Quads", "Abductor"]
 flexibilities: ["Hips"]

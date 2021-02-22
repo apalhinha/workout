@@ -14,7 +14,7 @@ similar: ["jump-squats"]
 OrderFull_Prev: "cru"
 OrderFull_First: "calfr"
 OrderFull_Next: "pul"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Hips", "Quads", "Calves"]
 flexibilities: ["Hips"]

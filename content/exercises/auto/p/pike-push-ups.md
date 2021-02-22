@@ -16,7 +16,7 @@ support_to: ["pul"]
 OrderFull_Prev: "air-bike-cru"
 OrderFull_First: "calfr"
 OrderFull_Next: "calfr-h"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Triceps", "Chest"]
 ---

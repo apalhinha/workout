@@ -15,7 +15,7 @@ support_from: ["pike-pus"]
 OrderFull_Prev: "sqt-jmp"
 OrderFull_First: "calfr"
 OrderFull_Next: "close-g-pus"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
 progressions_weight: 5

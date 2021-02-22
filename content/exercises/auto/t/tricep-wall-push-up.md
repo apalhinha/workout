@@ -10,6 +10,6 @@ support_to: ["tricep-knee-pus"]
 OrderFull_Prev: "f-leg-rais"
 OrderFull_First: "calfr"
 OrderFull_Next: "bird-dog"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Push-up Variations"]
 ---

@@ -12,7 +12,7 @@ counting: ["Count moves along the day.", "Set a timer for 30secs of calf raises.
 number: 3
 similar: ["calves"]
 OrderFull_Next: "stair"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 muscles: ["Calves"]
 flexibilities: ["Calves"]
 ---

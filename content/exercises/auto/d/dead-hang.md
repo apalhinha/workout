@@ -16,7 +16,7 @@ oneway: "pul"
 OrderFull_Prev: "neg-pul"
 OrderFull_First: "calfr"
 OrderFull_Next: "pus-tricep"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
 progressions_weight: 1

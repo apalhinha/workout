@@ -14,6 +14,6 @@ similar: ["crunch"]
 OrderFull_Prev: "s-leg-rais"
 OrderFull_First: "calfr"
 OrderFull_Next: "chin"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Crunch Variations"]
 ---

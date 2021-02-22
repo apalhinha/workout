@@ -9,5 +9,7 @@ support_to: ["pus-tricep", "close-g-pus"]
 support_from: ["tricep-w-pus"]
 OrderFull_Prev: "bird-dog"
 OrderFull_First: "calfr"
+OrderFull_Next: "air-bike"
+OrderFull_Last: "air-bike"
 collections: ["Push-up Variations"]
 ---

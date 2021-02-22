@@ -16,6 +16,6 @@ support_from: ["tricep-knee-pus"]
 OrderFull_Prev: "pul"
 OrderFull_First: "calfr"
 OrderFull_Next: "air-bike-cru"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Push-up Variations"]
 ---

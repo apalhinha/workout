@@ -11,6 +11,6 @@ similar: ["calves"]
 OrderFull_Prev: "pike-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "f-leg-rais"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 muscles: ["Calves"]
 ---

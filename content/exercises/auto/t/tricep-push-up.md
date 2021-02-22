@@ -17,7 +17,7 @@ support_from: ["tricep-knee-pus"]
 OrderFull_Prev: "pul-dead"
 OrderFull_First: "calfr"
 OrderFull_Next: "cru"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Triceps"]
 ---

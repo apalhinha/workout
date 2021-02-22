@@ -14,7 +14,7 @@ oneway: "pus"
 OrderFull_Prev: "pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "s-leg-rais"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]
 ---

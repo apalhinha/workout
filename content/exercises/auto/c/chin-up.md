@@ -14,7 +14,7 @@ similar: ["pul"]
 OrderFull_Prev: "rais-leg-cru"
 OrderFull_First: "calfr"
 OrderFull_Next: "neg-pul"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Hanging"]
 equipment: ["Pull-up Bar"]
 muscles: ["Shoulder", "Biceps", "Forearms", "Upper Back"]

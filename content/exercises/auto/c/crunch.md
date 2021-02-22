@@ -14,7 +14,7 @@ similar: ["crunch"]
 OrderFull_Prev: "pus-tricep"
 OrderFull_First: "calfr"
 OrderFull_Next: "sqt-jmp"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs"]
 ---

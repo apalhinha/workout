@@ -8,6 +8,6 @@ number: 22
 OrderFull_Prev: "tricep-w-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "tricep-knee-pus"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 muscles: ["Upper Back", "Glutes"]
 ---

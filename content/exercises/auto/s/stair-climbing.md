@@ -13,7 +13,7 @@ similar: ["stairs"]
 OrderFull_Prev: "calfr"
 OrderFull_First: "calfr"
 OrderFull_Next: "pus"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 muscles: ["Calves"]
 flexibilities: ["Calves"]
 categories: ["Low Cardio"]

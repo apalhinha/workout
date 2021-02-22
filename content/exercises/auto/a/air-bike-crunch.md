@@ -15,7 +15,7 @@ similar: ["flutter kicks", "crunch"]
 OrderFull_Prev: "close-g-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "pike-pus"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs", "Hips", "Quads"]
 flexibilities: ["Hips"]

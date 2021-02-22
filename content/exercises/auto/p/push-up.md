@@ -14,7 +14,7 @@ number: 5
 OrderFull_Prev: "stair"
 OrderFull_First: "calfr"
 OrderFull_Next: "r-leg-pus"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]
 ---

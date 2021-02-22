@@ -15,7 +15,7 @@ similar: ["leg raises"]
 OrderFull_Prev: "calfr-h"
 OrderFull_First: "calfr"
 OrderFull_Next: "tricep-w-pus"
-OrderFull_Last: "tricep-knee-pus"
+OrderFull_Last: "air-bike"
 collections: ["Kick Friendly"]
 progressions: ["L-Sit Preparation"]
 progressions_weight: 1
