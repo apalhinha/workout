@@ -11,7 +11,7 @@ benefits: ["Strengthen the Triceps.", "Strong triceps bring stability to shoulde
 counting: ["As soon as you can perform the exercise, do sets of 2 or 3. As soon as possible, increase by one the number in a set.", "Progressively, increase the number of repetitions."]
 othernames: ["Tricep Extension Push-up", "Tiger Pushup"]
 number: 12
-similar: "tricep pushup"
+similar: ["tricep pushup"]
 oneway: "pus"
 support_from: ["tricep-knee-pus"]
 OrderFull_Prev: "pul-dead"

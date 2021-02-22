@@ -10,7 +10,7 @@ hints: ["Don't pull on your neck with your hands.", "Keep your neck relaxed, thi
 benefits: ["Strengthen abdominal muscles and obliques.", "Strong abs are the foundation of many daily moves such as carrying any object or just raising yourself.", "Also a strong core is a requisite for many exercises."]
 counting: ["Create the habit of doing some crunch-series right after warmup and before your regular workout.", "Get a list of crunch variations, ensure some variation on your daily routine with a rigid number of reps, say 20 than 30 and so on."]
 number: 13
-similar: "crunch"
+similar: ["crunch"]
 OrderFull_Prev: "pus-tricep"
 OrderFull_First: "calfr"
 OrderFull_Next: "sqt-jmp"

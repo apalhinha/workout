@@ -7,7 +7,7 @@ eid: "calfr-h"
 hints: ["Exercise near a wall or something to grab, in case you lack balance."]
 counting: ["Count the number of seconds holding, per day.", "Beat your own record, holding a few seconds linger than the previous record."]
 number: 19
-similar: "calves"
+similar: ["calves"]
 OrderFull_Prev: "pike-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "f-leg-rais"

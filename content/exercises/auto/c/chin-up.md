@@ -10,7 +10,7 @@ hints: ["Fully extend your arm when in the lower position.", "Use the right form
 benefits: ["Improve grip strength.", "Strengthen muscles that stabilize the spine, reducing back-pain risks."]
 counting: ["Count the number of reps in a given time (minute, day, week, ...)", "Set a goal for a long period, ensuring daily chin-ups.", "Evaluate progress by the number of consecutive repetitions."]
 number: 9
-similar: "pul"
+similar: ["pul"]
 OrderFull_Prev: "rais-leg-cru"
 OrderFull_First: "calfr"
 OrderFull_Next: "neg-pul"

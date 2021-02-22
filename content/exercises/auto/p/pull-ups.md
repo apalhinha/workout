@@ -10,7 +10,7 @@ hints: ["Prepare for push-ups by preparing the multiple muscles involved. See th
 benefits: ["Increase grip strength.", "Strengthen the back muscles.", "Strengthen arm and shoulders.", "Improve explosiveness and balance."]
 counting: ["Gain the habit of doing pull-ups once a day, as long as you pass on a pull-up bar.", "Define a number of pull-ups for a period (month, year) and keep a log of them.", "If you can do a pull-up, or do less then 5, count also the pull-up-friendly exercises."]
 number: 15
-similar: "pul"
+similar: ["pul"]
 support_from: ["pike-pus"]
 OrderFull_Prev: "sqt-jmp"
 OrderFull_First: "calfr"

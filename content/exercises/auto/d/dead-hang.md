@@ -11,7 +11,7 @@ benefits: ["Stretch and decompress the spine.", "Offers strong grip and forearm 
 counting: ["Count the seconds for each rep, count progress by the number of consecutive seconds.", "Define an amount of time in minutes, accumulated, to hang in a given period (day, week or weekend)", "Hang a little every time you pass near a suitable bar.", "You should do 3 to 5 attempts with 30+ seconds each. Slowly increase this time."]
 othernames: ["Passive Bar Hang", "Passive Dead Hang"]
 number: 11
-similar: "hang"
+similar: ["hang"]
 oneway: "pul"
 OrderFull_Prev: "neg-pul"
 OrderFull_First: "calfr"

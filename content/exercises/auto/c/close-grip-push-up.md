@@ -11,7 +11,7 @@ benefits: ["Strengthen the triceps.", "Also works the core, shoulders and chest.
 counting: ["Make series of 10.", "include this in your daily push-up variations."]
 othernames: ["Diamond Push-up"]
 number: 16
-similar: "tricep pushup"
+similar: ["tricep pushup"]
 support_from: ["tricep-knee-pus"]
 OrderFull_Prev: "pul"
 OrderFull_First: "calfr"

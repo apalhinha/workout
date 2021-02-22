@@ -10,7 +10,7 @@ hints: ["You can hold on a chair or wall for balance.", "Holding weights (bags o
 benefits: ["Strong calves stabilize your feet and ankle.", "Lower body performance frequently depends on calves, strength them will make a difference.", "Advantage or explosiveness in sprinting.", "Protect knees on jumps, burpees and any impact actions."]
 counting: ["Count moves along the day.", "Set a timer for 30secs of calf raises. The next day increase 2 seconds, and consecutively.", "Set a goal for 20 consecutive days, restart counting the days if the daily goal is missed."]
 number: 3
-similar: "calves"
+similar: ["calves"]
 OrderFull_Next: "stair"
 OrderFull_Last: "tricep-knee-pus"
 muscles: ["Calves"]

@@ -10,7 +10,7 @@ hints: ["Avoid moving or swinging your legs.", "Cross your legs if you have diff
 benefits: ["Strong abs are the foundation of many daily moves such as carrying any object or just raising yourself.", "A strong core is a requisite for many exercises.", "This variant of the crunch increases the impact on affected muscles."]
 counting: ["Get a list of crunch variations, ensure some variation on your daily routine with a rigid number of reps, say 20 than 30 and so on."]
 number: 8
-similar: "crunch"
+similar: ["crunch"]
 OrderFull_Prev: "s-leg-rais"
 OrderFull_First: "calfr"
 OrderFull_Next: "chin"

@@ -10,7 +10,7 @@ hints: ["Ok to hold on a chair to keep the balance."]
 counting: ["Make series of 10 in specific moments of the day, such as when preparing to cook or turning the TV on.", "Define a 'legs weekend' with a goal which is a high number."]
 othernames: ["Standing Side Leg Raise"]
 number: 7
-similar: "leg raises"
+similar: ["leg raises"]
 OrderFull_Prev: "r-leg-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "rais-leg-cru"

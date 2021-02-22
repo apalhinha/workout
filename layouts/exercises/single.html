@@ -127,7 +127,6 @@
 			{{ end }} <!-- Content -->
 		</div>
 
-
 		{{ if or (.Params.similar) (.Params.oneway) }}
 			<h3>Similar or related exercises:</h3>
 		{{end}}
@@ -141,8 +140,14 @@
 			{{ end }}
 		{{ end }}
 		{{ if .Params.similar }}
-				{{ range (where (where .Site.Pages "Params.similar" .Params.similar) "Params.eid" "!=" .Params.eid ) }}
+				<!--{{ range (where (where .Site.Pages "Params.similar" .Params.similar) "Params.eid" "!=" .Params.eid ) }}
 					{{ partial "ex_quadrado_argument.html" . }}
+				{{ end }} -->
+				{{ $osimilar := .Params.similar }}
+				{{ range $index, $page := (where (where .Site.Pages "Section" "exercises") "Params.eid" "!=" .Params.eid ) }}
+					{{ if len (intersect $page.Params.similar $osimilar)}}
+						{{ partial "ex_quadrado_argument.html" $page }}
+					{{ end }}
 				{{ end }}
 		{{ end }}
 

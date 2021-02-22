@@ -10,7 +10,7 @@ hints: ["Try to keep a breathing pattern, exhaling as you jump.", "Keep your che
 benefits: ["Increase explosiveness.", "High intensity cardio.", "Tone but, legs and abs.", "Improve balance.", "Increase Aerobic fitness.", "Help reducing the risk of heart disease, hypertension, obesity, and diabetes as a direct consequence of the intense cardio."]
 counting: ["Count sequences of 10 Reps, you should do 2 or 3 sets.", "If you have a list of daily-cardio to perform, include this in the list. Once in a while the intense cardio should come from this exercise."]
 number: 14
-similar: "jump-squats"
+similar: ["jump-squats"]
 OrderFull_Prev: "cru"
 OrderFull_First: "calfr"
 OrderFull_Next: "pul"

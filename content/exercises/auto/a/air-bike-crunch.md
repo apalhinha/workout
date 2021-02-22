@@ -11,7 +11,7 @@ benefits: ["Strengthen Abs and Obliques."]
 counting: ["Perform series of 20, meaning 10 on each leg."]
 othernames: ["Bicycle crunch", "Bike crunch"]
 number: 17
-similar: "crunch"
+similar: ["flutter kicks", "crunch"]
 OrderFull_Prev: "close-g-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "pike-pus"

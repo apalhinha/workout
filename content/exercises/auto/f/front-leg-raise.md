@@ -11,7 +11,7 @@ benefits: ["Improves strength on Hips. Abductors, Adductors and Glutes.", "Impro
 counting: ["Do sets of 8.", "10 with each leg.", "Look for an optimal situation to repeat this exercise, such as when entering your home-office."]
 othernames: ["Standing Leg Raise", "Standing Leg Lift"]
 number: 20
-similar: "leg raises"
+similar: ["leg raises"]
 OrderFull_Prev: "calfr-h"
 OrderFull_First: "calfr"
 OrderFull_Next: "tricep-w-pus"

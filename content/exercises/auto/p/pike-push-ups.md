@@ -11,7 +11,7 @@ benefits: ["Stronger Upper body.", "Good preparation for the handstand and pull-
 counting: ["Perform 2 or 3 series of 10 on your upper-body day.", "Include in your series of daily push-up to ensure regularity.", "Count repetitions in a long period, say month or trimester."]
 othernames: ["Shoulder Push-up"]
 number: 18
-similar: "pike-push-up"
+similar: ["pike-push-up"]
 support_to: ["pul"]
 OrderFull_Prev: "air-bike-cru"
 OrderFull_First: "calfr"
