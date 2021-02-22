@@ -1,5 +1,5 @@
 ---
-date: 2021-02-18T09:31:11+01:00
+date: 2021-02-22T10:52:53+01:00
 draft: false
 title: "Chin-up"
 url: "/exercises/chin-up-workout-exercise"
@@ -11,10 +11,10 @@ benefits: ["Improve grip strength.", "Strengthen muscles that stabilize the spin
 counting: ["Count the number of reps in a given time (minute, day, week, ...)", "Set a goal for a long period, ensuring daily chin-ups.", "Evaluate progress by the number of consecutive repetitions."]
 number: 9
 similar: "pul"
-OrderFull_Prev: "cru-raiseleg"
+OrderFull_Prev: "rais-leg-cru"
 OrderFull_First: "calfr"
 OrderFull_Next: "neg-pul"
-OrderFull_Last: "neg-pul"
+OrderFull_Last: "tricep-knee-pus"
 collections: ["Hanging"]
 equipment: ["Pull-up Bar"]
 muscles: ["Shoulder", "Biceps", "Forearms", "Upper Back"]

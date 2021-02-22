@@ -1,5 +1,5 @@
 ---
-date: 2021-02-18T09:31:11+01:00
+date: 2021-02-22T10:52:53+01:00
 draft: false
 title: "Negative Pull-up"
 url: "/exercises/negative-pull-up-workout-exercise"
@@ -10,11 +10,14 @@ hints: ["Instead of using a chair you can also jump to the bar.", "Focus on your
 benefits: ["Great preparation for the regular pull-up.", "improves grip strength.", "Helps building body control and preparation."]
 counting: ["Measure the number of seconds you take coming down. The longer the better. Count 'hanging exercises' in a period and include this one in your list."]
 number: 10
+oneway: "pul"
 OrderFull_Prev: "chin"
 OrderFull_First: "calfr"
+OrderFull_Next: "pul-dead"
+OrderFull_Last: "tricep-knee-pus"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
-progressions_weight: 1
+progressions_weight: 3
 progressions_notes: "Work all muscles needed"
 equipment: ["Pull-up Bar"]
 muscles: ["Biceps", "Upper Back", "Lats"]
