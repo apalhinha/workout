@@ -1,7 +1,7 @@
 ---
 date: 2021-02-22T10:52:53+01:00
 draft: false
-title: "Air bike"
+title: "Air Bike"
 url: "/exercises/air-bike-workout-exercise"
 eid: "air-bike"
 intro: ["A nice exercise or warm-up when you have where to lay down. The movement adds an hip dynamic allied to abs movement.."]
@@ -11,7 +11,7 @@ benefits: ["Easy exercise with increased difficulty when using a bigger number o
 counting: ["Perform series of 30 or 40."]
 number: 28
 similar: ["flutter kicks"]
-OrderFull_Prev: "tricep-knee-pus"
+OrderFull_Prev: "fg-w-pus"
 OrderFull_First: "calfr"
 collections: ["Crunch Variations"]
 muscles: ["Abs", "Hips", "Quads"]

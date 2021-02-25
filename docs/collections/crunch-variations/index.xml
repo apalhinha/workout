@@ -6,24 +6,33 @@
     <description>Recent content in Crunch Variations on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Feb 2021 11:11:20 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 10:52:53 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/collections/crunch-variations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Flutter Kicks</title>
-      <link>http://www.befit.space/exercises/flutter-kicks-workout-exercise/</link>
-      <pubDate>Mon, 15 Feb 2021 11:11:20 +0100</pubDate>
+      <title>Air Bike</title>
+      <link>http://www.befit.space/exercises/air-bike-workout-exercise/</link>
+      <pubDate>Mon, 22 Feb 2021 10:52:53 +0100</pubDate>
       
-      <guid>http://www.befit.space/exercises/flutter-kicks-workout-exercise/</guid>
+      <guid>http://www.befit.space/exercises/air-bike-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air Bike Crunch</title>
+      <link>http://www.befit.space/exercises/air-bike-crunch-workout-exercise/</link>
+      <pubDate>Mon, 22 Feb 2021 10:52:53 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/air-bike-crunch-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crunch</title>
       <link>http://www.befit.space/exercises/crunch-workout-exercise/</link>
-      <pubDate>Sun, 07 Feb 2021 12:58:06 +0100</pubDate>
+      <pubDate>Mon, 22 Feb 2021 10:52:53 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/crunch-workout-exercise/</guid>
       <description></description>
@@ -32,18 +41,9 @@
     <item>
       <title>Raised Leg Crunch</title>
       <link>http://www.befit.space/exercises/raised-leg-crunch-workout-exercise/</link>
-      <pubDate>Sun, 07 Feb 2021 12:58:06 +0100</pubDate>
+      <pubDate>Mon, 22 Feb 2021 10:52:53 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/raised-leg-crunch-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Air bike crunches</title>
-      <link>http://www.befit.space/exercises/air-bike-crunches-workout-exercise/</link>
-      <pubDate>Wed, 02 Sep 2020 17:29:00 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/air-bike-crunches-workout-exercise/</guid>
       <description></description>
     </item>
     

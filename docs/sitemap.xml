@@ -3,228 +3,318 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.befit.space/muscles/abs/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.befit.space/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/categories/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/collections/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/collections/crunch-variations/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/equipment/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/flexibilities/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/flutter-kicks-workout-exercise/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/categories/plyometrics/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/collections/prepare-your-back-for-pull-ups/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/progressions/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/equipment/pull-up-bar/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/progressions/pull-up-progression/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/flexibilities/shoulder/</loc>
-    <lastmod>2021-02-15T11:11:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/dead-hang-workout-exercise/</loc>
-    <lastmod>2021-02-09T16:47:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/forearms/</loc>
-    <lastmod>2021-02-09T16:47:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/hand/</loc>
-    <lastmod>2021-02-09T16:47:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/collections/hanging/</loc>
-    <lastmod>2021-02-09T16:47:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/shoulder/</loc>
-    <lastmod>2021-02-09T16:47:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/upper-back/</loc>
-    <lastmod>2021-02-09T16:47:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/crunch-workout-exercise/</loc>
-    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/obliques/</loc>
-    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/raised-leg-crunch-workout-exercise/</loc>
-    <lastmod>2021-02-07T12:58:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/collections/push-up-variations/</loc>
-    <lastmod>2021-02-05T00:24:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/tricep-knees-push-up-workout-exercise/</loc>
-    <lastmod>2021-02-05T00:24:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/tricep-wall-push-up-workout-exercise/</loc>
-    <lastmod>2021-02-05T00:24:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/calf-raises-hold-workout-exercise/</loc>
-    <lastmod>2021-02-04T15:33:25+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/calves/</loc>
-    <lastmod>2021-02-04T15:33:25+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/close-grip-push-ups-workout-exercise/</loc>
-    <lastmod>2021-02-01T19:03:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/progressions/l-sit-preparation/</loc>
-    <lastmod>2021-02-01T18:44:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/</loc>
-    <lastmod>2021-02-01T18:44:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/equipment/paralettes/</loc>
-    <lastmod>2021-02-01T18:44:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/bird-dog-workout-exercise/</loc>
-    <lastmod>2021-02-01T13:34:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/glutes/</loc>
-    <lastmod>2021-02-01T13:34:56+01:00</lastmod>
+    <lastmod>2021-02-24T19:39:32+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.befit.space/muscles/chest/</loc>
-    <lastmod>2021-02-01T12:09:34+01:00</lastmod>
+    <lastmod>2021-02-24T19:39:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.befit.space/exercises/raised-leg-push-up-workout-exercise/</loc>
-    <lastmod>2021-02-01T12:09:34+01:00</lastmod>
+    <loc>http://www.befit.space/collections/</loc>
+    <lastmod>2021-02-24T19:39:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.befit.space/categories/cardio/</loc>
-    <lastmod>2021-01-30T18:35:47+01:00</lastmod>
+    <loc>http://www.befit.space/exercises/finger-wall-push-up-workout-exercise/</loc>
+    <lastmod>2021-02-24T19:39:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.befit.space/muscles/hips/</loc>
-    <lastmod>2021-01-30T18:35:47+01:00</lastmod>
+    <loc>http://www.befit.space/muscles/</loc>
+    <lastmod>2021-02-24T19:39:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.befit.space/flexibilities/hips/</loc>
-    <lastmod>2021-01-30T18:35:47+01:00</lastmod>
+    <loc>http://www.befit.space/exercises/pike-push-up-workout-exercise/</loc>
+    <lastmod>2021-02-24T19:39:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.befit.space/exercises/jump-squats-workout-exercise/</loc>
-    <lastmod>2021-01-30T18:35:47+01:00</lastmod>
+    <loc>http://www.befit.space/collections/push-up-variations/</loc>
+    <lastmod>2021-02-24T19:39:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.befit.space/muscles/quads/</loc>
-    <lastmod>2021-01-30T18:35:47+01:00</lastmod>
+    <loc>http://www.befit.space/muscles/shoulder/</loc>
+    <lastmod>2021-02-24T19:39:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.befit.space/collections/squat-variations/</loc>
-    <lastmod>2021-01-30T18:35:47+01:00</lastmod>
+    <loc>http://www.befit.space/muscles/triceps/</loc>
+    <lastmod>2021-02-24T19:39:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/abductor/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/abs/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/adductor/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/air-bike-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/air-bike-crunch-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.befit.space/muscles/biceps/</loc>
-    <lastmod>2021-01-19T19:41:55+01:00</lastmod>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.befit.space/exercises/chin-ups-workout-exercise/</loc>
-    <lastmod>2021-01-19T19:41:55+01:00</lastmod>
+    <loc>http://www.befit.space/exercises/bird-dog-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/calf-raises-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/calf-raises-hold-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/calves/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/flexibilities/calves/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/categories/cardio/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/categories/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/chin-up-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/close-grip-push-up-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/crunch-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/collections/crunch-variations/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/dead-hang-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/equipment/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/flexibilities/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/forearms/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/front-leg-raise-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/glutes/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/hand/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/collections/hanging/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/flexibilities/harmstring/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/hips/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/flexibilities/hips/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/jump-squat-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/collections/kick-friendly/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/progressions/l-sit-preparation/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/lats/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/categories/low-cardio/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/lowerback/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/negative-pull-up-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/obliques/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/categories/plyometrics/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/progressions/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/equipment/pull-up-bar/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/progressions/pull-up-progression/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/pull-ups-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/push-up-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/quads/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/raised-leg-crunch-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/raised-leg-push-up-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/flexibilities/shoulder/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/side-leg-raises-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/collections/squat-variations/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/stair-climbing-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/tricep-knees-push-up-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/tricep-push-up-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/exercises/tricep-wall-push-up-workout-exercise/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/muscles/upper-back/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.befit.space/equipment/wall/</loc>
+    <lastmod>2021-02-22T10:52:53+01:00</lastmod>
   </url>
   
   <url>
@@ -235,96 +325,6 @@
   <url>
     <loc>http://www.befit.space/blog/last-updates/</loc>
     <lastmod>2021-01-14T19:25:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/air-bike-crunches-workout-exercise/</loc>
-    <lastmod>2020-09-02T17:29:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/tricep-push-up-workout-exercise/</loc>
-    <lastmod>2020-09-02T17:23:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/triceps/</loc>
-    <lastmod>2020-09-02T17:23:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/pike-push-ups-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:58:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/abductor/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/flexibilities/calves/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/finger-wall-push-ups-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/flex-hang-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/front-leg-raise-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/flexibilities/harmstring/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/collections/kick-friendly/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/muscles/lats/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/categories/low-cardio/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/negative-pullups-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/pull-ups-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/push-ups-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/side-leg-raises-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/stair-climbing-workout-exercise/</loc>
-    <lastmod>2020-07-22T09:45:39+01:00</lastmod>
   </url>
   
   <url>
@@ -345,16 +345,6 @@
   <url>
     <loc>http://www.befit.space/fakestatic/</loc>
     <lastmod>2020-07-19T23:05:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/calf-raises-workout-exercise/</loc>
-    <lastmod>2020-07-19T16:24:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.befit.space/exercises/wall-floor-l-sit-position-workout-exercise/</loc>
-    <lastmod>2020-07-15T08:30:40+01:00</lastmod>
   </url>
   
   <url>

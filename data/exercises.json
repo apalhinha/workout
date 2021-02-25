@@ -160,13 +160,13 @@
   "videoid": "i6mPCVUrtNk",
     "name": "Air Bike - Ab Exercises - Bodybuilding.com",
     "start": 4,
-    "duration": 10,
+    "duration": 25,
     "author": "Bodybuilding.com"
   }
 },
 {
   "eid": "pike-pus",
-  "name": "Pike push-ups",
+  "name": "Pike Push-up",
   "video": {
   "videoid": "sposDXWEB0A",
     "name": "The Pike Push-Up Tutorial",
@@ -188,7 +188,7 @@
 },
 {
   "eid": "f-leg-rais",
-  "name": "Front leg raise",
+  "name": "Front Leg Raise",
   "video": {
   "videoid": "8kr91qSn3OM",
     "name": "How to Do a Standing Leg Lift | Thighs Workout",
@@ -199,7 +199,7 @@
 },
 {
   "eid": "tricep-w-pus",
-  "name": "Tricep wall push-up",
+  "name": "Tricep Wall Push-up",
   "video": {
   "videoid": "f-ez1Tzehas",
     "name": "wall tricep push up",
@@ -210,7 +210,7 @@
 },
 {
   "eid": "bird-dog",
-  "name": "Bird dog",
+  "name": "Bird Dog",
   "video": {
   "videoid": "k2azbhhuKuM",
     "name": "Bird Dog Exercise",
@@ -231,8 +231,19 @@
   }
 },
 {
+  "eid": "fg-w-pus",
+  "name": "Finger Wall Push-up",
+  "video": {
+  "videoid": "Xq9H32JLTOY",
+    "name": "Wall Fingertips Push Up",
+    "start": 1,
+    "duration": 5,
+    "author": "Workout Freaks"
+  }
+},
+{
   "eid": "air-bike",
-  "name": "Air bike",
+  "name": "Air Bike",
   "video": {
   "videoid": "jKT7-9L935g",
     "name": "Exercise Library: Air Bike Crunches",

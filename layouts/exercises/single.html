@@ -200,7 +200,9 @@
 
 <hr>
 
-{{ partial "navigate_exercises.html" . }}
+{{ if (getenv "HUGO_TEST") }}
+	{{ partial "navigate_exercises.html" . }}
+{{ end }}
 
 		</footer>
 

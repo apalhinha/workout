@@ -18,4 +18,5 @@ OrderFull_First: "calfr"
 OrderFull_Next: "air-bike-cru"
 OrderFull_Last: "air-bike"
 collections: ["Push-up Variations"]
+muscles: ["Shoulder", "Triceps", "Chest", "Abs"]
 ---

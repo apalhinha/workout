@@ -1,7 +1,7 @@
 ---
 date: 2021-02-22T10:52:53+01:00
 draft: false
-title: "Front leg raise"
+title: "Front Leg Raise"
 url: "/exercises/front-leg-raise-workout-exercise"
 eid: "f-leg-rais"
 intro: ["Standing Leg Raises is a simple exercise that can be done everywhere. Focused on your legs, its easy enough to do without preparation, yet hard to do repeatedly.."]

@@ -16,4 +16,5 @@ OrderFull_First: "calfr"
 OrderFull_Next: "chin"
 OrderFull_Last: "air-bike"
 collections: ["Crunch Variations"]
+muscles: ["Obliques", "Abs", "Lowerback"]
 ---

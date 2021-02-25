@@ -1,13 +1,13 @@
 [
 {
-  "othername": "Air Bike Crunch",
-  "eid": "air-bike-cru",
+  "othername": "Air Bike",
+  "eid": "air-bike",
   "letter_start": "A",
   "letter_end": ""
 },
 {
-  "othername": "Air bike",
-  "eid": "air-bike",
+  "othername": "Air Bike Crunch",
+  "eid": "air-bike-cru",
   "letter_start": "",
   "letter_end": "A"
 },
@@ -24,7 +24,7 @@
   "letter_end": ""
 },
 {
-  "othername": "Bird dog",
+  "othername": "Bird Dog",
   "eid": "bird-dog",
   "letter_start": "",
   "letter_end": "B"
@@ -84,9 +84,15 @@
   "letter_end": "D"
 },
 {
-  "othername": "Front leg raise",
-  "eid": "f-leg-rais",
+  "othername": "Finger Wall Push-up",
+  "eid": "fg-w-pus",
   "letter_start": "F",
+  "letter_end": ""
+},
+{
+  "othername": "Front Leg Raise",
+  "eid": "f-leg-rais",
+  "letter_start": "",
   "letter_end": "F"
 },
 {
@@ -120,7 +126,7 @@
   "letter_end": ""
 },
 {
-  "othername": "Pike push-ups",
+  "othername": "Pike Push-up",
   "eid": "pike-pus",
   "letter_start": "",
   "letter_end": ""
@@ -210,7 +216,7 @@
   "letter_end": ""
 },
 {
-  "othername": "Tricep wall push-up",
+  "othername": "Tricep Wall Push-up",
   "eid": "tricep-w-pus",
   "letter_start": "",
   "letter_end": "T"
