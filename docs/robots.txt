@@ -4,4 +4,6 @@ User-agent: *
 Disallow: /maintenance/
 Disallow: /maintenance/missingpic/
 Disallow: /maintenance/extrafiles/
+Disallow: /examples/data/datalist/
+Disallow: /examples/
 

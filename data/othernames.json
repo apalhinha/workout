@@ -162,7 +162,7 @@
   "letter_end": ""
 },
 {
-  "othername": "Side Leg Raises",
+  "othername": "Side Leg Raise",
   "eid": "s-leg-rais",
   "letter_start": "",
   "letter_end": ""
@@ -174,14 +174,20 @@
   "letter_end": ""
 },
 {
-  "othername": "Standing Leg Lift",
+  "othername": "Standing Front Leg Lift",
   "eid": "f-leg-rais",
   "letter_start": "",
   "letter_end": ""
 },
 {
-  "othername": "Standing Leg Raise",
+  "othername": "Standing Front Leg Raise",
   "eid": "f-leg-rais",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Standing Side Leg Lift",
+  "eid": "s-leg-rais",
   "letter_start": "",
   "letter_end": ""
 },

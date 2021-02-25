@@ -2,4 +2,5 @@ Sitemap: http://www.befit.space/sitemap.xml
 
 User-agent: *
 {{ range where .Site.Pages "Section" "maintenance" }}Disallow: {{.RelPermalink}}
+{{ end }}{{ range where .Site.Pages "Section" "examples" }}Disallow: {{.RelPermalink}}
 {{ end }}

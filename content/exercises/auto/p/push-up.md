@@ -1,9 +1,9 @@
 ---
-date: 2021-02-22T10:52:53+01:00
 draft: false
 title: "Push-up"
 url: "/exercises/push-up-workout-exercise"
 eid: "pus"
+description: "How-to, correct form, instructions and hints to perform Push-up. Similar exercises and video demo"
 intro: ["The Push-ups is a complete exercise with main targets on chest, shoulders, triceps, but also working the core and back.", "Can be done anywhere as it requires no equipment. There are tons of variants aiming different results."]
 steps: ["Get down on all fours.", "Place hands slightly wider than your shoulders.", "Straighten arms and legs.", "Lower the body, the chest nearly touches the floor.", "Pause, then straight your arms and push back up."]
 hints: ["Keep your core engaged.", "Your back should follow a straight line."]
@@ -17,4 +17,5 @@ OrderFull_Next: "r-leg-pus"
 OrderFull_Last: "air-bike"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]
+date: 2021-02-25T23:22:06+01:00
 ---
