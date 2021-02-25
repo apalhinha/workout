@@ -5,7 +5,7 @@ theme = "mainroad"
 publishDir = "docs"
 paginate= 100
 googleAnalytics = "UA-189694314-1" # Enable Google Analytics by entering your tracking id
-
+enableRobotsTXT = true
 
 [Params]
   readmore = false # Show "Read more" button in list if true
