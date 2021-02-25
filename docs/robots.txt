@@ -1,9 +1,7 @@
+Sitemap: http://www.befit.space/sitemap.xml
 
 User-agent: *
-
 Disallow: /maintenance/
-
 Disallow: /maintenance/missingpic/
-
 Disallow: /maintenance/extrafiles/
 

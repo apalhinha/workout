@@ -1,5 +1,5 @@
+Sitemap: http://www.befit.space/sitemap.xml
 
 User-agent: *
-{{ range where .Site.Pages "Section" "maintenance" }}
-Disallow: {{.RelPermalink}}
+{{ range where .Site.Pages "Section" "maintenance" }}Disallow: {{.RelPermalink}}
 {{ end }}
