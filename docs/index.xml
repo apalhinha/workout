@@ -6,7 +6,7 @@
     <description>Recent content on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2021 23:22:06 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 13:50:57 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Air Bike</title>
       <link>http://www.befit.space/exercises/air-bike-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:57 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/air-bike-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>One Leg L-Sit</title>
+      <link>http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/</link>
+      <pubDate>Sat, 27 Feb 2021 13:50:57 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Air Bike Crunch</title>
       <link>http://www.befit.space/exercises/air-bike-crunch-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/air-bike-crunch-workout-exercise/</guid>
       <description></description>
@@ -32,43 +41,52 @@
     <item>
       <title>Bird Dog</title>
       <link>http://www.befit.space/exercises/bird-dog-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/bird-dog-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Calf Raises</title>
-      <link>http://www.befit.space/exercises/calf-raises-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <title>Calf Raise</title>
+      <link>http://www.befit.space/exercises/calf-raise-workout-exercise/</link>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
-      <guid>http://www.befit.space/exercises/calf-raises-workout-exercise/</guid>
+      <guid>http://www.befit.space/exercises/calf-raise-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Calf Raises Hold</title>
-      <link>http://www.befit.space/exercises/calf-raises-hold-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <title>Calf Raise Hold</title>
+      <link>http://www.befit.space/exercises/calf-raise-hold-workout-exercise/</link>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
-      <guid>http://www.befit.space/exercises/calf-raises-hold-workout-exercise/</guid>
+      <guid>http://www.befit.space/exercises/calf-raise-hold-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chin-up</title>
       <link>http://www.befit.space/exercises/chin-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/chin-up-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Climber</title>
+      <link>http://www.befit.space/exercises/climber-workout-exercise/</link>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/climber-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Close Grip Push-up</title>
       <link>http://www.befit.space/exercises/close-grip-push-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/close-grip-push-up-workout-exercise/</guid>
       <description></description>
@@ -77,7 +95,7 @@
     <item>
       <title>Crunch</title>
       <link>http://www.befit.space/exercises/crunch-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/crunch-workout-exercise/</guid>
       <description></description>
@@ -86,7 +104,7 @@
     <item>
       <title>Dead Hang</title>
       <link>http://www.befit.space/exercises/dead-hang-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/dead-hang-workout-exercise/</guid>
       <description></description>
@@ -95,16 +113,25 @@
     <item>
       <title>Finger Wall Push-up</title>
       <link>http://www.befit.space/exercises/finger-wall-push-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/finger-wall-push-up-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Flex Hang</title>
+      <link>http://www.befit.space/exercises/flex-hang-workout-exercise/</link>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/flex-hang-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Front Leg Raise</title>
       <link>http://www.befit.space/exercises/front-leg-raise-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/front-leg-raise-workout-exercise/</guid>
       <description></description>
@@ -113,7 +140,7 @@
     <item>
       <title>Jump Squat</title>
       <link>http://www.befit.space/exercises/jump-squat-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/jump-squat-workout-exercise/</guid>
       <description></description>
@@ -122,7 +149,7 @@
     <item>
       <title>Negative Pull-up</title>
       <link>http://www.befit.space/exercises/negative-pull-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/negative-pull-up-workout-exercise/</guid>
       <description></description>
@@ -131,25 +158,25 @@
     <item>
       <title>Pike Push-up</title>
       <link>http://www.befit.space/exercises/pike-push-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/pike-push-up-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pull-ups</title>
-      <link>http://www.befit.space/exercises/pull-ups-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <title>Pull-up</title>
+      <link>http://www.befit.space/exercises/pull-up-workout-exercise/</link>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
-      <guid>http://www.befit.space/exercises/pull-ups-workout-exercise/</guid>
+      <guid>http://www.befit.space/exercises/pull-up-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Push-up</title>
       <link>http://www.befit.space/exercises/push-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/push-up-workout-exercise/</guid>
       <description></description>
@@ -158,7 +185,7 @@
     <item>
       <title>Raised Leg Crunch</title>
       <link>http://www.befit.space/exercises/raised-leg-crunch-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/raised-leg-crunch-workout-exercise/</guid>
       <description></description>
@@ -167,7 +194,7 @@
     <item>
       <title>Raised Leg Push-up</title>
       <link>http://www.befit.space/exercises/raised-leg-push-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/raised-leg-push-up-workout-exercise/</guid>
       <description></description>
@@ -176,7 +203,7 @@
     <item>
       <title>Side Leg Raise</title>
       <link>http://www.befit.space/exercises/side-leg-raise-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/side-leg-raise-workout-exercise/</guid>
       <description></description>
@@ -185,7 +212,7 @@
     <item>
       <title>Stair Climbing</title>
       <link>http://www.befit.space/exercises/stair-climbing-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/stair-climbing-workout-exercise/</guid>
       <description></description>
@@ -194,7 +221,7 @@
     <item>
       <title>Tricep Knees Push-up</title>
       <link>http://www.befit.space/exercises/tricep-knees-push-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/tricep-knees-push-up-workout-exercise/</guid>
       <description></description>
@@ -203,7 +230,7 @@
     <item>
       <title>Tricep Push-up</title>
       <link>http://www.befit.space/exercises/tricep-push-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/tricep-push-up-workout-exercise/</guid>
       <description></description>
@@ -212,27 +239,18 @@
     <item>
       <title>Tricep Wall Push-up</title>
       <link>http://www.befit.space/exercises/tricep-wall-push-up-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:22:06 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/tricep-wall-push-up-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Climbers</title>
-      <link>http://www.befit.space/exercises/climbers-workout-exercise/</link>
-      <pubDate>Thu, 25 Feb 2021 23:13:57 +0100</pubDate>
+      <title>Wall/floor L-Sit Position</title>
+      <link>http://www.befit.space/exercises/wall-floor-l-sit-position-workout-exercise/</link>
+      <pubDate>Sat, 27 Feb 2021 13:50:56 +0100</pubDate>
       
-      <guid>http://www.befit.space/exercises/climbers-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Side Leg Raises</title>
-      <link>http://www.befit.space/exercises/side-leg-raises-workout-exercise/</link>
-      <pubDate>Mon, 22 Feb 2021 10:52:53 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/side-leg-raises-workout-exercise/</guid>
+      <guid>http://www.befit.space/exercises/wall-floor-l-sit-position-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -242,36 +260,9 @@
       <pubDate>Thu, 14 Jan 2021 19:25:36 +0100</pubDate>
       
       <guid>http://www.befit.space/blog/last-updates/</guid>
-      <description>&lt;p&gt;This catalog was las updated on February 25, 2021
+      <description>&lt;p&gt;This catalog was las updated on February 27, 2021
 . Last additions are:
 
-
-  
-    
-    
-&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
-
-  &lt;div style=&#34;text-align: center;&#34;&gt;
-
-    &lt;a href=&#34;http://www.befit.space/exercises/climbers-workout-exercise/&#34;&gt;
-      
-      
-      
-      
-      
-        &lt;p&gt;...&lt;/p&gt;
-      
-    &lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
-      &lt;a href=&#34;http://www.befit.space/exercises/climbers-workout-exercise/&#34;&gt;Climbers&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;br&gt;&lt;br&gt;
-
-&lt;/div&gt;
-
-  
 
   
     
@@ -309,13 +300,102 @@
 
   &lt;div style=&#34;text-align: center;&#34;&gt;
 
+    &lt;a href=&#34;http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;http://www.befit.space/fakestatic/allimages/o/ol-lsit_hu58d7a098c7ca98e51a69e0210a6f47a5_100669_150x0_resize_box_2.png&#34; alt=&#34;One Leg L-Sit icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/&#34;&gt;One Leg L-Sit&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;http://www.befit.space/exercises/wall-floor-l-sit-position-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;http://www.befit.space/fakestatic/allimages/w/w-lsit-pos_hub2b482a5b009cac071d2191653f4653e_95784_150x0_resize_box_2.png&#34; alt=&#34;Wall/floor L-Sit Position icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;http://www.befit.space/exercises/wall-floor-l-sit-position-workout-exercise/&#34;&gt;Wall/floor L-Sit Position&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;http://www.befit.space/exercises/flex-hang-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;http://www.befit.space/fakestatic/allimages/p/pul-flex_hu2dfa841315f004fef57b264e9ab2d3a6_99407_150x0_resize_box_2.png&#34; alt=&#34;Flex Hang icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;http://www.befit.space/exercises/flex-hang-workout-exercise/&#34;&gt;Flex Hang&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
     &lt;a href=&#34;http://www.befit.space/exercises/finger-wall-push-up-workout-exercise/&#34;&gt;
       
       
       
       
       
-        &lt;p&gt;...&lt;/p&gt;
+
+        
+        &lt;img src=&#34;http://www.befit.space/fakestatic/allimages/f/fg-w-pus_hu15472b0b10c43fd8bfc40f0840df8099_93468_150x0_resize_box_2.png&#34; alt=&#34;Finger Wall Push-up icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
       
     &lt;/a&gt;
   &lt;/div&gt;
@@ -415,62 +495,6 @@
 &lt;/div&gt;
 
   
-
-  
-    
-    
-&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
-
-  &lt;div style=&#34;text-align: center;&#34;&gt;
-
-    &lt;a href=&#34;http://www.befit.space/exercises/front-leg-raise-workout-exercise/&#34;&gt;
-      
-      
-      
-      
-      
-
-        
-        &lt;img src=&#34;http://www.befit.space/fakestatic/allimages/f/f-leg-rais_hu8bbe6ffd4e4573fdda7978636d9f45d8_73252_150x0_resize_box_2.png&#34; alt=&#34;Front Leg Raise icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
-      
-    &lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
-      &lt;a href=&#34;http://www.befit.space/exercises/front-leg-raise-workout-exercise/&#34;&gt;Front Leg Raise&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;br&gt;&lt;br&gt;
-
-&lt;/div&gt;
-
-  
-
-  
-    
-    
-&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
-
-  &lt;div style=&#34;text-align: center;&#34;&gt;
-
-    &lt;a href=&#34;http://www.befit.space/exercises/calf-raises-hold-workout-exercise/&#34;&gt;
-      
-      
-      
-      
-      
-
-        
-        &lt;img src=&#34;http://www.befit.space/fakestatic/allimages/c/calfr-h_hu1ec30e2b46a86bb19ae2d76caa4303f0_84742_150x0_resize_box_2.png&#34; alt=&#34;Calf Raises Hold icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
-      
-    &lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
-      &lt;a href=&#34;http://www.befit.space/exercises/calf-raises-hold-workout-exercise/&#34;&gt;Calf Raises Hold&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;br&gt;&lt;br&gt;
-
-&lt;/div&gt;
 
   
 

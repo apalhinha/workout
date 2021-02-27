@@ -1,8 +1,9 @@
 ---
+date: 2021-02-27T13:50:56+01:00
 draft: false
 title: "Jump Squat"
 url: "/exercises/jump-squat-workout-exercise"
-eid: "sqt-jmp"
+eid: "jmp-sqt"
 description: "How-to, correct form, instructions and hints to perform Jump Squat. Similar exercises and video demo"
 intro: ["Jump Squats is a Plyometric exercise (jump training) that boost explosiveness. They are an easy and very effective exercise that will pump your heart and produce strong legs and core.", "Jump squats are essential for many plyometric moves such as box jumps."]
 steps: ["Stand with your feet shoulder-width apart.", "Lower yourself as in a regular squat.", "Push your legs, raising and jumping with the movement.", "When landing, bend your knees lowering again as with the regular squat."]
@@ -19,5 +20,4 @@ collections: ["Squat Variations"]
 muscles: ["Glutes", "Hips", "Quads", "Calves"]
 flexibilities: ["Hips"]
 categories: ["Cardio", "Plyometrics"]
-date: 2021-02-25T23:22:06+01:00
 ---

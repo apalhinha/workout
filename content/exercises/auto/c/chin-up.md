@@ -1,4 +1,5 @@
 ---
+date: 2021-02-27T13:50:56+01:00
 draft: false
 title: "Chin-up"
 url: "/exercises/chin-up-workout-exercise"
@@ -18,5 +19,4 @@ OrderFull_Last: "air-bike"
 collections: ["Hanging"]
 equipment: ["Pull-up Bar"]
 muscles: ["Shoulder", "Biceps", "Forearms", "Upper Back"]
-date: 2021-02-25T23:22:06+01:00
 ---

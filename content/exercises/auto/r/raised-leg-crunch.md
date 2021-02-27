@@ -1,4 +1,5 @@
 ---
+date: 2021-02-27T13:50:56+01:00
 draft: false
 title: "Raised Leg Crunch"
 url: "/exercises/raised-leg-crunch-workout-exercise"
@@ -17,5 +18,4 @@ OrderFull_Next: "chin"
 OrderFull_Last: "air-bike"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs", "Lowerback"]
-date: 2021-02-25T23:22:06+01:00
 ---

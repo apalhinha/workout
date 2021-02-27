@@ -1,4 +1,5 @@
 ---
+date: 2021-02-27T13:50:56+01:00
 draft: false
 title: "Air Bike Crunch"
 url: "/exercises/air-bike-crunch-workout-exercise"
@@ -11,7 +12,7 @@ benefits: ["Strengthen Abs and Obliques."]
 counting: ["Perform series of 20, meaning 10 on each leg."]
 othernames: ["Bicycle crunch", "Bike crunch"]
 number: 17
-similar: ["flutter kicks", "crunch"]
+similar: ["flutter kicks", "crunch", "air bike"]
 OrderFull_Prev: "close-g-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "pike-pus"
@@ -19,5 +20,4 @@ OrderFull_Last: "air-bike"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs", "Hips", "Quads"]
 flexibilities: ["Hips"]
-date: 2021-02-25T23:22:06+01:00
 ---

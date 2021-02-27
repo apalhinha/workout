@@ -1,8 +1,14 @@
 [
 {
-  "othername": "Air Bike",
+  "othername": "Air Bicycle",
   "eid": "air-bike",
   "letter_start": "A",
+  "letter_end": ""
+},
+{
+  "othername": "Air Bike",
+  "eid": "air-bike",
+  "letter_start": "",
   "letter_end": ""
 },
 {
@@ -30,13 +36,13 @@
   "letter_end": "B"
 },
 {
-  "othername": "Calf Raises",
+  "othername": "Calf Raise",
   "eid": "calfr",
   "letter_start": "C",
   "letter_end": ""
 },
 {
-  "othername": "Calf Raises Hold",
+  "othername": "Calf Raise Hold",
   "eid": "calfr-h",
   "letter_start": "",
   "letter_end": ""
@@ -56,6 +62,12 @@
 {
   "othername": "Chin-up",
   "eid": "chin",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Climber",
+  "eid": "climb",
   "letter_start": "",
   "letter_end": ""
 },
@@ -90,6 +102,12 @@
   "letter_end": ""
 },
 {
+  "othername": "Flex Hang",
+  "eid": "pul-flex",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Front Leg Raise",
   "eid": "f-leg-rais",
   "letter_start": "",
@@ -97,9 +115,21 @@
 },
 {
   "othername": "Jump Squat",
-  "eid": "sqt-jmp",
+  "eid": "jmp-sqt",
   "letter_start": "J",
   "letter_end": "J"
+},
+{
+  "othername": "L-Sit Leg Extension",
+  "eid": "ol-lsit",
+  "letter_start": "L",
+  "letter_end": "L"
+},
+{
+  "othername": "Mountain Climber",
+  "eid": "climb",
+  "letter_start": "M",
+  "letter_end": "M"
 },
 {
   "othername": "Negative Pull-up",
@@ -108,9 +138,15 @@
   "letter_end": "N"
 },
 {
+  "othername": "One Leg L-Sit",
+  "eid": "ol-lsit",
+  "letter_start": "O",
+  "letter_end": ""
+},
+{
   "othername": "One Leg Push-up",
   "eid": "r-leg-pus",
-  "letter_start": "O",
+  "letter_start": "",
   "letter_end": "O"
 },
 {
@@ -132,7 +168,7 @@
   "letter_end": ""
 },
 {
-  "othername": "Pull-ups",
+  "othername": "Pull-up",
   "eid": "pul",
   "letter_start": "",
   "letter_end": ""
@@ -231,6 +267,12 @@
   "othername": "Wall Skull Cruchers",
   "eid": "tricep-w-pus",
   "letter_start": "W",
+  "letter_end": ""
+},
+{
+  "othername": "Wall/floor L-Sit Position",
+  "eid": "w-lsit-pos",
+  "letter_start": "",
   "letter_end": "W"
 }
 ]

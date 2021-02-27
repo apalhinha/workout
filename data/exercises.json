@@ -1,7 +1,7 @@
 [
 {
   "eid": "calfr",
-  "name": "Calf Raises",
+  "name": "Calf Raise",
   "video": {
   "videoid": "UV8gOrHmuKc",
     "name": "Exercise Library: Calf Raises",
@@ -77,6 +77,17 @@
   }
 },
 {
+  "eid": "climb",
+  "name": "Climber",
+  "video": {
+  "videoid": "w2iTOneGPdU",
+    "name": "Exercise Library: Raised Leg Crunches",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "neg-pul",
   "name": "Negative Pull-up",
   "video": {
@@ -121,7 +132,7 @@
   }
 },
 {
-  "eid": "sqt-jmp",
+  "eid": "jmp-sqt",
   "name": "Jump Squat",
   "video": {
   "videoid": "bv7as8mDXLQ",
@@ -133,7 +144,7 @@
 },
 {
   "eid": "pul",
-  "name": "Pull-ups",
+  "name": "Pull-up",
   "video": {
   "videoid": "d0ZR1Df59a4",
     "name": "Can't do Pull-Ups ?? Watch This Video",
@@ -177,7 +188,7 @@
 },
 {
   "eid": "calfr-h",
-  "name": "Calf Raises Hold",
+  "name": "Calf Raise Hold",
   "video": {
   "videoid": "uT0_UteBwAI",
     "name": "Calf Raise Hold",
@@ -239,6 +250,39 @@
     "start": 1,
     "duration": 5,
     "author": "Workout Freaks"
+  }
+},
+{
+  "eid": "pul-flex",
+  "name": "Flex Hang",
+  "video": {
+  "videoid": "zNXE1cRva9Y",
+    "name": "Flexed Arm Hang Practice",
+    "start": 66,
+    "duration": 10,
+    "author": "Old City CrossFit"
+  }
+},
+{
+  "eid": "w-lsit-pos",
+  "name": "Wall/floor L-Sit Position",
+  "video": {
+  "videoid": "izOLJOQ9MzM",
+    "name": "SSC Challenge Series: Wall L-Sit",
+    "start": 10,
+    "duration": 19,
+    "author": "Strong Side Conditioning"
+  }
+},
+{
+  "eid": "ol-lsit",
+  "name": "One Leg L-Sit",
+  "video": {
+  "videoid": "Q3D7eWdkctw",
+    "name": "Parallettes for Beginners | Exercise Collection",
+    "start": 162,
+    "duration": 7,
+    "author": "Mani the Monkey"
   }
 },
 {

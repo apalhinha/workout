@@ -1,4 +1,5 @@
 ---
+date: 2021-02-27T13:50:56+01:00
 draft: false
 title: "Front Leg Raise"
 url: "/exercises/front-leg-raise-workout-exercise"
@@ -18,8 +19,7 @@ OrderFull_Next: "tricep-w-pus"
 OrderFull_Last: "air-bike"
 collections: ["Kick Friendly", "Raising Legs"]
 progressions: ["L-Sit Preparation"]
-progressions_weight: 1
+progressions_weight: 5
 muscles: ["Abs", "Glutes", "Hips", "Abductor", "Adductor"]
 flexibilities: ["Hips", "Harmstring"]
-date: 2021-02-25T23:22:06+01:00
 ---

@@ -1,0 +1,17 @@
+---
+date: 2021-02-27T13:50:57+01:00
+draft: false
+title: "One Leg L-Sit"
+url: "/exercises/one-leg-l-sit-workout-exercise"
+eid: "ol-lsit"
+description: "How-to, correct form, instructions and hints to perform One Leg L-Sit. Similar exercises and video demo"
+othernames: ["L-Sit Leg Extension"]
+number: 27
+OrderFull_Prev: "w-lsit-pos"
+OrderFull_First: "calfr"
+OrderFull_Next: "air-bike"
+OrderFull_Last: "air-bike"
+progressions: ["L-Sit Preparation", "Floor L-Sit Progression"]
+progressions_weight: 1
+equipment: ["Paralettes"]
+---

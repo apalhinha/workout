@@ -1,4 +1,5 @@
 ---
+date: 2021-02-27T13:50:56+01:00
 draft: false
 title: "Side Leg Raise"
 url: "/exercises/side-leg-raise-workout-exercise"
@@ -18,5 +19,4 @@ OrderFull_Last: "air-bike"
 collections: ["Kick Friendly", "Raising Legs"]
 muscles: ["Glutes", "Hips", "Quads", "Abductor"]
 flexibilities: ["Hips"]
-date: 2021-02-25T23:22:06+01:00
 ---

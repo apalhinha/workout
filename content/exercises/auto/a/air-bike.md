@@ -1,5 +1,5 @@
 ---
-progressions_weight: ""
+date: 2021-02-27T13:50:57+01:00
 draft: false
 title: "Air Bike"
 url: "/exercises/air-bike-workout-exercise"
@@ -10,11 +10,11 @@ steps: ["Lay down on your back.", "Extend your arms, hands near your hips.", "Sl
 hints: ["Perform the movement slowly, feel the effort on the involved muscles.", "You should not strain your neck."]
 benefits: ["Easy exercise with increased difficulty when using a bigger number of reps.", "Activates abs with a light and dyamic movement."]
 counting: ["Perform series of 30 or 40."]
+othernames: ["Air Bicycle"]
 number: 28
-similar: ["flutter kicks"]
-OrderFull_Prev: "fg-w-pus"
+similar: ["flutter kicks", "air bike"]
+OrderFull_Prev: "ol-lsit"
 OrderFull_First: "calfr"
 collections: ["Crunch Variations"]
 muscles: ["Abs", "Hips", "Quads"]
-date: 2021-02-25T23:22:06+01:00
 ---
