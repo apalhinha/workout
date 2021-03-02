@@ -1,5 +1,4 @@
 ---
-date: 2021-03-02T11:50:31+01:00
 draft: false
 title: "One Leg L-Sit"
 url: "/exercises/one-leg-l-sit-workout-exercise"
@@ -11,7 +10,9 @@ OrderFull_Prev: "w-lsit-pos"
 OrderFull_First: "calfr"
 OrderFull_Next: "air-bike"
 OrderFull_Last: "sumo-sqt"
-progressions: ["L-Sit Preparation", "Floor L-Sit Progression"]
+collections: ["L-Sit friendly"]
+progressions: ["Floor L-Sit Progression"]
 progressions_weight: 1
 equipment: ["Paralettes"]
+date: 2021-03-02T12:33:25+01:00
 ---

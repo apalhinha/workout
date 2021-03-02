@@ -6,15 +6,24 @@
     <description>Recent content in Muscles on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Mar 2021 11:50:31 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 12:33:25 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/muscles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Abductor</title>
+      <link>http://www.befit.space/muscles/abductor/</link>
+      <pubDate>Tue, 02 Mar 2021 12:33:25 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/abductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Abs</title>
       <link>http://www.befit.space/muscles/abs/</link>
-      <pubDate>Tue, 02 Mar 2021 11:50:31 +0100</pubDate>
+      <pubDate>Tue, 02 Mar 2021 12:33:25 +0100</pubDate>
       
       <guid>http://www.befit.space/muscles/abs/</guid>
       <description></description>
@@ -23,9 +32,45 @@
     <item>
       <title>Adductor</title>
       <link>http://www.befit.space/muscles/adductor/</link>
-      <pubDate>Tue, 02 Mar 2021 11:50:31 +0100</pubDate>
+      <pubDate>Tue, 02 Mar 2021 12:33:25 +0100</pubDate>
       
       <guid>http://www.befit.space/muscles/adductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glutes</title>
+      <link>http://www.befit.space/muscles/glutes/</link>
+      <pubDate>Tue, 02 Mar 2021 12:33:25 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/glutes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamstring</title>
+      <link>http://www.befit.space/muscles/hamstring/</link>
+      <pubDate>Tue, 02 Mar 2021 12:33:25 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/hamstring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hips</title>
+      <link>http://www.befit.space/muscles/hips/</link>
+      <pubDate>Tue, 02 Mar 2021 12:33:25 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/hips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quads</title>
+      <link>http://www.befit.space/muscles/quads/</link>
+      <pubDate>Tue, 02 Mar 2021 12:33:25 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/quads/</guid>
       <description></description>
     </item>
     
@@ -57,42 +102,6 @@
     </item>
     
     <item>
-      <title>Glutes</title>
-      <link>http://www.befit.space/muscles/glutes/</link>
-      <pubDate>Tue, 02 Mar 2021 11:50:31 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/glutes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hamstring</title>
-      <link>http://www.befit.space/muscles/hamstring/</link>
-      <pubDate>Tue, 02 Mar 2021 11:50:31 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/hamstring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hips</title>
-      <link>http://www.befit.space/muscles/hips/</link>
-      <pubDate>Tue, 02 Mar 2021 11:50:31 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/hips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quads</title>
-      <link>http://www.befit.space/muscles/quads/</link>
-      <pubDate>Tue, 02 Mar 2021 11:50:31 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/quads/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shoulder</title>
       <link>http://www.befit.space/muscles/shoulder/</link>
       <pubDate>Tue, 02 Mar 2021 11:50:31 +0100</pubDate>
@@ -116,15 +125,6 @@
       <pubDate>Tue, 02 Mar 2021 11:50:31 +0100</pubDate>
       
       <guid>http://www.befit.space/muscles/upper-back/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abductor</title>
-      <link>http://www.befit.space/muscles/abductor/</link>
-      <pubDate>Tue, 02 Mar 2021 11:50:30 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/abductor/</guid>
       <description></description>
     </item>
     
