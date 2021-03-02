@@ -3,13 +3,13 @@ title: "Last updates"
 date: 2021-01-14T19:25:36+01:00
 draft: false
 ---
-This catalog was las updated on {{< update_date >}}. Last additions are:
+This catalog was las updated on {{< update_date_s >}}. Last additions are:
 {{< lista_ultimas >}}
 
 <!--more-->
 
-There are {{< num_othernames >}} entries in our database, corresponding to
-{{< num_exercises >}} distinct exercises.
+There are {{< num_othernames_s >}} entries in our database, corresponding to
+{{< num_exercises_s >}} distinct exercises.
 
 
 Also, a few collections were rehearsed:

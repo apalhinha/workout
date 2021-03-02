@@ -295,5 +295,16 @@
     "duration": 10,
     "author": "Darebee"
   }
+},
+{
+  "eid": "sumo-sqt",
+  "name": "Sumo Squat",
+  "video": {
+  "videoid": "9ZuXKqRbT9k",
+    "name": "Squat, Sumo",
+    "start": 3,
+    "duration": 10,
+    "author": "FitnessBlender"
+  }
 }
 ]

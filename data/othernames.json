@@ -231,6 +231,12 @@
   "othername": "Standing Side Leg Raise",
   "eid": "s-leg-rais",
   "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Sumo Squat",
+  "eid": "sumo-sqt",
+  "letter_start": "",
   "letter_end": "S"
 },
 {

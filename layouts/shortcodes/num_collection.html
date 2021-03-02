@@ -1,0 +1,11 @@
+{{ $t := .Get 0}}
+{{ $p := .Get 1 }}
+{{ $q := .Get 2}}
+{{ range $i, $c := .Site.Data.status.groups }}
+  {{ if eq $p $c.name }}
+    {{ if eq $t $c.type }}
+      {{ if eq $q "actual"}}{{- $c.actual -}}{{ end }}
+      {{ if eq $q "planned"}}{{- $c.planned -}}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

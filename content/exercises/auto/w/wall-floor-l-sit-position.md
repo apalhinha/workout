@@ -1,5 +1,5 @@
 ---
-date: 2021-02-27T13:50:56+01:00
+date: 2021-03-02T11:50:31+01:00
 draft: false
 title: "Wall/floor L-Sit Position"
 url: "/exercises/wall-floor-l-sit-position-workout-exercise"
@@ -15,7 +15,7 @@ similar: ["L-Sit Leg Raise"]
 OrderFull_Prev: "pul-flex"
 OrderFull_First: "calfr"
 OrderFull_Next: "ol-lsit"
-OrderFull_Last: "air-bike"
+OrderFull_Last: "sumo-sqt"
 collections: ["Raising Legs"]
 progressions: ["L-Sit Preparation"]
 progressions_weight: 1

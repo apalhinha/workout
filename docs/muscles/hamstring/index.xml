@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hamstring on Be Fit, Move, Exercise, Workout</title>
+    <link>http://www.befit.space/muscles/hamstring/</link>
+    <description>Recent content in Hamstring on Be Fit, Move, Exercise, Workout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 11:50:31 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.befit.space/muscles/hamstring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sumo Squat</title>
+      <link>http://www.befit.space/exercises/sumo-squat-workout-exercise/</link>
+      <pubDate>Tue, 02 Mar 2021 11:50:31 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/sumo-squat-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

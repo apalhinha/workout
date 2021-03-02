@@ -1,5 +1,5 @@
 ---
-date: 2021-02-27T13:50:56+01:00
+date: 2021-03-02T11:50:30+01:00
 draft: false
 title: "Pull-up"
 url: "/exercises/pull-up-workout-exercise"
@@ -16,7 +16,7 @@ support_from: ["pike-pus"]
 OrderFull_Prev: "jmp-sqt"
 OrderFull_First: "calfr"
 OrderFull_Next: "close-g-pus"
-OrderFull_Last: "air-bike"
+OrderFull_Last: "sumo-sqt"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
 progressions_weight: 5
