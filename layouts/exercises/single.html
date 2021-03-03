@@ -52,7 +52,7 @@
 							<p>Exterpt from <a href="https://www.youtube.com/watch?v={{.video.videoid}}" target="_blank">'{{.video.name}}'<img src="/icons/out-site.png" alt="Leave site"></a>
 							{{if .video.author}}
 				        {{ range (where $.Site.Data.authors "author" .video.author) }}
-				          by  <a href="{{.url}}" target="_blank">{{.author}}<img src="/icons/out-site.png" alt="Leave site"></a>
+				          by   <a href="{{.url}}" target="_blank">{{.author}}<img src="/icons/out-site.png" alt="Leave site"></a>
 				        {{end}}
 				      {{end}}
 							</p>
