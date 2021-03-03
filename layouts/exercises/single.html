@@ -21,6 +21,7 @@
 			{{ if .Content }}
 				{{ .Content }}
 			{{ else }}
+
 				{{ if (getenv "HUGO_TEST") }}
 					{{ partial "navigate_exercises.html" . }}
 				{{ end }}
@@ -33,17 +34,17 @@
 				<!--{{ end }}-->
 
 				{{ if .Params.othernames }}
-					<p>Other names:
+					<p>Exercise is also known as
 						{{ range $i, $v := .Params.othernames }}
 						  {{- if ne $i 0 -}}, {{end}}
 						  {{- $v -}}
-						{{ end }}
+						{{- end -}}.
 					</p>
 				{{ end }}
 
 				<!-- Video -->
 				{{ range (where $.Site.Data.exercises "eid" .Page.Params.eid) }}
-					<p>Video demonstration:</p>
+					<h2>Video demonstration</h2>
 					<div>
 						<iframe width="560" height="315" src="https://www.youtube.com/embed/{{.video.videoid}}?start={{.video.start}}&end={{add .video.start .video.duration}}" frameborder="0" allowfullscreen>
 						</iframe>
@@ -60,7 +61,7 @@
 				{{ end }}
 
 				{{ if .Params.steps }}
-					<h3>Step by step:</h3>
+					<h2>Step by step:</h2>
 					<ol>
 						{{range .Params.steps}}
 						<li>
@@ -71,7 +72,7 @@
 				{{ end }}
 
 				{{ if .Params.hints }}
-					<h3>Hints & tips:</h3>
+					<h1>Hints & tips:</h1>
 					<ul>
 						{{range .Params.hints}}
 						<li>
@@ -82,7 +83,7 @@
 				{{ end }}
 
 				{{ if .Params.benefits }}
-					<h3>Benefits:</h3>
+					<h1>Benefits:</h1>
 					<ul>
 						{{range .Params.benefits}}
 						<li>
@@ -93,7 +94,7 @@
 				{{ end }}
 
 				{{ if .Params.counting }}
-					<h3>Counting & gamification:</h3>
+					<h1>Counting & gamification:</h1>
 					<ul>
 						{{range .Params.counting}}
 						<li>
@@ -128,7 +129,7 @@
 		</div>
 
 		{{ if or (.Params.similar) (.Params.oneway) }}
-			<h3>Similar or related exercises:</h3>
+			<h1>Similar or related exercises:</h1>
 		{{end}}
 
 		{{ if .Params.oneway }}
@@ -152,7 +153,7 @@
 		{{ end }}
 
 		{{ if .Params.support_to }}
-			<h3>Supports and facilitates:</h3>
+			<h1>Supports and facilitates:</h1>
 			{{ $s := .Params.support_to}}
 			{{ range .Site.Pages }}
 				{{ if in $s .Params.eid }}
@@ -162,7 +163,7 @@
 		{{ end }}
 
 		{{ if .Params.support_from }}
-			<h3>Supported and facilitated by:</h3>
+			<h1>Supported and facilitated by:</h1>
 			{{ $s := .Params.support_from}}
 			{{ range .Site.Pages }}
 				{{ if in $s .Params.eid }}

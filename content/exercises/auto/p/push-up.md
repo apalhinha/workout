@@ -1,5 +1,4 @@
 ---
-date: 2021-03-02T11:50:30+01:00
 draft: false
 title: "Push-up"
 url: "/exercises/push-up-workout-exercise"
@@ -15,7 +14,8 @@ number: 5
 OrderFull_Prev: "stair"
 OrderFull_First: "calfr"
 OrderFull_Next: "r-leg-pus"
-OrderFull_Last: "sumo-sqt"
+OrderFull_Last: "sit-up"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]
+date: 2021-03-03T21:02:59+01:00
 ---

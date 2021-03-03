@@ -1,5 +1,4 @@
 ---
-date: 2021-03-02T11:50:30+01:00
 draft: false
 title: "Negative Pull-up"
 url: "/exercises/negative-pull-up-workout-exercise"
@@ -15,11 +14,12 @@ oneway: "pul"
 OrderFull_Prev: "chin"
 OrderFull_First: "calfr"
 OrderFull_Next: "pul-dead"
-OrderFull_Last: "sumo-sqt"
+OrderFull_Last: "sit-up"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
 progressions_weight: 3
 progressions_notes: "Work all muscles needed"
 equipment: ["Pull-up Bar"]
 muscles: ["Biceps", "Upper Back", "Lats"]
+date: 2021-03-03T21:02:59+01:00
 ---

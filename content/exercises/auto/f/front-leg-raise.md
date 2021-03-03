@@ -1,5 +1,4 @@
 ---
-progressions_weight: 5
 draft: false
 title: "Front Leg Raise"
 url: "/exercises/front-leg-raise-workout-exercise"
@@ -16,9 +15,9 @@ similar: ["Standing Leg Raise"]
 OrderFull_Prev: "calfr-h"
 OrderFull_First: "calfr"
 OrderFull_Next: "tricep-w-pus"
-OrderFull_Last: "sumo-sqt"
-collections: ["L-Sit friendly", "Kick Friendly", "Raising Legs"]
-muscles: ["Abs", "Glutes", "Hips", "Abductor", "Adductor"]
+OrderFull_Last: "sit-up"
+collections: ["L-Sit Friendly", "Kick Friendly", "Raising Legs"]
+muscles: ["Abs", "Glutes", "Hip Flexor", "Abductor", "Adductor"]
 flexibilities: ["Hips", "Harmstring"]
-date: 2021-03-02T12:33:25+01:00
+date: 2021-03-03T21:02:59+01:00
 ---

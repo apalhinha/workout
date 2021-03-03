@@ -14,6 +14,7 @@ enableRobotsTXT = true
   pager = false # Show pager navigation (prev/next links) at the bottom of pages if true
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
+  customCSS = ["css/befit.css"]
 
 [Params.sidebar]
   home = "right" # Configure layout for home page

@@ -15,16 +15,22 @@
   "othername": "Air Bike Crunch",
   "eid": "air-bike-cru",
   "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Alternate Crunch Elbow Towards Knee",
+  "eid": "air-bike-cru",
+  "letter_start": "",
   "letter_end": "A"
 },
 {
-  "othername": "Bicycle crunch",
+  "othername": "Bicycle Crunch",
   "eid": "air-bike-cru",
   "letter_start": "B",
   "letter_end": ""
 },
 {
-  "othername": "Bike crunch",
+  "othername": "Bike Crunch",
   "eid": "air-bike-cru",
   "letter_start": "",
   "letter_end": ""
@@ -200,6 +206,12 @@
 {
   "othername": "Side Leg Raise",
   "eid": "s-leg-rais",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Sit-up",
+  "eid": "sit-up",
   "letter_start": "",
   "letter_end": ""
 },

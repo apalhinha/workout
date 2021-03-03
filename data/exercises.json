@@ -88,6 +88,17 @@
   }
 },
 {
+  "eid": "sit-up",
+  "name": "Sit-up",
+  "video": {
+  "videoid": "5bOjqyL0PGE",
+    "name": "Exercise Library: Sit-Ups",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "neg-pul",
   "name": "Negative Pull-up",
   "video": {
@@ -168,11 +179,11 @@
   "eid": "air-bike-cru",
   "name": "Air Bike Crunch",
   "video": {
-  "videoid": "i6mPCVUrtNk",
-    "name": "Air Bike - Ab Exercises - Bodybuilding.com",
-    "start": 9,
-    "duration": 25,
-    "author": "Bodybuilding.com"
+  "videoid": "wDbRpbJyMu8",
+    "name": "Exercise Library: Knee-to-Elbow Crunches",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
   }
 },
 {
