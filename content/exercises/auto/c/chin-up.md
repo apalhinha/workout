@@ -1,4 +1,5 @@
 ---
+date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Chin-up"
 url: "/exercises/chin-up-workout-exercise"
@@ -18,5 +19,4 @@ OrderFull_Last: "sit-up"
 collections: ["Hanging"]
 equipment: ["Pull-up Bar"]
 muscles: ["Shoulder", "Biceps", "Forearms", "Upper Back"]
-date: 2021-03-03T21:02:59+01:00
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Climber"
 url: "/exercises/climber-workout-exercise"
@@ -12,5 +13,4 @@ OrderFull_Next: "sumo-sqt"
 OrderFull_Last: "sit-up"
 muscles: ["Glutes", "Quads"]
 categories: ["Cardio"]
-date: 2021-03-03T21:02:59+01:00
 ---

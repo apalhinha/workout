@@ -20,5 +20,5 @@ collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Hips"]
 categories: ["Balance"]
-date: 2021-03-03T21:02:59+01:00
+date: 2021-03-03T21:09:08+01:00
 ---

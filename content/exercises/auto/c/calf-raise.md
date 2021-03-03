@@ -1,4 +1,5 @@
 ---
+date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Calf Raise"
 url: "/exercises/calf-raise-workout-exercise"
@@ -15,5 +16,4 @@ OrderFull_Next: "stair"
 OrderFull_Last: "sit-up"
 muscles: ["Calves"]
 flexibilities: ["Calves"]
-date: 2021-03-03T21:02:59+01:00
 ---

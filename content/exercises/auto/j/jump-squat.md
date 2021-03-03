@@ -1,4 +1,5 @@
 ---
+date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Jump Squat"
 url: "/exercises/jump-squat-workout-exercise"
@@ -19,5 +20,4 @@ collections: ["Squat Variations"]
 muscles: ["Glutes", "Hip Flexor", "Quads", "Calves"]
 flexibilities: ["Hips"]
 categories: ["Cardio", "Plyometrics"]
-date: 2021-03-03T21:02:59+01:00
 ---

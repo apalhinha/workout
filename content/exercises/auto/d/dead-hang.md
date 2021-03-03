@@ -1,4 +1,5 @@
 ---
+date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Dead Hang"
 url: "/exercises/dead-hang-workout-exercise"
@@ -24,5 +25,4 @@ progressions_notes: "Strengthen your grip, forearms and shoulders"
 equipment: ["Pull-up Bar"]
 muscles: ["Shoulder", "Forearms", "Hand", "Upper Back"]
 flexibilities: ["Shoulder"]
-date: 2021-03-03T21:02:59+01:00
 ---

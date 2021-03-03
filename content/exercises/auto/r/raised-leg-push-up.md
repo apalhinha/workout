@@ -1,4 +1,5 @@
 ---
+date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Raised Leg Push-up"
 url: "/exercises/raised-leg-push-up-workout-exercise"
@@ -17,5 +18,4 @@ OrderFull_Next: "s-leg-rais"
 OrderFull_Last: "sit-up"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]
-date: 2021-03-03T21:02:59+01:00
 ---

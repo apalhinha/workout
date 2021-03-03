@@ -18,5 +18,5 @@ OrderFull_Next: "climb"
 OrderFull_Last: "sit-up"
 collections: ["Crunch Variations"]
 muscles: ["Abs", "Hip Flexor", "Quads"]
-date: 2021-03-03T21:02:59+01:00
+date: 2021-03-03T21:09:09+01:00
 ---
