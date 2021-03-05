@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Negative Pull-up"
 url: "/exercises/negative-pull-up-workout-exercise"
@@ -21,5 +22,4 @@ progressions_weight: 3
 progressions_notes: "Work all muscles needed"
 equipment: ["Pull-up Bar"]
 muscles: ["Biceps", "Upper Back", "Lats"]
-date: 2021-03-05T01:05:46+01:00
 ---

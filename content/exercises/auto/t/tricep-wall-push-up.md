@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Tricep Wall Push-up"
 url: "/exercises/tricep-wall-push-up-workout-exercise"
@@ -20,5 +21,4 @@ OrderFull_Last: "wide-pus"
 equipment: ["Wall"]
 collections: ["Push-up Variations"]
 muscles: ["Triceps"]
-date: 2021-03-05T01:05:46+01:00
 ---

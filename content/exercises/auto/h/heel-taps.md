@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Heel taps"
 url: "/exercises/heel-taps-workout-exercise"
@@ -18,5 +19,4 @@ OrderFull_Next: "flutter-kick"
 OrderFull_Last: "wide-pus"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs"]
-date: 2021-03-05T01:05:46+01:00
 ---

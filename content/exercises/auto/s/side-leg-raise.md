@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Side Leg Raise"
 url: "/exercises/side-leg-raise-workout-exercise"
@@ -19,5 +20,4 @@ OrderFull_Last: "wide-pus"
 collections: ["Kick Friendly", "Raising Legs"]
 muscles: ["Glutes", "Hip Flexor", "Abductor", "Quads"]
 flexibilities: ["Hips"]
-date: 2021-03-05T01:05:46+01:00
 ---

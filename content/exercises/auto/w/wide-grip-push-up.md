@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Wide Grip Push-up"
 url: "/exercises/wide-grip-push-up-workout-exercise"
@@ -9,5 +10,4 @@ number: 36
 OrderFull_Prev: "sqt-hold"
 OrderFull_First: "calfr"
 collections: ["Push-up Variations"]
-date: 2021-03-05T01:05:46+01:00
 ---

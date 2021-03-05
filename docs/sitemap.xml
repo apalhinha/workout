@@ -2,12 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.befit.space/muscles/abductor/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
+    <loc>http://www.befit.space/muscles/abs/</loc>
+    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
   </url>
     
   <url>
-    <loc>http://www.befit.space/muscles/abs/</loc>
+    <loc>http://www.befit.space/</loc>
+    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/collections/</loc>
+    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/collections/crunch-variations/</loc>
+    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/exercises/flutter-kicks-workout-exercise/</loc>
+    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/muscles/</loc>
+    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/muscles/abductor/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -28,11 +53,6 @@
     
   <url>
     <loc>http://www.befit.space/categories/balance/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -92,17 +112,7 @@
   </url>
     
   <url>
-    <loc>http://www.befit.space/collections/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
     <loc>http://www.befit.space/exercises/crunch-workout-exercise/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/collections/crunch-variations/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -128,11 +138,6 @@
     
   <url>
     <loc>http://www.befit.space/flexibilities/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/exercises/flutter-kicks-workout-exercise/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -218,11 +223,6 @@
     
   <url>
     <loc>http://www.befit.space/exercises/mountain-climber-workout-exercise/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/muscles/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     

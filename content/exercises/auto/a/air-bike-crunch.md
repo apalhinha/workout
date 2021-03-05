@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Air Bike Crunch"
 url: "/exercises/air-bike-crunch-workout-exercise"
@@ -20,5 +21,4 @@ collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Hips"]
 categories: ["Balance"]
-date: 2021-03-05T01:05:46+01:00
 ---

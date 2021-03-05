@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Pike Push-up"
 url: "/exercises/pike-push-up-workout-exercise"
@@ -19,5 +20,4 @@ OrderFull_Next: "calfr-h"
 OrderFull_Last: "wide-pus"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Triceps", "Chest"]
-date: 2021-03-05T01:05:46+01:00
 ---

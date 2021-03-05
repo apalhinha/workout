@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Squat"
 url: "/exercises/squat-workout-exercise"
@@ -12,5 +13,4 @@ OrderFull_Next: "sqt-hold"
 OrderFull_Last: "wide-pus"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Hip Flexor", "Quads"]
-date: 2021-03-05T01:05:46+01:00
 ---

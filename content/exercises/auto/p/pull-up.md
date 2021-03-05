@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Pull-up"
 url: "/exercises/pull-up-workout-exercise"
@@ -23,5 +24,4 @@ progressions_weight: 5
 progressions_notes: "Enjoy the pull-ups"
 equipment: ["Pull-up Bar"]
 muscles: ["Shoulder", "Biceps", "Hand", "Chest", "Upper Back"]
-date: 2021-03-05T01:05:46+01:00
 ---

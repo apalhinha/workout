@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Wall/floor L-Sit Position"
 url: "/exercises/wall-floor-l-sit-position-workout-exercise"
@@ -17,5 +18,4 @@ OrderFull_Next: "ol-lsit"
 OrderFull_Last: "wide-pus"
 collections: ["L-Sit Friendly"]
 muscles: ["Abs", "Quads", "Hamstring"]
-date: 2021-03-05T01:05:46+01:00
 ---

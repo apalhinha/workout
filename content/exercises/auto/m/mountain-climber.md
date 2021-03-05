@@ -1,4 +1,5 @@
 ---
+date: 2021-03-05T01:05:46+01:00
 draft: false
 title: "Mountain Climber"
 url: "/exercises/mountain-climber-workout-exercise"
@@ -18,5 +19,4 @@ OrderFull_Next: "sumo-sqt"
 OrderFull_Last: "wide-pus"
 muscles: ["Shoulder", "Triceps", "Abs", "Lats", "Glutes", "Quads", "Hamstring"]
 categories: ["Cardio", "Balance"]
-date: 2021-03-05T01:05:46+01:00
 ---
