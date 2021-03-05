@@ -1,5 +1,4 @@
 ---
-date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Push-up"
 url: "/exercises/push-up-workout-exercise"
@@ -12,10 +11,12 @@ benefits: ["Builds upper body strength.", "Engages lower back and abdominal musc
 counting: ["Perform one or two daily series, increase the series repetitions once a week.", "Set a goal for a month or year period, record your repetitions to reach that goal."]
 othernames: ["Chest Press-up", "Chest Press"]
 number: 5
+similar: ["pus"]
 OrderFull_Prev: "stair"
 OrderFull_First: "calfr"
 OrderFull_Next: "r-leg-pus"
-OrderFull_Last: "sit-up"
+OrderFull_Last: "wide-pus"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Chest", "Abs", "Upper Back"]
+date: 2021-03-05T01:05:46+01:00
 ---

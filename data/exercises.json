@@ -55,6 +55,17 @@
   }
 },
 {
+  "eid": "heel-tap",
+  "name": "Heel taps",
+  "video": {
+  "videoid": "jfXcyLTuKP4",
+    "name": "Exercise Library: Side Leg Raises",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "rais-leg-cru",
   "name": "Raised Leg Crunch",
   "video": {
@@ -78,10 +89,21 @@
 },
 {
   "eid": "climb",
-  "name": "Climber",
+  "name": "Mountain Climber",
   "video": {
   "videoid": "w2iTOneGPdU",
     "name": "Exercise Library: Raised Leg Crunches",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
+  "eid": "flutter-kick",
+  "name": "Flutter Kicks",
+  "video": {
+  "videoid": "WRnq49TAv-w",
+    "name": "Exercise Library: Flutter Kicks",
     "start": 1,
     "duration": 10,
     "author": "Darebee"
@@ -121,6 +143,17 @@
   }
 },
 {
+  "eid": "sqt-hold",
+  "name": "Squat hold",
+  "video": {
+  "videoid": "_izLJ0giePc",
+    "name": "Squat Hold - XFit Daily",
+    "start": 9,
+    "duration": 10,
+    "author": "XHIT Daily"
+  }
+},
+{
   "eid": "pus-tricep",
   "name": "Tricep Push-up",
   "video": {
@@ -137,6 +170,17 @@
   "video": {
   "videoid": "HiRsmHH7psA",
     "name": "Exercise Library: Crunches",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
+  "eid": "sqt",
+  "name": "Squat",
+  "video": {
+  "videoid": "Zqc_lc93hak",
+    "name": "Exercise Library: Squats",
     "start": 1,
     "duration": 10,
     "author": "Darebee"
@@ -220,6 +264,17 @@
   }
 },
 {
+  "eid": "wide-pus",
+  "name": "Wide Grip Push-up",
+  "video": {
+  "videoid": "1Y8pTxdwf3M",
+    "name": "Exercise Library: Push-Ups / Wide Grip",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "tricep-w-pus",
   "name": "Tricep Wall Push-up",
   "video": {
@@ -289,11 +344,11 @@
   "eid": "ol-lsit",
   "name": "One Leg L-Sit",
   "video": {
-  "videoid": "Q3D7eWdkctw",
-    "name": "Parallettes for Beginners | Exercise Collection",
-    "start": 162,
-    "duration": 7,
-    "author": "Mani the Monkey"
+  "videoid": "V3hnphPbiAg",
+    "name": "Single Leg L Sit on Parallettes",
+    "start": 1,
+    "duration": 8,
+    "author": "Functional Bodybuilding"
   }
 },
 {

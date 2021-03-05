@@ -21,6 +21,12 @@
   "othername": "Alternate Crunch Elbow Towards Knee",
   "eid": "air-bike-cru",
   "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Alternate heel touches",
+  "eid": "heel-tap",
+  "letter_start": "",
   "letter_end": "A"
 },
 {
@@ -114,10 +120,28 @@
   "letter_end": ""
 },
 {
+  "othername": "Flutter Kicks",
+  "eid": "flutter-kick",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Front Leg Raise",
   "eid": "f-leg-rais",
   "letter_start": "",
   "letter_end": "F"
+},
+{
+  "othername": "Heel taps",
+  "eid": "heel-tap",
+  "letter_start": "H",
+  "letter_end": "H"
+},
+{
+  "othername": "Iron Cross Push-up",
+  "eid": "wide-pus",
+  "letter_start": "I",
+  "letter_end": "I"
 },
 {
   "othername": "Jump Squat",
@@ -129,6 +153,12 @@
   "othername": "L-Sit Leg Extension",
   "eid": "ol-lsit",
   "letter_start": "L",
+  "letter_end": ""
+},
+{
+  "othername": "Lying heel touches",
+  "eid": "heel-tap",
+  "letter_start": "",
   "letter_end": "L"
 },
 {
@@ -164,6 +194,12 @@
 {
   "othername": "Passive Dead Hang",
   "eid": "pul-dead",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Penguin taps",
+  "eid": "heel-tap",
   "letter_start": "",
   "letter_end": ""
 },
@@ -212,6 +248,18 @@
 {
   "othername": "Sit-up",
   "eid": "sit-up",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Squat",
+  "eid": "sqt",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Squat hold",
+  "eid": "sqt-hold",
   "letter_start": "",
   "letter_end": ""
 },
@@ -290,6 +338,18 @@
 {
   "othername": "Wall/floor L-Sit Position",
   "eid": "w-lsit-pos",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Wide Grip Push-up",
+  "eid": "wide-pus",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Wide arm press-up",
+  "eid": "wide-pus",
   "letter_start": "",
   "letter_end": "W"
 }

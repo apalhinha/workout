@@ -1,11 +1,10 @@
 ---
-date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Tricep Knees Push-up"
 url: "/exercises/tricep-knees-push-up-workout-exercise"
 eid: "tricep-knee-pus"
 description: "How-to, correct form, instructions and hints to perform Tricep Knees Push-up. Similar exercises and video demo"
-intro: ["The exercise is a medium term between the wall tricep and regular tricep push-up. Highly focused in the triceps, also adresses shoulder and chest.."]
+intro: ["The exercise is a medium term between the wall tricep and regular tricep push-up. Highly focused in the triceps, also adresses shoulder and chest."]
 steps: ["Kneel on the floow.", "Put your hands on the floor shoulder-width and arms straight, fingers facing forward.", "This is the starting position.", "Bend your arms, bringing shoulders close to your hands and chest near the floor.", "Streighten your arms and bring your body to the initial position."]
 hints: ["Keep the elbows close to the body. For this put your hands in a way that the fingers point forward."]
 benefits: ["Strengthen Triceps.", "On difficulty, is located between the wall and full version of Tricep Push-ups."]
@@ -17,7 +16,8 @@ support_from: ["tricep-w-pus"]
 OrderFull_Prev: "bird-dog"
 OrderFull_First: "calfr"
 OrderFull_Next: "fg-w-pus"
-OrderFull_Last: "sit-up"
+OrderFull_Last: "wide-pus"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Triceps", "Chest"]
+date: 2021-03-05T01:05:46+01:00
 ---

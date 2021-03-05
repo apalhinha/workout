@@ -15,10 +15,10 @@ similar: ["flutter kicks", "crunch", "air bike"]
 OrderFull_Prev: "close-g-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "pike-pus"
-OrderFull_Last: "sit-up"
+OrderFull_Last: "wide-pus"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Hips"]
 categories: ["Balance"]
-date: 2021-03-03T21:09:08+01:00
+date: 2021-03-05T01:05:46+01:00
 ---

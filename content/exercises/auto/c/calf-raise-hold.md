@@ -1,11 +1,10 @@
 ---
-date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Calf Raise Hold"
 url: "/exercises/calf-raise-hold-workout-exercise"
 eid: "calfr-h"
 description: "How-to, correct form, instructions and hints to perform Calf Raise Hold. Similar exercises and video demo"
-intro: ["Calves are used in the daily life, when walking, running or using stairs. Standing in your toes is an easy exercise to strengthen your calves.."]
+intro: ["Calves are used in the daily life, when walking, running or using stairs. Standing in your toes is an easy exercise to strengthen your calves."]
 steps: ["Stand up straight, eventually holding to something.", "Raise your heels until you are standing on your toes.", "Stay in this position."]
 hints: ["Exercise near a wall or something to grab, in case you lack balance."]
 benefits: ["Stregthen the Calves.", "Can be done everywhere and is office friendly."]
@@ -15,6 +14,7 @@ similar: ["calves"]
 OrderFull_Prev: "pike-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "f-leg-rais"
-OrderFull_Last: "sit-up"
+OrderFull_Last: "wide-pus"
 muscles: ["Calves"]
+date: 2021-03-05T01:05:46+01:00
 ---

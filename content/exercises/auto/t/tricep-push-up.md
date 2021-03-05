@@ -1,5 +1,4 @@
 ---
-date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Tricep Push-up"
 url: "/exercises/tricep-push-up-workout-exercise"
@@ -18,7 +17,8 @@ support_from: ["tricep-knee-pus"]
 OrderFull_Prev: "pul-dead"
 OrderFull_First: "calfr"
 OrderFull_Next: "cru"
-OrderFull_Last: "sit-up"
+OrderFull_Last: "wide-pus"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Triceps"]
+date: 2021-03-05T01:05:46+01:00
 ---

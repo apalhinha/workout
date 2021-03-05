@@ -1,5 +1,4 @@
 ---
-date: 2021-03-03T21:02:59+01:00
 draft: false
 title: "Sit-up"
 url: "/exercises/sit-up-workout-exercise"
@@ -14,5 +13,8 @@ number: 31
 similar: ["crunch", "sit up"]
 OrderFull_Prev: "sumo-sqt"
 OrderFull_First: "calfr"
+OrderFull_Next: "heel-tap"
+OrderFull_Last: "wide-pus"
 collections: ["Crunch Variations"]
+date: 2021-03-05T01:05:46+01:00
 ---
