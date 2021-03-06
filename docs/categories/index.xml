@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Mar 2021 01:05:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 12:35:57 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Isometric</title>
+      <link>http://www.befit.space/categories/isometric/</link>
+      <pubDate>Sat, 06 Mar 2021 12:35:57 +0100</pubDate>
+      
+      <guid>http://www.befit.space/categories/isometric/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Balance</title>

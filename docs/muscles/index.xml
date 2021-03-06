@@ -6,15 +6,69 @@
     <description>Recent content in Muscles on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Mar 2021 01:12:59 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 12:35:57 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/muscles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Glutes</title>
+      <link>http://www.befit.space/muscles/glutes/</link>
+      <pubDate>Sat, 06 Mar 2021 12:35:57 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/glutes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hip Flexor</title>
+      <link>http://www.befit.space/muscles/hip-flexor/</link>
+      <pubDate>Sat, 06 Mar 2021 12:35:57 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/hip-flexor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quads</title>
+      <link>http://www.befit.space/muscles/quads/</link>
+      <pubDate>Sat, 06 Mar 2021 12:35:57 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/quads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biceps</title>
+      <link>http://www.befit.space/muscles/biceps/</link>
+      <pubDate>Sat, 06 Mar 2021 12:30:43 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/biceps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lats</title>
+      <link>http://www.befit.space/muscles/lats/</link>
+      <pubDate>Sat, 06 Mar 2021 12:30:43 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/lats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper Back</title>
+      <link>http://www.befit.space/muscles/upper-back/</link>
+      <pubDate>Sat, 06 Mar 2021 12:30:43 +0100</pubDate>
+      
+      <guid>http://www.befit.space/muscles/upper-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Abs</title>
       <link>http://www.befit.space/muscles/abs/</link>
-      <pubDate>Fri, 05 Mar 2021 01:12:59 +0100</pubDate>
+      <pubDate>Sat, 06 Mar 2021 11:36:03 +0100</pubDate>
       
       <guid>http://www.befit.space/muscles/abs/</guid>
       <description></description>
@@ -35,15 +89,6 @@
       <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
       
       <guid>http://www.befit.space/muscles/adductor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biceps</title>
-      <link>http://www.befit.space/muscles/biceps/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/biceps/</guid>
       <description></description>
     </item>
     
@@ -75,15 +120,6 @@
     </item>
     
     <item>
-      <title>Glutes</title>
-      <link>http://www.befit.space/muscles/glutes/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/glutes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hamstring</title>
       <link>http://www.befit.space/muscles/hamstring/</link>
       <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
@@ -98,24 +134,6 @@
       <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
       
       <guid>http://www.befit.space/muscles/hand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hip Flexor</title>
-      <link>http://www.befit.space/muscles/hip-flexor/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/hip-flexor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lats</title>
-      <link>http://www.befit.space/muscles/lats/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/lats/</guid>
       <description></description>
     </item>
     
@@ -138,15 +156,6 @@
     </item>
     
     <item>
-      <title>Quads</title>
-      <link>http://www.befit.space/muscles/quads/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/quads/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shoulder</title>
       <link>http://www.befit.space/muscles/shoulder/</link>
       <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
       
       <guid>http://www.befit.space/muscles/triceps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Upper Back</title>
-      <link>http://www.befit.space/muscles/upper-back/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/muscles/upper-back/</guid>
       <description></description>
     </item>
     

@@ -2,33 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.befit.space/muscles/abs/</loc>
-    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+    <loc>http://www.befit.space/</loc>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
   </url>
     
   <url>
-    <loc>http://www.befit.space/</loc>
-    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+    <loc>http://www.befit.space/categories/</loc>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
   </url>
     
   <url>
     <loc>http://www.befit.space/collections/</loc>
-    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
   </url>
     
   <url>
-    <loc>http://www.befit.space/collections/crunch-variations/</loc>
-    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+    <loc>http://www.befit.space/muscles/glutes/</loc>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
   </url>
     
   <url>
-    <loc>http://www.befit.space/exercises/flutter-kicks-workout-exercise/</loc>
-    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+    <loc>http://www.befit.space/muscles/hip-flexor/</loc>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/categories/isometric/</loc>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
   </url>
     
   <url>
     <loc>http://www.befit.space/muscles/</loc>
-    <lastmod>2021-03-05T01:12:59+01:00</lastmod>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/muscles/quads/</loc>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/exercises/squat-hold-workout-exercise/</loc>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/collections/squat-variations/</loc>
+    <lastmod>2021-03-06T12:35:57+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/muscles/biceps/</loc>
+    <lastmod>2021-03-06T12:30:43+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/equipment/</loc>
+    <lastmod>2021-03-06T12:30:43+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/collections/hanging/</loc>
+    <lastmod>2021-03-06T12:30:43+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/muscles/lats/</loc>
+    <lastmod>2021-03-06T12:30:43+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/exercises/negative-pull-up-workout-exercise/</loc>
+    <lastmod>2021-03-06T12:30:43+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/progressions/</loc>
+    <lastmod>2021-03-06T12:30:43+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/equipment/pull-up-bar/</loc>
+    <lastmod>2021-03-06T12:30:43+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/progressions/pull-up-progression/</loc>
+    <lastmod>2021-03-06T12:30:43+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/muscles/upper-back/</loc>
+    <lastmod>2021-03-06T12:30:43+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/muscles/abs/</loc>
+    <lastmod>2021-03-06T11:36:03+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/collections/crunch-variations/</loc>
+    <lastmod>2021-03-06T11:36:03+01:00</lastmod>
+  </url>
+    
+  <url>
+    <loc>http://www.befit.space/exercises/flutter-kicks-workout-exercise/</loc>
+    <lastmod>2021-03-06T11:36:03+01:00</lastmod>
   </url>
     
   <url>
@@ -53,11 +133,6 @@
     
   <url>
     <loc>http://www.befit.space/categories/balance/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/muscles/biceps/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -92,11 +167,6 @@
   </url>
     
   <url>
-    <loc>http://www.befit.space/categories/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
     <loc>http://www.befit.space/muscles/chest/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
@@ -118,11 +188,6 @@
     
   <url>
     <loc>http://www.befit.space/exercises/dead-hang-workout-exercise/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/equipment/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -152,11 +217,6 @@
   </url>
     
   <url>
-    <loc>http://www.befit.space/muscles/glutes/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
     <loc>http://www.befit.space/muscles/hamstring/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
@@ -167,22 +227,12 @@
   </url>
     
   <url>
-    <loc>http://www.befit.space/collections/hanging/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
     <loc>http://www.befit.space/flexibilities/harmstring/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
   <url>
     <loc>http://www.befit.space/exercises/heel-taps-workout-exercise/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/muscles/hip-flexor/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -207,11 +257,6 @@
   </url>
     
   <url>
-    <loc>http://www.befit.space/muscles/lats/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
     <loc>http://www.befit.space/categories/low-cardio/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
@@ -223,11 +268,6 @@
     
   <url>
     <loc>http://www.befit.space/exercises/mountain-climber-workout-exercise/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/exercises/negative-pull-up-workout-exercise/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -257,22 +297,7 @@
   </url>
     
   <url>
-    <loc>http://www.befit.space/progressions/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
     <loc>http://www.befit.space/exercises/pull-up-workout-exercise/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/equipment/pull-up-bar/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/progressions/pull-up-progression/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -283,11 +308,6 @@
     
   <url>
     <loc>http://www.befit.space/collections/push-up-variations/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/muscles/quads/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
@@ -332,16 +352,6 @@
   </url>
     
   <url>
-    <loc>http://www.befit.space/exercises/squat-hold-workout-exercise/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/collections/squat-variations/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
     <loc>http://www.befit.space/exercises/stair-climbing-workout-exercise/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
@@ -368,11 +378,6 @@
     
   <url>
     <loc>http://www.befit.space/muscles/triceps/</loc>
-    <lastmod>2021-03-05T01:05:46+01:00</lastmod>
-  </url>
-    
-  <url>
-    <loc>http://www.befit.space/muscles/upper-back/</loc>
     <lastmod>2021-03-05T01:05:46+01:00</lastmod>
   </url>
     
