@@ -1,5 +1,5 @@
 ---
-date: 2021-03-05T01:05:46+01:00
+date: 2021-03-06T13:15:26+01:00
 draft: false
 title: "Chin-up"
 url: "/exercises/chin-up-workout-exercise"
@@ -15,7 +15,7 @@ similar: ["pul"]
 OrderFull_Prev: "rais-leg-cru"
 OrderFull_First: "calfr"
 OrderFull_Next: "neg-pul"
-OrderFull_Last: "wide-pus"
+OrderFull_Last: "sit-up-butterfly"
 collections: ["Hanging"]
 equipment: ["Pull-up Bar"]
 muscles: ["Shoulder", "Biceps", "Forearms", "Upper Back"]

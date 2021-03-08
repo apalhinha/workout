@@ -1,5 +1,5 @@
 ---
-date: 2021-03-05T01:05:46+01:00
+date: 2021-03-06T13:15:27+01:00
 draft: false
 title: "Tricep Wall Push-up"
 url: "/exercises/tricep-wall-push-up-workout-exercise"
@@ -17,7 +17,7 @@ support_to: ["tricep-knee-pus"]
 OrderFull_Prev: "f-leg-rais"
 OrderFull_First: "calfr"
 OrderFull_Next: "bird-dog"
-OrderFull_Last: "wide-pus"
+OrderFull_Last: "sit-up-butterfly"
 equipment: ["Wall"]
 collections: ["Push-up Variations"]
 muscles: ["Triceps"]

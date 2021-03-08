@@ -1,5 +1,5 @@
 ---
-date: 2021-03-05T01:05:46+01:00
+date: 2021-03-06T13:15:26+01:00
 draft: false
 title: "Raised Leg Crunch"
 url: "/exercises/raised-leg-crunch-workout-exercise"
@@ -15,7 +15,7 @@ similar: ["crunch"]
 OrderFull_Prev: "s-leg-rais"
 OrderFull_First: "calfr"
 OrderFull_Next: "chin"
-OrderFull_Last: "wide-pus"
+OrderFull_Last: "sit-up-butterfly"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs", "Lowerback"]
 ---

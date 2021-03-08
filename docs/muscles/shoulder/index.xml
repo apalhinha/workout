@@ -6,51 +6,15 @@
     <description>Recent content in Shoulder on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Mar 2021 01:05:46 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 16:18:51 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/muscles/shoulder/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chin-up</title>
-      <link>http://www.befit.space/exercises/chin-up-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/chin-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Close Grip Push-up</title>
-      <link>http://www.befit.space/exercises/close-grip-push-up-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/close-grip-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dead Hang</title>
-      <link>http://www.befit.space/exercises/dead-hang-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/dead-hang-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finger Wall Push-up</title>
-      <link>http://www.befit.space/exercises/finger-wall-push-up-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/finger-wall-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mountain Climber</title>
       <link>http://www.befit.space/exercises/mountain-climber-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <pubDate>Mon, 08 Mar 2021 16:18:51 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/mountain-climber-workout-exercise/</guid>
       <description></description>
@@ -59,16 +23,79 @@
     <item>
       <title>One Leg L-Sit</title>
       <link>http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <pubDate>Mon, 08 Mar 2021 16:18:51 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Tricep Knees Push-up</title>
+      <link>http://www.befit.space/exercises/tricep-knees-push-up-workout-exercise/</link>
+      <pubDate>Mon, 08 Mar 2021 16:18:51 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/tricep-knees-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wide Grip Push-up</title>
+      <link>http://www.befit.space/exercises/wide-grip-push-up-workout-exercise/</link>
+      <pubDate>Mon, 08 Mar 2021 16:18:51 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/wide-grip-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Push-up</title>
+      <link>http://www.befit.space/exercises/push-up-workout-exercise/</link>
+      <pubDate>Mon, 08 Mar 2021 15:55:45 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Up and Down Plank</title>
+      <link>http://www.befit.space/exercises/up-and-down-plank-workout-exercise/</link>
+      <pubDate>Mon, 08 Mar 2021 15:55:45 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/up-and-down-plank-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Close Grip Push-up</title>
+      <link>http://www.befit.space/exercises/close-grip-push-up-workout-exercise/</link>
+      <pubDate>Sat, 06 Mar 2021 13:15:27 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/close-grip-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dead Hang</title>
+      <link>http://www.befit.space/exercises/dead-hang-workout-exercise/</link>
+      <pubDate>Sat, 06 Mar 2021 13:15:27 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/dead-hang-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finger Wall Push-up</title>
+      <link>http://www.befit.space/exercises/finger-wall-push-up-workout-exercise/</link>
+      <pubDate>Sat, 06 Mar 2021 13:15:27 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/finger-wall-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pike Push-up</title>
       <link>http://www.befit.space/exercises/pike-push-up-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <pubDate>Sat, 06 Mar 2021 13:15:27 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/pike-push-up-workout-exercise/</guid>
       <description></description>
@@ -77,45 +104,36 @@
     <item>
       <title>Pull-up</title>
       <link>http://www.befit.space/exercises/pull-up-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <pubDate>Sat, 06 Mar 2021 13:15:27 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/pull-up-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Push-up</title>
-      <link>http://www.befit.space/exercises/push-up-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <title>Tricep Push-up</title>
+      <link>http://www.befit.space/exercises/tricep-push-up-workout-exercise/</link>
+      <pubDate>Sat, 06 Mar 2021 13:15:27 +0100</pubDate>
       
-      <guid>http://www.befit.space/exercises/push-up-workout-exercise/</guid>
+      <guid>http://www.befit.space/exercises/tricep-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chin-up</title>
+      <link>http://www.befit.space/exercises/chin-up-workout-exercise/</link>
+      <pubDate>Sat, 06 Mar 2021 13:15:26 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/chin-up-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raised Leg Push-up</title>
       <link>http://www.befit.space/exercises/raised-leg-push-up-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <pubDate>Sat, 06 Mar 2021 13:15:26 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/raised-leg-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tricep Knees Push-up</title>
-      <link>http://www.befit.space/exercises/tricep-knees-push-up-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/tricep-knees-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tricep Push-up</title>
-      <link>http://www.befit.space/exercises/tricep-push-up-workout-exercise/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/tricep-push-up-workout-exercise/</guid>
       <description></description>
     </item>
     

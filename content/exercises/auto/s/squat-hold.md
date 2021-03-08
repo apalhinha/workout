@@ -1,4 +1,5 @@
 ---
+date: 2021-03-06T13:15:27+01:00
 draft: false
 title: "Squat hold"
 url: "/exercises/squat-hold-workout-exercise"
@@ -14,9 +15,8 @@ similar: ["squat", "squat hold"]
 OrderFull_Prev: "sqt"
 OrderFull_First: "calfr"
 OrderFull_Next: "wide-pus"
-OrderFull_Last: "wide-pus"
+OrderFull_Last: "sit-up-butterfly"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Hip Flexor", "Quads"]
 categories: ["Isometric"]
-date: 2021-03-06T12:35:57+01:00
 ---

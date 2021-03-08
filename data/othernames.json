@@ -45,6 +45,12 @@
   "othername": "Bird Dog",
   "eid": "bird-dog",
   "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Butterfly sit-ups",
+  "eid": "sit-up-butterfly",
+  "letter_start": "",
   "letter_end": "B"
 },
 {
@@ -90,6 +96,12 @@
   "letter_end": ""
 },
 {
+  "othername": "Commando Plank",
+  "eid": "up-down-plk",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Crunch",
   "eid": "cru",
   "letter_start": "",
@@ -116,6 +128,24 @@
 {
   "othername": "Flex Hang",
   "eid": "pul-flex",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Floor L-Sit Heels Support",
+  "eid": "lsit-heel",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Floor L-Sit tuck",
+  "eid": "f-lsit-tuck",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Floor L-Sit tuck to one leg",
+  "eid": "f-lsit-tuck-1leg",
   "letter_start": "",
   "letter_end": ""
 },
@@ -330,9 +360,21 @@
   "letter_end": "T"
 },
 {
+  "othername": "Up and Down Plank",
+  "eid": "up-down-plk",
+  "letter_start": "U",
+  "letter_end": "U"
+},
+{
+  "othername": "Walking Plank",
+  "eid": "up-down-plk",
+  "letter_start": "W",
+  "letter_end": ""
+},
+{
   "othername": "Wall Skull Cruchers",
   "eid": "tricep-w-pus",
-  "letter_start": "W",
+  "letter_start": "",
   "letter_end": ""
 },
 {

@@ -187,6 +187,17 @@
   }
 },
 {
+  "eid": "up-down-plk",
+  "name": "Up and Down Plank",
+  "video": {
+  "videoid": "AAPpXm-q7lc",
+    "name": "Exercise Library: Butterfly Sit-Ups",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "jmp-sqt",
   "name": "Jump Squat",
   "video": {
@@ -286,6 +297,17 @@
   }
 },
 {
+  "eid": "sit-up-butterfly",
+  "name": "Butterfly sit-ups",
+  "video": {
+  "videoid": "pXN6y4uUuMw",
+    "name": "Exercise Library: Butterfly Sit-Ups",
+    "start": 1,
+    "duration": 10,
+    "author": "Darebee"
+  }
+},
+{
   "eid": "bird-dog",
   "name": "Bird Dog",
   "video": {
@@ -294,6 +316,39 @@
     "start": 11,
     "duration": 10,
     "author": "National Training Center - Clermont, FL"
+  }
+},
+{
+  "eid": "lsit-heel",
+  "name": "Floor L-Sit Heels Support",
+  "video": {
+  "videoid": "Y52Yv57UJ_8",
+    "name": "Calisthenics L-Sit Progression | Full Tutorial For Beginners",
+    "start": 232,
+    "duration": 10,
+    "author": "Minus The Gym"
+  }
+},
+{
+  "eid": "f-lsit-tuck-1leg",
+  "name": "Floor L-Sit tuck to one leg",
+  "video": {
+  "videoid": "Y52Yv57UJ_8",
+    "name": "Calisthenics L-Sit Progression | Full Tutorial For Beginners",
+    "start": 254,
+    "duration": 5,
+    "author": "Minus The Gym"
+  }
+},
+{
+  "eid": "f-lsit-tuck",
+  "name": "Floor L-Sit tuck",
+  "video": {
+  "videoid": "IUZJoSP66HI",
+    "name": "Floor L-sit Progression Tutorial by Antranik",
+    "start": 191,
+    "duration": 10,
+    "author": "Antranik DotOrg"
   }
 },
 {

@@ -6,24 +6,15 @@
     <description>Recent content in Categories on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 12:35:57 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 16:18:51 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Isometric</title>
-      <link>http://www.befit.space/categories/isometric/</link>
-      <pubDate>Sat, 06 Mar 2021 12:35:57 +0100</pubDate>
-      
-      <guid>http://www.befit.space/categories/isometric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Balance</title>
       <link>http://www.befit.space/categories/balance/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <pubDate>Mon, 08 Mar 2021 16:18:51 +0100</pubDate>
       
       <guid>http://www.befit.space/categories/balance/</guid>
       <description></description>
@@ -32,7 +23,7 @@
     <item>
       <title>Cardio</title>
       <link>http://www.befit.space/categories/cardio/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <pubDate>Mon, 08 Mar 2021 16:18:51 +0100</pubDate>
       
       <guid>http://www.befit.space/categories/cardio/</guid>
       <description></description>
@@ -41,16 +32,25 @@
     <item>
       <title>Low Cardio</title>
       <link>http://www.befit.space/categories/low-cardio/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <pubDate>Mon, 08 Mar 2021 15:55:45 +0100</pubDate>
       
       <guid>http://www.befit.space/categories/low-cardio/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Isometric</title>
+      <link>http://www.befit.space/categories/isometric/</link>
+      <pubDate>Sat, 06 Mar 2021 13:15:27 +0100</pubDate>
+      
+      <guid>http://www.befit.space/categories/isometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plyometrics</title>
       <link>http://www.befit.space/categories/plyometrics/</link>
-      <pubDate>Fri, 05 Mar 2021 01:05:46 +0100</pubDate>
+      <pubDate>Sat, 06 Mar 2021 13:15:27 +0100</pubDate>
       
       <guid>http://www.befit.space/categories/plyometrics/</guid>
       <description></description>

@@ -1,5 +1,5 @@
 ---
-date: 2021-03-05T01:05:46+01:00
+date: 2021-03-08T15:55:45+01:00
 draft: false
 title: "Sumo Squat"
 url: "/exercises/sumo-squat-workout-exercise"
@@ -11,11 +11,11 @@ hints: ["If your feet are to narrow adductors will not be challenged.", "Too wid
 benefits: ["Like all squat variations, it is great for the glutes and quads.", "Strengthen the inner tights, the adductors."]
 counting: ["Add this squat variant to your squat-collection, ensure you do it 2 to 4 times a month.", "Do 2 to 4 series of 10 repetitions."]
 number: 30
-similar: ["Squat"]
+similar: ["Squat", "sumo squat"]
 OrderFull_Prev: "climb"
 OrderFull_First: "calfr"
 OrderFull_Next: "sit-up"
-OrderFull_Last: "wide-pus"
+OrderFull_Last: "sit-up-butterfly"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Adductor", "Quads", "Hamstring"]
 flexibilities: ["Hips"]

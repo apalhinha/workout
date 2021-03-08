@@ -1,5 +1,5 @@
 ---
-date: 2021-03-05T01:05:46+01:00
+date: 2021-03-06T13:15:27+01:00
 draft: false
 title: "Flex Hang"
 url: "/exercises/flex-hang-workout-exercise"
@@ -16,7 +16,7 @@ oneway: "pul"
 OrderFull_Prev: "fg-w-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "w-lsit-pos"
-OrderFull_Last: "wide-pus"
+OrderFull_Last: "sit-up-butterfly"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
 progressions_weight: 2

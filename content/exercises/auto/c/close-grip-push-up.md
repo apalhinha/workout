@@ -1,5 +1,5 @@
 ---
-date: 2021-03-05T01:05:46+01:00
+date: 2021-03-06T13:15:27+01:00
 draft: false
 title: "Close Grip Push-up"
 url: "/exercises/close-grip-push-up-workout-exercise"
@@ -17,7 +17,7 @@ support_from: ["tricep-knee-pus"]
 OrderFull_Prev: "pul"
 OrderFull_First: "calfr"
 OrderFull_Next: "air-bike-cru"
-OrderFull_Last: "wide-pus"
+OrderFull_Last: "sit-up-butterfly"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Triceps", "Chest", "Abs"]
 ---
