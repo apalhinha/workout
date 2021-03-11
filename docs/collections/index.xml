@@ -6,10 +6,19 @@
     <description>Recent content in Collections on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 16:18:51 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 07:25:33 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/collections/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>L-Sit Friendly</title>
+      <link>http://www.befit.space/collections/l-sit-friendly/</link>
+      <pubDate>Thu, 11 Mar 2021 07:25:33 +0100</pubDate>
+      
+      <guid>http://www.befit.space/collections/l-sit-friendly/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crunch Variations</title>
@@ -26,15 +35,6 @@
       <pubDate>Mon, 08 Mar 2021 16:18:51 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/kick-friendly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Friendly</title>
-      <link>http://www.befit.space/collections/l-sit-friendly/</link>
-      <pubDate>Mon, 08 Mar 2021 16:18:51 +0100</pubDate>
-      
-      <guid>http://www.befit.space/collections/l-sit-friendly/</guid>
       <description></description>
     </item>
     
