@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Squat hold"
 url: "/exercises/squat-hold-workout-exercise"
@@ -18,5 +19,4 @@ OrderFull_Last: "lsit-r-leg"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Hip Flexor", "Quads"]
 categories: ["Isometric"]
-date: 2021-03-16T11:41:25+01:00
 ---

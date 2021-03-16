@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Air Bike"
 url: "/exercises/air-bike-workout-exercise"
@@ -18,5 +19,4 @@ OrderFull_Next: "climb"
 OrderFull_Last: "lsit-r-leg"
 collections: ["Crunch Variations"]
 muscles: ["Abs", "Hip Flexor", "Quads"]
-date: 2021-03-16T11:41:25+01:00
 ---

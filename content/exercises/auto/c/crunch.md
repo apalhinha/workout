@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Crunch"
 url: "/exercises/crunch-workout-exercise"
@@ -17,5 +18,4 @@ OrderFull_Next: "jmp-sqt"
 OrderFull_Last: "lsit-r-leg"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs"]
-date: 2021-03-16T11:41:25+01:00
 ---

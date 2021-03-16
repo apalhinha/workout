@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Front Leg Raise"
 url: "/exercises/front-leg-raise-workout-exercise"
@@ -19,5 +20,4 @@ OrderFull_Last: "lsit-r-leg"
 collections: ["Kick Friendly", "Raising Legs", "L-Sit Friendly"]
 muscles: ["Abs", "Glutes", "Hip Flexor", "Abductor", "Adductor"]
 flexibilities: ["Hips", "Harmstring"]
-date: 2021-03-16T11:41:25+01:00
 ---

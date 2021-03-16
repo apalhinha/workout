@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Mountain Climber"
 url: "/exercises/mountain-climber-workout-exercise"
@@ -18,5 +19,4 @@ OrderFull_Next: "sumo-sqt"
 OrderFull_Last: "lsit-r-leg"
 muscles: ["Shoulder", "Triceps", "Abs", "Lats", "Glutes", "Quads", "Hamstring"]
 categories: ["Cardio", "Balance"]
-date: 2021-03-16T11:41:25+01:00
 ---

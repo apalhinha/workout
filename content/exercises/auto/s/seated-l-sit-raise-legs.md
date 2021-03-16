@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Seated L-Sit Raise Legs"
 url: "/exercises/seated-l-sit-raise-legs-workout-exercise"
@@ -15,5 +16,4 @@ similar: ["Leg Raise", "Basic l-sit"]
 OrderFull_Prev: "sit-up-butterfly"
 OrderFull_First: "calfr"
 collections: ["Raising Legs", "L-Sit Friendly"]
-date: 2021-03-16T11:41:25+01:00
 ---

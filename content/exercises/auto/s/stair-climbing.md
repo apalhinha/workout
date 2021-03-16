@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Stair Climbing"
 url: "/exercises/stair-climbing-workout-exercise"
@@ -17,5 +18,4 @@ OrderFull_Last: "lsit-r-leg"
 muscles: ["Calves"]
 flexibilities: ["Calves"]
 categories: ["Low Cardio"]
-date: 2021-03-16T11:41:25+01:00
 ---

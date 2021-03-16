@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Floor L-Sit tuck"
 url: "/exercises/floor-l-sit-tuck-workout-exercise"
@@ -19,5 +20,4 @@ OrderFull_Last: "lsit-r-leg"
 progressions: ["Floor L-Sit Progression"]
 progressions_weight: 3
 collections: ["L-Sit Friendly"]
-date: 2021-03-16T11:41:25+01:00
 ---
