@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Air Bike"
 url: "/exercises/air-bike-workout-exercise"
@@ -15,8 +16,7 @@ similar: ["flutter kicks", "air bike"]
 OrderFull_Prev: "ol-lsit"
 OrderFull_First: "calfr"
 OrderFull_Next: "climb"
-OrderFull_Last: "pllt-lsit-tuck"
+OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Crunch Variations"]
 muscles: ["Abs", "Hip Flexor", "Quads"]
-date: 2021-03-16T11:55:51+01:00
 ---

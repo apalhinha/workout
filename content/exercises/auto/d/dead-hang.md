@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Dead Hang"
 url: "/exercises/dead-hang-workout-exercise"
@@ -16,7 +17,7 @@ oneway: "pul"
 OrderFull_Prev: "neg-pul"
 OrderFull_First: "calfr"
 OrderFull_Next: "pus-tricep"
-OrderFull_Last: "pllt-lsit-tuck"
+OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
 progressions_weight: 1
@@ -24,5 +25,4 @@ progressions_notes: "Strengthen your grip, forearms and shoulders"
 equipment: ["Pull-up Bar"]
 muscles: ["Shoulder", "Forearms", "Hand", "Upper Back"]
 flexibilities: ["Shoulder"]
-date: 2021-03-16T11:55:51+01:00
 ---

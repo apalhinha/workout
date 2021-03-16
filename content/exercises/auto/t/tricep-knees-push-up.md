@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Tricep Knees Push-up"
 url: "/exercises/tricep-knees-push-up-workout-exercise"
@@ -16,8 +17,7 @@ support_from: ["tricep-w-pus"]
 OrderFull_Prev: "bird-dog"
 OrderFull_First: "calfr"
 OrderFull_Next: "fg-w-pus"
-OrderFull_Last: "pllt-lsit-tuck"
+OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Triceps", "Chest"]
-date: 2021-03-16T11:55:51+01:00
 ---

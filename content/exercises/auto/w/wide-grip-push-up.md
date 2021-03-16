@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Wide Grip Push-up"
 url: "/exercises/wide-grip-push-up-workout-exercise"
@@ -15,8 +16,7 @@ similar: ["pus"]
 OrderFull_Prev: "sqt-hold"
 OrderFull_First: "calfr"
 OrderFull_Next: "lsit-heel"
-OrderFull_Last: "pllt-lsit-tuck"
+OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Biceps", "Chest"]
-date: 2021-03-16T11:55:51+01:00
 ---

@@ -67,13 +67,13 @@
 },
 {
   "othername": "Chair Half L-Sit",
-  "eid": "chair-lsit-tuck",
+  "eid": "lsit-tuck-chair",
   "letter_start": "",
   "letter_end": ""
 },
 {
   "othername": "Chair Tucked L-Sit",
-  "eid": "chair-lsit-tuck",
+  "eid": "lsit-tuck-chair",
   "letter_start": "",
   "letter_end": ""
 },
@@ -211,7 +211,7 @@
 },
 {
   "othername": "Knee Raise Hold, Parallettes",
-  "eid": "pllt-lsit-tuck",
+  "eid": "lsit-tuck-pllt",
   "letter_start": "K",
   "letter_end": "K"
 },
@@ -253,7 +253,7 @@
 },
 {
   "othername": "Parallettes L-Sit Tuck",
-  "eid": "pllt-lsit-tuck",
+  "eid": "lsit-tuck-pllt",
   "letter_start": "P",
   "letter_end": ""
 },

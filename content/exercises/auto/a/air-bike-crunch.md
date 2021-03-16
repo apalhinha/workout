@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Air Bike Crunch"
 url: "/exercises/air-bike-crunch-workout-exercise"
@@ -15,10 +16,9 @@ similar: ["flutter kicks", "crunch", "air bike"]
 OrderFull_Prev: "close-g-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "pike-pus"
-OrderFull_Last: "pllt-lsit-tuck"
+OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Hips"]
 categories: ["Balance"]
-date: 2021-03-16T11:55:51+01:00
 ---

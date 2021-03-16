@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Calf Raise Hold"
 url: "/exercises/calf-raise-hold-workout-exercise"
@@ -14,7 +15,6 @@ similar: ["calves"]
 OrderFull_Prev: "pike-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "f-leg-rais"
-OrderFull_Last: "pllt-lsit-tuck"
+OrderFull_Last: "lsit-tuck-pllt"
 muscles: ["Calves"]
-date: 2021-03-16T11:55:51+01:00
 ---

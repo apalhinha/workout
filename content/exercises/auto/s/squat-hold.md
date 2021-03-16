@@ -1,4 +1,5 @@
 ---
+date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Squat hold"
 url: "/exercises/squat-hold-workout-exercise"
@@ -14,9 +15,8 @@ similar: ["squat", "squat hold"]
 OrderFull_Prev: "sqt"
 OrderFull_First: "calfr"
 OrderFull_Next: "wide-pus"
-OrderFull_Last: "pllt-lsit-tuck"
+OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Hip Flexor", "Quads"]
 categories: ["Isometric"]
-date: 2021-03-16T11:55:51+01:00
 ---
