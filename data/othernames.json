@@ -132,6 +132,12 @@
   "letter_end": ""
 },
 {
+  "othername": "Floor L-Sit Crunches, Seated Pike Leg Lifts",
+  "eid": "lsit-r-leg",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Floor L-Sit Heels Support",
   "eid": "lsit-heel",
   "letter_start": "",
@@ -264,9 +270,15 @@
   "letter_end": "R"
 },
 {
+  "othername": "Seated L-Sit Raise Legs",
+  "eid": "lsit-r-leg",
+  "letter_start": "S",
+  "letter_end": ""
+},
+{
   "othername": "Shoulder Push-up",
   "eid": "pike-pus",
-  "letter_start": "S",
+  "letter_start": "",
   "letter_end": ""
 },
 {

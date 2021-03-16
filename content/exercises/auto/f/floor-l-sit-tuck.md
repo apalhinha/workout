@@ -15,9 +15,9 @@ support_to: ["f-lsit-tuck-1leg"]
 OrderFull_Prev: "f-lsit-tuck-1leg"
 OrderFull_First: "calfr"
 OrderFull_Next: "up-down-plk"
-OrderFull_Last: "sit-up-butterfly"
+OrderFull_Last: "lsit-r-leg"
 progressions: ["Floor L-Sit Progression"]
 progressions_weight: 3
 collections: ["L-Sit Friendly"]
-date: 2021-03-11T07:25:33+01:00
+date: 2021-03-16T11:41:25+01:00
 ---

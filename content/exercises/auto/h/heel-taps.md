@@ -1,5 +1,4 @@
 ---
-date: 2021-03-08T16:18:51+01:00
 draft: false
 title: "Heel taps"
 url: "/exercises/heel-taps-workout-exercise"
@@ -16,7 +15,8 @@ similar: ["crunch"]
 OrderFull_Prev: "sit-up"
 OrderFull_First: "calfr"
 OrderFull_Next: "flutter-kick"
-OrderFull_Last: "sit-up-butterfly"
+OrderFull_Last: "lsit-r-leg"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs"]
+date: 2021-03-16T11:41:25+01:00
 ---

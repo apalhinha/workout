@@ -15,7 +15,7 @@ support_from: ["f-lsit-tuck"]
 OrderFull_Prev: "lsit-heel"
 OrderFull_First: "calfr"
 OrderFull_Next: "f-lsit-tuck"
-OrderFull_Last: "sit-up-butterfly"
+OrderFull_Last: "lsit-r-leg"
 collections: ["L-Sit Friendly"]
-date: 2021-03-11T07:25:33+01:00
+date: 2021-03-16T11:41:25+01:00
 ---
