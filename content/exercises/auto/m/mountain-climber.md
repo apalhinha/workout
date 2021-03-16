@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Mountain Climber"
 url: "/exercises/mountain-climber-workout-exercise"
@@ -16,7 +15,8 @@ similar: ["mountain climber"]
 OrderFull_Prev: "air-bike"
 OrderFull_First: "calfr"
 OrderFull_Next: "sumo-sqt"
-OrderFull_Last: "lsit-r-leg"
+OrderFull_Last: "pllt-lsit-tuck"
 muscles: ["Shoulder", "Triceps", "Abs", "Lats", "Glutes", "Quads", "Hamstring"]
 categories: ["Cardio", "Balance"]
+date: 2021-03-16T11:55:51+01:00
 ---

@@ -66,6 +66,18 @@
   "letter_end": ""
 },
 {
+  "othername": "Chair Half L-Sit",
+  "eid": "chair-lsit-tuck",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Chair Tucked L-Sit",
+  "eid": "chair-lsit-tuck",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Chest Press",
   "eid": "pus",
   "letter_start": "",
@@ -132,6 +144,12 @@
   "letter_end": ""
 },
 {
+  "othername": "Floor L-Sit Back and Forth",
+  "eid": "f-lsit-bf",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Floor L-Sit Crunches, Seated Pike Leg Lifts",
   "eid": "lsit-r-leg",
   "letter_start": "",
@@ -140,6 +158,12 @@
 {
   "othername": "Floor L-Sit Heels Support",
   "eid": "lsit-heel",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Floor L-Sit Position",
+  "eid": "lsit-pos",
   "letter_start": "",
   "letter_end": ""
 },
@@ -186,6 +210,12 @@
   "letter_end": "J"
 },
 {
+  "othername": "Knee Raise Hold, Parallettes",
+  "eid": "pllt-lsit-tuck",
+  "letter_start": "K",
+  "letter_end": "K"
+},
+{
   "othername": "L-Sit Leg Extension",
   "eid": "ol-lsit",
   "letter_start": "L",
@@ -222,9 +252,15 @@
   "letter_end": "O"
 },
 {
+  "othername": "Parallettes L-Sit Tuck",
+  "eid": "pllt-lsit-tuck",
+  "letter_start": "P",
+  "letter_end": ""
+},
+{
   "othername": "Passive Bar Hang",
   "eid": "pul-dead",
-  "letter_start": "P",
+  "letter_start": "",
   "letter_end": ""
 },
 {

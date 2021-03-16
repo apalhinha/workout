@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Finger Wall Push-up"
 url: "/exercises/finger-wall-push-up-workout-exercise"
@@ -15,7 +14,8 @@ similar: ["wall push-up"]
 OrderFull_Prev: "tricep-knee-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "pul-flex"
-OrderFull_Last: "lsit-r-leg"
+OrderFull_Last: "pllt-lsit-tuck"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Biceps", "Hand", "Chest"]
+date: 2021-03-16T11:55:51+01:00
 ---

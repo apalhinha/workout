@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Calf Raise"
 url: "/exercises/calf-raise-workout-exercise"
@@ -13,7 +12,8 @@ counting: ["Count moves along the day.", "Set a timer for 30secs of calf raises.
 number: 3
 similar: ["calves"]
 OrderFull_Next: "stair"
-OrderFull_Last: "lsit-r-leg"
+OrderFull_Last: "pllt-lsit-tuck"
 muscles: ["Calves"]
 flexibilities: ["Calves"]
+date: 2021-03-16T11:55:51+01:00
 ---

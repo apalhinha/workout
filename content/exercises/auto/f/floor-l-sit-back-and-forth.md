@@ -1,5 +1,4 @@
 ---
-date: 2021-03-15T17:21:15+01:00
 draft: false
 title: "Floor L-Sit Back and Forth"
 url: "/exercises/floor-l-sit-back-and-forth-workout-exercise"
@@ -8,5 +7,8 @@ description: "How-to, correct form, instructions and hints to perform Floor L-Si
 number: 45
 OrderFull_Prev: "lsit-pos"
 OrderFull_First: "calfr"
+OrderFull_Next: "pllt-lsit-tuck"
+OrderFull_Last: "pllt-lsit-tuck"
 collections: ["L-Sit Friendly"]
+date: 2021-03-16T11:55:51+01:00
 ---

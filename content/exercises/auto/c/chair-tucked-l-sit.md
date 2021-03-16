@@ -1,5 +1,4 @@
 ---
-date: 2021-03-15T17:21:15+01:00
 draft: false
 title: "Chair Tucked L-Sit"
 url: "/exercises/chair-tucked-l-sit-workout-exercise"
@@ -11,6 +10,7 @@ similar: ["Basic l-sit"]
 OrderFull_Prev: "lsit-r-leg"
 OrderFull_First: "calfr"
 OrderFull_Next: "lsit-pos"
-OrderFull_Last: "f-lsit-bf"
+OrderFull_Last: "pllt-lsit-tuck"
 collections: ["L-Sit Friendly"]
+date: 2021-03-16T11:55:51+01:00
 ---

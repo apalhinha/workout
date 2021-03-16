@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Floor L-Sit Heels Support"
 url: "/exercises/floor-l-sit-heels-support-workout-exercise"
@@ -15,8 +14,9 @@ similar: ["Basic l-sit"]
 OrderFull_Prev: "wide-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "f-lsit-tuck-1leg"
-OrderFull_Last: "lsit-r-leg"
+OrderFull_Last: "pllt-lsit-tuck"
 progressions: ["Floor L-Sit Progression"]
-progressions_weight: 1
+progressions_weight: 2
 collections: ["L-Sit Friendly"]
+date: 2021-03-16T11:55:51+01:00
 ---

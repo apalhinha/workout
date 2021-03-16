@@ -374,6 +374,28 @@
   }
 },
 {
+  "eid": "pllt-lsit-tuck",
+  "name": "Parallettes L-Sit Tuck",
+  "video": {
+  "videoid": "BbAkWxDZKIM",
+    "name": "L-Sit Progressions: Step-by-Step Guide",
+    "start": 148,
+    "duration": 10,
+    "author": "GMB Fitness"
+  }
+},
+{
+  "eid": "chair-lsit-tuck",
+  "name": "Chair Tucked L-Sit",
+  "video": {
+  "videoid": "xqYfZlVD6XU",
+    "name": "Chair L-Sit | Minute Move Well Snack | feat. Aaron Tandem",
+    "start": 23,
+    "duration": 10,
+    "author": "Empowered Strength"
+  }
+},
+{
   "eid": "fg-w-pus",
   "name": "Finger Wall Push-up",
   "video": {
@@ -385,6 +407,17 @@
   }
 },
 {
+  "eid": "lsit-pos",
+  "name": "Floor L-Sit Position",
+  "video": {
+  "videoid": "cu0fHp8HCDo",
+    "name": "Best Exercises To Increase L-SIT HOLD",
+    "start": 104,
+    "duration": 10,
+    "author": "FitnessFAQs"
+  }
+},
+{
   "eid": "pul-flex",
   "name": "Flex Hang",
   "video": {
@@ -393,6 +426,17 @@
     "start": 66,
     "duration": 10,
     "author": "Old City CrossFit"
+  }
+},
+{
+  "eid": "f-lsit-bf",
+  "name": "Floor L-Sit Back and Forth",
+  "video": {
+  "videoid": "G6czgo1qT8w",
+    "name": "How To L-SIT (3 STEPS) For Beginners - Core Strength & Progressions",
+    "start": 528,
+    "duration": 10,
+    "author": "TappBrothers"
   }
 },
 {

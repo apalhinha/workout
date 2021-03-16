@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T11:41:25+01:00
 draft: false
 title: "Sumo Squat"
 url: "/exercises/sumo-squat-workout-exercise"
@@ -15,8 +14,9 @@ similar: ["Squat", "sumo squat"]
 OrderFull_Prev: "climb"
 OrderFull_First: "calfr"
 OrderFull_Next: "sit-up"
-OrderFull_Last: "lsit-r-leg"
+OrderFull_Last: "pllt-lsit-tuck"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Adductor", "Quads", "Hamstring"]
 flexibilities: ["Hips"]
+date: 2021-03-16T11:55:51+01:00
 ---
