@@ -6,10 +6,37 @@
     <description>Recent content in Flexibilities on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Mar 2021 12:01:26 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 12:36:27 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/flexibilities/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Back</title>
+      <link>http://www.befit.space/flexibilities/back/</link>
+      <pubDate>Wed, 17 Mar 2021 12:36:27 +0100</pubDate>
+      
+      <guid>http://www.befit.space/flexibilities/back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmstring</title>
+      <link>http://www.befit.space/flexibilities/harmstring/</link>
+      <pubDate>Wed, 17 Mar 2021 12:36:27 +0100</pubDate>
+      
+      <guid>http://www.befit.space/flexibilities/harmstring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoulder</title>
+      <link>http://www.befit.space/flexibilities/shoulder/</link>
+      <pubDate>Wed, 17 Mar 2021 12:36:27 +0100</pubDate>
+      
+      <guid>http://www.befit.space/flexibilities/shoulder/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Calves</title>
@@ -21,29 +48,11 @@
     </item>
     
     <item>
-      <title>Harmstring</title>
-      <link>http://www.befit.space/flexibilities/harmstring/</link>
-      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
-      
-      <guid>http://www.befit.space/flexibilities/harmstring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hips</title>
       <link>http://www.befit.space/flexibilities/hips/</link>
       <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
       
       <guid>http://www.befit.space/flexibilities/hips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shoulder</title>
-      <link>http://www.befit.space/flexibilities/shoulder/</link>
-      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
-      
-      <guid>http://www.befit.space/flexibilities/shoulder/</guid>
       <description></description>
     </item>
     

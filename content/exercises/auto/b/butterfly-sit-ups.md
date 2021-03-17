@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Butterfly sit-ups"
 url: "/exercises/butterfly-sit-ups-workout-exercise"
@@ -16,4 +15,6 @@ OrderFull_Prev: "up-down-plk"
 OrderFull_First: "calfr"
 OrderFull_Next: "lsit-r-leg"
 OrderFull_Last: "lsit-tuck-pllt"
+muscles: ["Neck", "Chest", "Obliques", "Abs", "Hip Flexor"]
+date: 2021-03-17T12:36:27+01:00
 ---

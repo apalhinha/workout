@@ -16,5 +16,7 @@ OrderFull_Prev: "f-lsit-bf"
 OrderFull_First: "calfr"
 equipment: ["Parallettes"]
 collections: ["L-Sit Friendly"]
-date: 2021-03-17T08:47:07+01:00
+muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Lats", "Hip Flexor"]
+flexibilities: ["Shoulder"]
+date: 2021-03-17T12:36:27+01:00
 ---

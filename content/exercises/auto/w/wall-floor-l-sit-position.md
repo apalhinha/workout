@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Wall/floor L-Sit Position"
 url: "/exercises/wall-floor-l-sit-position-workout-exercise"
@@ -11,11 +10,13 @@ hints: ["Keep your code engaged.", "Breath normally."]
 benefits: ["Improves posture of your back.", "Highly activates core, shoulder blades and shoulders."]
 counting: ["Count the seconds you can hold doing this movement.", "Define a goal, say 7 or 14 minutes of accumulated time on this position, for the all week."]
 number: 26
-similar: ["L-Sit Leg Raise"]
+similar: ["L-Sit Leg Raise", "L-Sit Position"]
 OrderFull_Prev: "pul-flex"
 OrderFull_First: "calfr"
 OrderFull_Next: "ol-lsit"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["L-Sit Friendly"]
 muscles: ["Abs", "Quads", "Hamstring"]
+flexibilities: ["Shoulder", "Back"]
+date: 2021-03-17T12:36:27+01:00
 ---

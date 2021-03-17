@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Floor L-Sit tuck to one leg"
 url: "/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise"
@@ -18,4 +17,7 @@ OrderFull_First: "calfr"
 OrderFull_Next: "f-lsit-tuck"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["L-Sit Friendly"]
+muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Hip Flexor", "Quads"]
+flexibilities: ["Shoulder", "Harmstring"]
+date: 2021-03-17T12:36:27+01:00
 ---

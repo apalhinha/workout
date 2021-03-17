@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Seated L-Sit Raise Legs"
 url: "/exercises/seated-l-sit-raise-legs-workout-exercise"
@@ -18,4 +17,7 @@ OrderFull_First: "calfr"
 OrderFull_Next: "lsit-tuck-chair"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Raising Legs", "L-Sit Friendly"]
+muscles: ["Obliques", "Abs", "Lats", "Hip Flexor", "Quads"]
+flexibilities: ["Shoulder", "Harmstring"]
+date: 2021-03-17T12:36:27+01:00
 ---

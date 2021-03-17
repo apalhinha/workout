@@ -17,5 +17,7 @@ OrderFull_First: "calfr"
 OrderFull_Next: "lsit-pos"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["L-Sit Friendly"]
-date: 2021-03-17T08:47:07+01:00
+muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Lats", "Hip Flexor"]
+flexibilities: ["Shoulder"]
+date: 2021-03-17T12:36:27+01:00
 ---

@@ -1,5 +1,4 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "One Leg L-Sit"
 url: "/exercises/one-leg-l-sit-workout-exercise"
@@ -21,5 +20,6 @@ progressions: ["Floor L-Sit Progression"]
 progressions_weight: 5
 equipment: ["Parallettes"]
 collections: ["L-Sit Friendly"]
-muscles: ["Shoulder", "Abs", "Lats", "Lowerback", "Quads", "Hamstring"]
+muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Lats", "Lowerback", "Hip Flexor", "Quads"]
+date: 2021-03-17T12:36:27+01:00
 ---
