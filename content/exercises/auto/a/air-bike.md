@@ -1,11 +1,10 @@
 ---
-date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Air Bike"
 url: "/exercises/air-bike-workout-exercise"
 eid: "air-bike"
 exercise: "Air Bike"
-description: "See the Air Bike exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
+description: "See the Air Bike exercise, including video demonstration, instructions on how-to perform, benefits, activated body parts and related exercises."
 intro: ["A nice exercise or warm-up when you have where to lay down. The movement adds an hip dynamic allied to abs movement."]
 steps: ["Lay down on your back.", "Extend your arms, hands near your hips.", "Slightly raise your legs, bending the knees.", "Extend one leg, while bringing the opposite knee close to your chest, like pedaling a bike.", "This is one repetition.", "Now switch, extending and bending alternate legs."]
 hints: ["Perform the movement slowly, feel the effort on the involved muscles.", "You should not strain your neck."]
@@ -20,4 +19,5 @@ OrderFull_Next: "climb"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Crunch Variations"]
 muscles: ["Abs", "Hip Flexor", "Quads"]
+date: 2021-03-17T22:53:43+01:00
 ---

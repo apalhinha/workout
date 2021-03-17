@@ -1,11 +1,10 @@
 ---
-date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Chair Tucked L-Sit"
 url: "/exercises/chair-tucked-l-sit-workout-exercise"
 eid: "lsit-tuck-chair"
 exercise: "Chair Tucked L-Sit"
-description: "See the Chair Tucked L-Sit exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
+description: "See the Chair Tucked L-Sit exercise, including video demonstration, instructions on how-to perform, benefits, activated body parts and related exercises."
 intro: ["Exercise is a preparation for the L-Sit. It requires strong shoulders and abs, although other muscles are also involved."]
 steps: ["Hold the chair arms and extend your elbows so that your butt stays off the chair.", "Bend your knees as in a sit position, or higher bringing them towards your chest.", "You can use two facing chairs, if you chair has weak armrest."]
 hints: ["Key points are shoulders and abs, ensure they are prepared.", "Other muscles are also involved, this is a complete exercise.", "When starting, to be able to hold the position for a few seconds is already a great exercise.", "Exercise is office-friendly and can be done everywhere."]
@@ -21,4 +20,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Lats", "Hip Flexor"]
 flexibilities: ["Shoulder"]
+date: 2021-03-17T22:53:43+01:00
 ---

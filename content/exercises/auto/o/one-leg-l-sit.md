@@ -1,11 +1,10 @@
 ---
-date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "One Leg L-Sit"
 url: "/exercises/one-leg-l-sit-workout-exercise"
 eid: "ol-lsit"
 exercise: "One Leg L-Sit"
-description: "See the One Leg L-Sit exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
+description: "See the One Leg L-Sit exercise, including video demonstration, instructions on how-to perform, benefits, activated body parts and related exercises."
 intro: ["Easier than the L-Sit, doing a single leg L-Sit serves as a preparations and activate the very same muscles."]
 steps: ["Hand on the paracletes, shoulders activated and pressed down.", "Bent your knees, touching the chest with them.", "Extend one knee keeping the leg parallel to the ground. Keep this position for a given number s seconds.", "Repeat with the other leg."]
 hints: ["Press the shoulders down.", "Focus on keeping the leg straight, even if it is not fully parallel to the ground."]
@@ -24,4 +23,5 @@ progressions_weight: 5
 equipment: ["Parallettes"]
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Lats", "Lowerback", "Hip Flexor", "Quads"]
+date: 2021-03-17T22:53:43+01:00
 ---

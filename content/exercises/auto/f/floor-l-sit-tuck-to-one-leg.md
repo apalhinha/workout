@@ -1,11 +1,10 @@
 ---
-date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Floor L-Sit tuck to one leg"
 url: "/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise"
 eid: "f-lsit-tuck-1leg"
 exercise: "Floor L-Sit tuck to one leg"
-description: "See the Floor L-Sit tuck to one leg exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
+description: "See the Floor L-Sit tuck to one leg exercise, including video demonstration, instructions on how-to perform, benefits, activated body parts and related exercises."
 intro: ["Easier than the L-Sit, yet demanding, extend one leg from the tuck position involves the same muscles. See it as an intermediate exercise, while practicing toward the L-Sit."]
 steps: ["Sit on the floor, legs straight and feet together.", "Put your hands on the floor, near the hips.", "Press your shoulders down with your arms straight so that the hips stays of the ground.", "While pressing shoulders down, your head should be as far as possible from the shoulders.", "Raise your knees to the chest so that your feet stay off the ground.", "This Tucked L-Sit position is your starting point.", "Extend one leg without touching the ground.", "After a few seconds, bend the knee again, returning to the starting position.", "Now extend the other leg."]
 hints: ["Key points are shoulders and abs, ensure they are prepared.", "Other muscles are also involved, this is a complete exercise.", "When starting, to be able to straighten the leg for a minimal duration and bring it back is already a great exercise."]
@@ -22,4 +21,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Shoulder", "Harmstring"]
+date: 2021-03-17T22:53:43+01:00
 ---

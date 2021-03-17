@@ -1,11 +1,10 @@
 ---
-date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Front Leg Raise"
 url: "/exercises/front-leg-raise-workout-exercise"
 eid: "f-leg-rais"
 exercise: "Front Leg Raise"
-description: "See the Front Leg Raise exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
+description: "See the Front Leg Raise exercise, including video demonstration, instructions on how-to perform, benefits, activated body parts and related exercises."
 intro: ["Standing Leg Raises is a simple exercise that can be done everywhere. Focused on your legs, its easy enough to do without preparation, yet hard to do repeatedly."]
 steps: ["Stand on one feet, your shoulders and back straight.", "Raise one leg to the front, until it is parallel to the ground.", "Wait a few seconds on that position.", "Bring the leg back down. This is one repetition."]
 hints: ["In case you lack of balance, hold to a chair or a wall.", "Keep your body stable. Only the leg should move."]
@@ -21,4 +20,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Kick Friendly", "Raising Legs", "L-Sit Friendly"]
 muscles: ["Abs", "Glutes", "Hip Flexor", "Abductor", "Adductor"]
 flexibilities: ["Hips", "Harmstring"]
+date: 2021-03-17T22:53:43+01:00
 ---

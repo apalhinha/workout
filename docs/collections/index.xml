@@ -6,15 +6,24 @@
     <description>Recent content in Collections on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2021 22:48:28 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 22:53:44 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/collections/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Squat Variations</title>
+      <link>http://www.befit.space/collections/squat-variations/</link>
+      <pubDate>Wed, 17 Mar 2021 22:53:44 +0100</pubDate>
+      
+      <guid>http://www.befit.space/collections/squat-variations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Crunch Variations</title>
       <link>http://www.befit.space/collections/crunch-variations/</link>
-      <pubDate>Wed, 17 Mar 2021 22:45:57 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 22:53:43 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/crunch-variations/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Hanging</title>
       <link>http://www.befit.space/collections/hanging/</link>
-      <pubDate>Wed, 17 Mar 2021 22:45:57 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 22:53:43 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/hanging/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>Kick Friendly</title>
       <link>http://www.befit.space/collections/kick-friendly/</link>
-      <pubDate>Wed, 17 Mar 2021 22:45:57 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 22:53:43 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/kick-friendly/</guid>
       <description></description>
@@ -41,7 +50,7 @@
     <item>
       <title>Push-up Variations</title>
       <link>http://www.befit.space/collections/push-up-variations/</link>
-      <pubDate>Wed, 17 Mar 2021 22:45:57 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 22:53:43 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/push-up-variations/</guid>
       <description></description>
@@ -50,18 +59,9 @@
     <item>
       <title>Raising Legs</title>
       <link>http://www.befit.space/collections/raising-legs/</link>
-      <pubDate>Wed, 17 Mar 2021 22:45:57 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 22:53:43 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/raising-legs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Squat Variations</title>
-      <link>http://www.befit.space/collections/squat-variations/</link>
-      <pubDate>Wed, 17 Mar 2021 22:45:57 +0100</pubDate>
-      
-      <guid>http://www.befit.space/collections/squat-variations/</guid>
       <description></description>
     </item>
     

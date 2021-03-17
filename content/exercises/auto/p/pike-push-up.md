@@ -1,11 +1,10 @@
 ---
-date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Pike Push-up"
 url: "/exercises/pike-push-up-workout-exercise"
 eid: "pike-pus"
 exercise: "Pike Push-up"
-description: "See the Pike Push-up exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
+description: "See the Pike Push-up exercise, including video demonstration, instructions on how-to perform, benefits, activated body parts and related exercises."
 intro: ["This form of push-up focus on shoulder strength, and serves as hand-stand preparation. Both Elbows and shoulder are highly involved in this exercise, and upper back engaged."]
 steps: ["Start on a regular push-up position, arms below your shoulder, legs and arms straight.", "Walk a little with your feet, bringing them closer to your hands. Pull your hips up, making a V-shape. This is the start position.", "Bend your elbows away from your body, allowing the head to nearly touch the ground in between your hands.", "Inhale while going down.", "Straighten your elbows and arms again, returning to the original V-shape we started with.", "Exhale while going up."]
 hints: ["Warm-up before starting.", "The more accentuated the V position, harder the exercise. Keep core and glutes engaged."]
@@ -21,4 +20,5 @@ OrderFull_Next: "calfr-h"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Triceps", "Chest"]
+date: 2021-03-17T22:53:43+01:00
 ---

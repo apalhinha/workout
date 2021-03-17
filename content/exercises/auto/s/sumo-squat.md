@@ -1,11 +1,10 @@
 ---
-date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Sumo Squat"
 url: "/exercises/sumo-squat-workout-exercise"
 eid: "sumo-sqt"
 exercise: "Sumo Squat"
-description: "See the Sumo Squat exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
+description: "See the Sumo Squat exercise, including video demonstration, instructions on how-to perform, benefits, activated body parts and related exercises."
 intro: ["The Sumo Squat is a variation of the squat, where the feet are placed in a wider distance with fingers pointing slightly out. Additionally to the muscles worked by the regular squat this variance works also the inner thigh."]
 steps: ["Stand with your feet wide apart, straight legs.", "Open your feet approximately 45 degrees, externally rotating the hips.", "Squat down, keeping your upper body straight.", "Extend your legs returning to the initial position."]
 hints: ["If your feet are to narrow adductors will not be challenged.", "Too wide will bruise the hip joints."]
@@ -20,4 +19,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Adductor", "Quads", "Hamstring"]
 flexibilities: ["Hips"]
+date: 2021-03-17T22:53:44+01:00
 ---

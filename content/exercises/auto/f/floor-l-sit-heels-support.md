@@ -1,11 +1,10 @@
 ---
-date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Floor L-Sit Heels Support"
 url: "/exercises/floor-l-sit-heels-support-workout-exercise"
 eid: "lsit-heel"
 exercise: "Floor L-Sit Heels Support"
-description: "See the Floor L-Sit Heels Support exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
+description: "See the Floor L-Sit Heels Support exercise, including video demonstration, instructions on how-to perform, benefits, activated body parts and related exercises."
 intro: ["Exercise is great for the shoulders, and a preparation for L-Sit."]
 steps: ["Sit on the floor, legs straight and feet together.", "Put your hands on the floor, near the hips.", "Press your shoulders down with your arms straight so that the hips stays of the ground.", "While pressing shoulders down, your head should be as far as possible from the shoulders.", "Stay in this position a few seconds."]
 hints: ["Activate shoulders and shoulder blades."]
@@ -22,4 +21,5 @@ progressions_weight: 2
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Shoulder"]
+date: 2021-03-17T22:53:43+01:00
 ---

@@ -1,11 +1,10 @@
 ---
-date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Floor L-Sit Back and Forth"
 url: "/exercises/floor-l-sit-back-and-forth-workout-exercise"
 eid: "f-lsit-bf"
 exercise: "Floor L-Sit Back and Forth"
-description: "See the Floor L-Sit Back and Forth exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
+description: "See the Floor L-Sit Back and Forth exercise, including video demonstration, instructions on how-to perform, benefits, activated body parts and related exercises."
 intro: ["Sitting in an L-Sit position and balancing your body activates core and hamstrings."]
 steps: ["Sit on the floor, legs straight and feet together.", "Straighten your back.", "Perform small balance moves with your upper body, moving forward and backward."]
 benefits: ["Improve posture.", "Prepares hamstrings and back for the L-Sit."]
@@ -19,4 +18,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 collections: ["L-Sit Friendly"]
 muscles: ["Obliques", "Lowerback"]
 flexibilities: ["Shoulder", "Back", "Harmstring"]
+date: 2021-03-17T22:53:43+01:00
 ---
