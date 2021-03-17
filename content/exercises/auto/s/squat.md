@@ -1,9 +1,11 @@
 ---
+date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Squat"
 url: "/exercises/squat-workout-exercise"
 eid: "sqt"
-description: "How-to perform the 'Squat' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
+exercise: "Squat"
+description: "See the Squat exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
 intro: ["Squat is one of the most common exercises for the quads and glutes. Requires no equipment other than comfortable clothes and allows easily increasing the number of repetitions for increased effectiveness. There are many variants for the exercise. Requires minimal space."]
 steps: ["Stand with your feet hip-wide, arms and shoulders relaxed.", "Slightly point you feet toes to the side, no more than 20 degrees.", "Bend your knees until your quads are parallel to the ground.", "While lowering yourself, either join hands in front of your chest, or extend arms horizontally.", "Extend the legs to return to the standing position, again relax your arms side by side."]
 hints: ["Training ankle mobility will help this movement.", "Play attention to your back position, while performing the exercise."]
@@ -17,5 +19,4 @@ OrderFull_Next: "sqt-hold"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Hip Flexor", "Adductor", "Quads", "Hamstring"]
-date: 2021-03-17T21:21:06+01:00
 ---

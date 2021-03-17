@@ -1,9 +1,11 @@
 ---
+date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Tricep Push-up"
 url: "/exercises/tricep-push-up-workout-exercise"
 eid: "pus-tricep"
-description: "How-to perform the 'Tricep Push-up' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
+exercise: "Tricep Push-up"
+description: "See the Tricep Push-up exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
 intro: ["The Triceps Push-up works shoulders and chest but, mainly, the Triceps. The name comes from this fact.", "The key difference for the regular push-up is that the fingers point forward, thus the elbows point back. Differently from the regular push-up with the elbows opened, this ensures focus on the triceps."]
 steps: ["Start in a plank position, arms straight, hands below your shoulders or ahead of them.", "Fingers should point ahead, feet shoulder-with, core straight and engaged.", "Bend your elbows lowering your body. Elbows should be pointed back, close to your body.", "Lower your self until the elbows touch the ground.", "Push your arms against the ground, lifting your body back up."]
 hints: ["If the exercise s difficult for you, train the knee or wall versions.", "Lower your chest until the elbow touches the ground.", "Placing the hands closer to the shoulders, instead of ahead, makes the exercise harder."]
@@ -20,5 +22,4 @@ OrderFull_Next: "cru"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Triceps"]
-date: 2021-03-17T21:21:06+01:00
 ---

@@ -1,9 +1,11 @@
 ---
+date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Calf Raise"
 url: "/exercises/calf-raise-workout-exercise"
 eid: "calfr"
-description: "How-to perform the 'Calf Raise' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
+exercise: "Calf Raise"
+description: "See the Calf Raise exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
 intro: ["Raising your heels is an easy and effective exercise for the calves."]
 steps: ["Stand up straight, eventually holding to something.", "Raise your heels until you are standing on your toes.", "Bring down the heels back to the floor.", "This is one repetition."]
 hints: ["You can hold on a chair or wall for balance.", "Holding weights (bags or dumbbells) will make the exercise more effective.", "Calf raises can easily be done while in the morning mirror, or in front of the TV."]
@@ -15,5 +17,4 @@ OrderFull_Next: "stair"
 OrderFull_Last: "lsit-tuck-pllt"
 muscles: ["Calves"]
 flexibilities: ["Calves"]
-date: 2021-03-17T21:21:06+01:00
 ---

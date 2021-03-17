@@ -1,9 +1,11 @@
 ---
+date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Butterfly sit-ups"
 url: "/exercises/butterfly-sit-ups-workout-exercise"
 eid: "sit-up-butterfly"
-description: "How-to perform the 'Butterfly sit-ups' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
+exercise: "Butterfly sit-ups"
+description: "See the Butterfly sit-ups exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
 intro: ["This variation of a sit-up opens hip rotators. Beginners friendly it works simultaneously both abs and hips."]
 steps: ["Sit down on the floor.", "Touch the bottoms of your feet with each other, bending your knees as in a butterfly stretch.", "Lie back, keeping the feet touching themselves and knees open. While going down join hands in the chest.", "Once with your back on the ground, roll up coming to the sitting position once again."]
 hints: ["Lift your upper body in a controlled, fluid movement.", "Keep your knees wide opened.", "Keep head in a neutral position."]
@@ -16,5 +18,4 @@ OrderFull_First: "calfr"
 OrderFull_Next: "lsit-r-leg"
 OrderFull_Last: "lsit-tuck-pllt"
 muscles: ["Neck", "Chest", "Obliques", "Abs", "Hip Flexor"]
-date: 2021-03-17T21:21:06+01:00
 ---

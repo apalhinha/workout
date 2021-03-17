@@ -6,7 +6,7 @@
     <description>Recent content in Flexibilities on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2021 21:21:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 22:48:28 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/flexibilities/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Back</title>
       <link>http://www.befit.space/flexibilities/back/</link>
-      <pubDate>Wed, 17 Mar 2021 21:21:07 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 22:48:28 +0100</pubDate>
       
       <guid>http://www.befit.space/flexibilities/back/</guid>
       <description></description>
@@ -23,25 +23,16 @@
     <item>
       <title>Harmstring</title>
       <link>http://www.befit.space/flexibilities/harmstring/</link>
-      <pubDate>Wed, 17 Mar 2021 21:21:07 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 22:48:28 +0100</pubDate>
       
       <guid>http://www.befit.space/flexibilities/harmstring/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hips</title>
-      <link>http://www.befit.space/flexibilities/hips/</link>
-      <pubDate>Wed, 17 Mar 2021 21:21:07 +0100</pubDate>
-      
-      <guid>http://www.befit.space/flexibilities/hips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shoulder</title>
       <link>http://www.befit.space/flexibilities/shoulder/</link>
-      <pubDate>Wed, 17 Mar 2021 21:21:07 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 22:48:28 +0100</pubDate>
       
       <guid>http://www.befit.space/flexibilities/shoulder/</guid>
       <description></description>
@@ -50,9 +41,18 @@
     <item>
       <title>Calves</title>
       <link>http://www.befit.space/flexibilities/calves/</link>
-      <pubDate>Wed, 17 Mar 2021 21:21:06 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 22:45:57 +0100</pubDate>
       
       <guid>http://www.befit.space/flexibilities/calves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hips</title>
+      <link>http://www.befit.space/flexibilities/hips/</link>
+      <pubDate>Wed, 17 Mar 2021 22:45:57 +0100</pubDate>
+      
+      <guid>http://www.befit.space/flexibilities/hips/</guid>
       <description></description>
     </item>
     

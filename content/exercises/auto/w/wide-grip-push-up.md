@@ -1,9 +1,11 @@
 ---
+date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Wide Grip Push-up"
 url: "/exercises/wide-grip-push-up-workout-exercise"
 eid: "wide-pus"
-description: "How-to perform the 'Wide Grip Push-up' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
+exercise: "Wide Grip Push-up"
+description: "See the Wide Grip Push-up exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
 intro: ["This variance of the push-up focuses on chest muscles."]
 steps: ["Get down on all fours.", "Straighten your arms, placing hands wider than shoulder-width.", "Straighten your legs.", "Your body should be straight covering a straight line from heels to shoulders.", "Lower the body, the chest nearly touches the floor.", "Pause, then straight your arms and push back up."]
 hints: ["The wider you place the hands, the harder and more effective is the exercise."]
@@ -18,5 +20,4 @@ OrderFull_Next: "lsit-heel"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Biceps", "Chest"]
-date: 2021-03-17T21:21:06+01:00
 ---

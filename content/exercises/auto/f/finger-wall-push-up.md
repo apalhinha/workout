@@ -1,9 +1,11 @@
 ---
+date: 2021-03-17T22:45:57+01:00
 draft: false
 title: "Finger Wall Push-up"
 url: "/exercises/finger-wall-push-up-workout-exercise"
 eid: "fg-w-pus"
-description: "How-to perform the 'Finger Wall Push-up' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
+exercise: "Finger Wall Push-up"
+description: "See the Finger Wall Push-up exercise, including video demonstration and instructions on how-to perform. Identify benefits and activated body parts, see similar, related and supporting exercises."
 intro: ["A strong hand and grip strength is useful in the daily life. Wall Finger Push-up is an easy exercise for the muscles in your hand."]
 steps: ["Stand in front of a wall 3 or 4 feet away.", "Place your hands on the wall, shoulder-with.", "extend your fingers, so that the palm does not touch the wall.", "This is the starting position.", "With your body straight, bend your elbows so that the shoulders approach the wall.", "Extend your arms returning to the start position. Fingers are kept always straight, palm never touches the wall."]
 hints: ["Move you feet closer to the wall to make the exercise easier, away to make it harder."]
@@ -17,5 +19,4 @@ OrderFull_Next: "pul-flex"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Biceps", "Hand", "Chest"]
-date: 2021-03-17T21:21:06+01:00
 ---
