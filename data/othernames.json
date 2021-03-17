@@ -30,9 +30,15 @@
   "letter_end": "A"
 },
 {
+  "othername": "Bench single leg raise",
+  "eid": "o423",
+  "letter_start": "B",
+  "letter_end": ""
+},
+{
   "othername": "Bicycle Crunch",
   "eid": "air-bike-cru",
-  "letter_start": "B",
+  "letter_start": "",
   "letter_end": ""
 },
 {
@@ -44,6 +50,12 @@
 {
   "othername": "Bird Dog",
   "eid": "bird-dog",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Boat Pose",
+  "eid": "o424",
   "letter_start": "",
   "letter_end": ""
 },
@@ -132,6 +144,18 @@
   "letter_end": "D"
 },
 {
+  "othername": "Elbow plank",
+  "eid": "elbow-plk",
+  "letter_start": "E",
+  "letter_end": ""
+},
+{
+  "othername": "Elbow to Hands Plank",
+  "eid": "up-down-plk",
+  "letter_start": "",
+  "letter_end": "E"
+},
+{
   "othername": "Finger Wall Push-up",
   "eid": "fg-w-pus",
   "letter_start": "F",
@@ -140,6 +164,12 @@
 {
   "othername": "Flex Hang",
   "eid": "pul-flex",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Floor L-Sit",
+  "eid": "f-lsit",
   "letter_start": "",
   "letter_end": ""
 },
@@ -180,8 +210,20 @@
   "letter_end": ""
 },
 {
+  "othername": "Floor V-Sit",
+  "eid": "o424",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Flutter Kicks",
   "eid": "flutter-kick",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Forearm Plank",
+  "eid": "elbow-plk",
   "letter_start": "",
   "letter_end": ""
 },
@@ -219,6 +261,12 @@
   "othername": "L-Sit Leg Extension",
   "eid": "ol-lsit",
   "letter_start": "L",
+  "letter_end": ""
+},
+{
+  "othername": "Low Plank",
+  "eid": "elbow-plk",
+  "letter_start": "",
   "letter_end": ""
 },
 {

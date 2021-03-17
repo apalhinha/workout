@@ -1,10 +1,9 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Calf Raise Hold"
 url: "/exercises/calf-raise-hold-workout-exercise"
 eid: "calfr-h"
-description: "How-to, correct form, instructions and hints to perform Calf Raise Hold. Similar exercises and video demo"
+description: "How-to perform the 'Calf Raise Hold' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["Calves are used in the daily life, when walking, running or using stairs. Standing in your toes is an easy exercise to strengthen your calves."]
 steps: ["Stand up straight, eventually holding to something.", "Raise your heels until you are standing on your toes.", "Stay in this position."]
 hints: ["Exercise near a wall or something to grab, in case you lack balance."]
@@ -17,4 +16,5 @@ OrderFull_First: "calfr"
 OrderFull_Next: "f-leg-rais"
 OrderFull_Last: "lsit-tuck-pllt"
 muscles: ["Calves"]
+date: 2021-03-17T21:21:06+01:00
 ---

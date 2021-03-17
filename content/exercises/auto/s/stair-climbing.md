@@ -1,10 +1,9 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Stair Climbing"
 url: "/exercises/stair-climbing-workout-exercise"
 eid: "stair"
-description: "How-to, correct form, instructions and hints to perform Stair Climbing. Similar exercises and video demo"
+description: "How-to perform the 'Stair Climbing' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["Commonly available in the daily life, stairs offer a low-cardio exercise, easy to do without any planning or even sportswear."]
 hints: ["Use the stairs, not the elevator, when possible.", "Set a daily goal for climbing floors.", "Use the stairs as a warmup exercise."]
 benefits: ["It's a slow cardio exercise, will improve your heart health.", "Builds endurance.", "Effectively burns calories, helps reducing weight."]
@@ -18,4 +17,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 muscles: ["Calves"]
 flexibilities: ["Calves"]
 categories: ["Low Cardio"]
+date: 2021-03-17T21:21:06+01:00
 ---

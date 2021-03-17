@@ -61,7 +61,7 @@
 				{{ end }}
 
 				{{ if .Params.steps }}
-					<h2>Step by step:</h2>
+					<h2>How to and step by step instructions:</h2>
 					<ol>
 						{{range .Params.steps}}
 						<li>
@@ -117,7 +117,8 @@
 				{{ end }}
 				{{ $au = sort $au | uniq}}
 				{{ if $au }}
-					<p>Muscles worked and body parts involved:
+					<h1>Muscles worked and body parts involved:</h1>
+					<p>
 						{{ range $i, $one_au := $au }}
 						  {{- if ne $i 0 -}}, {{end}}
 						  {{- . -}}

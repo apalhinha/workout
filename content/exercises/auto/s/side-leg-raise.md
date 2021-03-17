@@ -1,10 +1,9 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Side Leg Raise"
 url: "/exercises/side-leg-raise-workout-exercise"
 eid: "s-leg-rais"
-description: "How-to, correct form, instructions and hints to perform Side Leg Raise. Similar exercises and video demo"
+description: "How-to perform the 'Side Leg Raise' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["Simple exercise for the glutes and core without space or floor requisites."]
 steps: ["Stand with your feet shoulder-width apart.", "Raise one leg to the side, waist high, while inhaling.", "Hold the top position for one or two seconds.", "Bring the leg down slowly, exhaling.", "This is one rep."]
 hints: ["Ok to hold on a chair to keep the balance."]
@@ -20,4 +19,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Kick Friendly", "Raising Legs"]
 muscles: ["Glutes", "Hip Flexor", "Abductor", "Quads"]
 flexibilities: ["Hips"]
+date: 2021-03-17T21:21:06+01:00
 ---

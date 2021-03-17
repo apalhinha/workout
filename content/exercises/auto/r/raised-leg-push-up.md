@@ -1,10 +1,9 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Raised Leg Push-up"
 url: "/exercises/raised-leg-push-up-workout-exercise"
 eid: "r-leg-pus"
-description: "How-to, correct form, instructions and hints to perform Raised Leg Push-up. Similar exercises and video demo"
+description: "How-to perform the 'Raised Leg Push-up' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["Doing push-ups with one raised leg empathizes the core and abs use. Similar to the push-up it is a great exercise for chest, shoulders, triceps, back and core."]
 steps: ["Get down on all fours.", "Place hands slightly wider than your shoulders.", "Straighten arms and legs.", "Raise one of the legs.", "Lower the body, the chest nearly touches the floor.", "Pause, then straight your arms and push back up."]
 hints: ["Keep your core straight."]
@@ -19,4 +18,5 @@ OrderFull_Next: "s-leg-rais"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Push-up Variations"]
 muscles: ["Shoulder", "Chest", "Abs", "Upper Back", "Glutes", "Hip Flexor"]
+date: 2021-03-17T21:21:06+01:00
 ---

@@ -209,6 +209,17 @@
   }
 },
 {
+  "eid": "elbow-plk",
+  "name": "Elbow plank",
+  "video": {
+  "videoid": "SkmgmbDhzC8",
+    "name": "",
+    "start": 3,
+    "duration": 10,
+    "author": ""
+  }
+},
+{
   "eid": "pul",
   "name": "Pull-up",
   "video": {
@@ -418,6 +429,28 @@
   }
 },
 {
+  "eid": "o423",
+  "name": "Bench single leg raise",
+  "video": {
+  "videoid": "cu0fHp8HCDo",
+    "name": "",
+    "start": 221,
+    "duration": 10,
+    "author": ""
+  }
+},
+{
+  "eid": "o424",
+  "name": "Boat Pose",
+  "video": {
+  "videoid": "I_1KGrBx2T4",
+    "name": "",
+    "start": 8,
+    "duration": 10,
+    "author": ""
+  }
+},
+{
   "eid": "pul-flex",
   "name": "Flex Hang",
   "video": {
@@ -426,6 +459,17 @@
     "start": 66,
     "duration": 10,
     "author": "Old City CrossFit"
+  }
+},
+{
+  "eid": "f-lsit",
+  "name": "Floor L-Sit",
+  "video": {
+  "videoid": "EfxQjAEbK0Q",
+    "name": "",
+    "start": 3,
+    "duration": 10,
+    "author": ""
   }
 },
 {

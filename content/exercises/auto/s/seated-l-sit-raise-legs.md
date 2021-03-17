@@ -3,7 +3,7 @@ draft: false
 title: "Seated L-Sit Raise Legs"
 url: "/exercises/seated-l-sit-raise-legs-workout-exercise"
 eid: "lsit-r-leg"
-description: "How-to, correct form, instructions and hints to perform Seated L-Sit Raise Legs. Similar exercises and video demo"
+description: "How-to perform the 'Seated L-Sit Raise Legs' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["Harder than it looks, the exercise is great both for quads and core."]
 steps: ["Sit on the floor, legs straight and feet together.", "Put your hands on the floor, near the hips or further closer to the knees.", "Raise both feet of the ground, keeping the legs straight.", "Lower both legs back to the floor. This is one repetition."]
 hints: ["Place hands in the floor behind the hips for an easier version. Move them towards the feet for increased difficulty.", "Keep your back in a straight line position.", "Keep your legs extended, without bending the knees."]
@@ -19,5 +19,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Raising Legs", "L-Sit Friendly"]
 muscles: ["Obliques", "Abs", "Lats", "Hip Flexor", "Quads"]
 flexibilities: ["Shoulder", "Harmstring"]
-date: 2021-03-17T12:36:27+01:00
+date: 2021-03-17T21:21:06+01:00
 ---

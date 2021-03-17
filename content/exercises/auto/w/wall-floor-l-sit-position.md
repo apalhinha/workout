@@ -3,7 +3,7 @@ draft: false
 title: "Wall/floor L-Sit Position"
 url: "/exercises/wall-floor-l-sit-position-workout-exercise"
 eid: "w-lsit-pos"
-description: "How-to, correct form, instructions and hints to perform Wall/floor L-Sit Position. Similar exercises and video demo"
+description: "How-to perform the 'Wall/floor L-Sit Position' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["Sitting in a perfect L-Sit position is harder than it looks. This is a good starting point to prepare for an L-Sit."]
 steps: ["Sit down on the floor, against a wall.", "Make sure your back and shoulders touch the wall, as well as your butt.", "Move your shoulders slightly away from the wall.", "This is the starting position.", "With your arms straight, rotate them parallel to your body, from touching the wall above your head to touching the ground in front of you."]
 hints: ["Keep your code engaged.", "Breath normally."]
@@ -18,5 +18,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 collections: ["L-Sit Friendly"]
 muscles: ["Abs", "Quads", "Hamstring"]
 flexibilities: ["Shoulder", "Back"]
-date: 2021-03-17T12:36:27+01:00
+date: 2021-03-17T21:21:07+01:00
 ---

@@ -1,10 +1,9 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Tricep Wall Push-up"
 url: "/exercises/tricep-wall-push-up-workout-exercise"
 eid: "tricep-w-pus"
-description: "How-to, correct form, instructions and hints to perform Tricep Wall Push-up. Similar exercises and video demo"
+description: "How-to perform the 'Tricep Wall Push-up' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["The exercise is a light approach to strengthen your triceps. Can be used as a first preparation for any exercise more demanding on triceps. Can be done anywhere and is an office-friendly exercise."]
 steps: ["Stand in front of a wall 3 or 4 feet away.", "Place your hands on the wall, shoulder-with, fingers pointing up.", "With your body straight, bend your elbows so that the shoulders approach the wall.", "Extend your arms returning to the start position."]
 hints: ["Keep your elbows close to the body, fingers pointing the ceiling This ensures strength on triceps, not other muscles.", "Put your feet close to the wall to make it easier. Put them away for a harder exercise."]
@@ -21,4 +20,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 equipment: ["Wall"]
 collections: ["Push-up Variations"]
 muscles: ["Triceps"]
+date: 2021-03-17T21:21:06+01:00
 ---

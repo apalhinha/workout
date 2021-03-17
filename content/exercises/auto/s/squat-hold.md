@@ -1,10 +1,9 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Squat hold"
 url: "/exercises/squat-hold-workout-exercise"
 eid: "sqt-hold"
-description: "How-to, correct form, instructions and hints to perform Squat hold. Similar exercises and video demo"
+description: "How-to perform the 'Squat hold' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["Lower yourself into a squat position and stay there. This is an isometric exercise, surprisingly hard after 1 or 2 minutes, unless you have strong quads and glutes."]
 steps: ["Stand on your feet, hip-wide.", "Bend knees lowering until the quads are parallel to the ground.", "Stay in this position a few seconds or minutes."]
 hints: ["Keep your feet slightly open, but almost parallel.", "Keep your body straight."]
@@ -19,4 +18,5 @@ OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Hip Flexor", "Quads"]
 categories: ["Isometric"]
+date: 2021-03-17T21:21:06+01:00
 ---

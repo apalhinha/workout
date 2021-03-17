@@ -6,15 +6,24 @@
     <description>Recent content in Squat Variations on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Mar 2021 12:01:26 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 21:21:07 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/collections/squat-variations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Sumo Squat</title>
+      <link>http://www.befit.space/exercises/sumo-squat-workout-exercise/</link>
+      <pubDate>Wed, 17 Mar 2021 21:21:07 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/sumo-squat-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jump Squat</title>
       <link>http://www.befit.space/exercises/jump-squat-workout-exercise/</link>
-      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 21:21:06 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/jump-squat-workout-exercise/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Squat</title>
       <link>http://www.befit.space/exercises/squat-workout-exercise/</link>
-      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 21:21:06 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/squat-workout-exercise/</guid>
       <description></description>
@@ -32,18 +41,9 @@
     <item>
       <title>Squat hold</title>
       <link>http://www.befit.space/exercises/squat-hold-workout-exercise/</link>
-      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
+      <pubDate>Wed, 17 Mar 2021 21:21:06 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/squat-hold-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sumo Squat</title>
-      <link>http://www.befit.space/exercises/sumo-squat-workout-exercise/</link>
-      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/sumo-squat-workout-exercise/</guid>
       <description></description>
     </item>
     

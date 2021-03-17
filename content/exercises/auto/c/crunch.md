@@ -1,10 +1,9 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Crunch"
 url: "/exercises/crunch-workout-exercise"
 eid: "cru"
-description: "How-to, correct form, instructions and hints to perform Crunch. Similar exercises and video demo"
+description: "How-to perform the 'Crunch' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["The crunch is a popular exercise targeting abbs and obliques. Helps building a six-pack abs, as well as tightening the belly.", "This is a beginner-friendly exercise that requires no equipment and can easily be done at home."]
 steps: ["Lie down on your back.", "Plant your feet on the floor, shoulder-width apart, with bended knees.", "Put your arms across your chest, or behind your head.", "Inhale contracting your abs.", "Exhale and lift your shoulder blades of the floor.", "Lower back remains on the floor, chest and neck relaxed.", "Inhale and return to the starting position."]
 hints: ["Don't pull on your neck with your hands.", "Keep your neck relaxed, this is an abs exercise.", "Perform the exercise slowly, with control.", "Don't crunch to high, this is a subtle movement.", "Keep the tension, don't fully relax on the floor."]
@@ -18,4 +17,5 @@ OrderFull_Next: "jmp-sqt"
 OrderFull_Last: "lsit-tuck-pllt"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs"]
+date: 2021-03-17T21:21:06+01:00
 ---

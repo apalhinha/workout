@@ -3,7 +3,7 @@ draft: false
 title: "Floor L-Sit Position"
 url: "/exercises/floor-l-sit-position-workout-exercise"
 eid: "lsit-pos"
-description: "How-to, correct form, instructions and hints to perform Floor L-Sit Position. Similar exercises and video demo"
+description: "How-to perform the 'Floor L-Sit Position' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["Sitting in a perfect L-Sit position activates core and hamstrings. This position can be challenging to keep for a single minute."]
 steps: ["Sit on the floor, legs straight and feet together.", "Straighten your back as much as possible.", "Extend your arms towards your feet.", "Ensure your back has an angle of 90 degrees or less (towards the front) and your back straight."]
 benefits: ["Improve posture.", "Prepares hamstrings and back for the L-Sit."]
@@ -19,5 +19,5 @@ progressions_weight: 1
 collections: ["L-Sit Friendly"]
 muscles: ["Obliques", "Lowerback"]
 flexibilities: ["Shoulder", "Back", "Harmstring"]
-date: 2021-03-17T12:36:27+01:00
+date: 2021-03-17T21:21:06+01:00
 ---

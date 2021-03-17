@@ -1,10 +1,9 @@
 ---
-date: 2021-03-16T12:01:26+01:00
 draft: false
 title: "Mountain Climber"
 url: "/exercises/mountain-climber-workout-exercise"
 eid: "climb"
-description: "How-to, correct form, instructions and hints to perform Mountain Climber. Similar exercises and video demo"
+description: "How-to perform the 'Mountain Climber' movement, correct form, instructions and hints. Similar exercises, body parts activated, notes, tips and video demonstration"
 intro: ["The exercise is an effective cardio that can be done in-house, in any small place. The exercise also works many muscles on legs, core and upper body."]
 steps: ["Get down on all fours.", "Straighten your arms, legs and core so that you stay in a plank position.", "Bend one knee, bringing it close to the chest.", "Extend that leg again and place the foot in the ground.", "This is one repetition. Bend the alternate leg, bringing the knee, again to the chest.", "Again extend, and repeat the intended number of repetitions."]
 hints: ["When bringing the knee to the chest, ensure your foot in the  air, without touching the ground.", "Keep your back straight, not curved."]
@@ -19,4 +18,5 @@ OrderFull_Next: "sumo-sqt"
 OrderFull_Last: "lsit-tuck-pllt"
 muscles: ["Shoulder", "Triceps", "Abs", "Lats", "Glutes", "Quads", "Hamstring"]
 categories: ["Cardio", "Balance"]
+date: 2021-03-17T21:21:06+01:00
 ---
