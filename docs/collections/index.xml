@@ -6,7 +6,7 @@
     <description>Recent content in Collections on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Mar 2021 11:54:30 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 08:47:07 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/collections/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Crunch Variations</title>
       <link>http://www.befit.space/collections/crunch-variations/</link>
-      <pubDate>Tue, 16 Mar 2021 11:54:30 +0100</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/crunch-variations/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Hanging</title>
       <link>http://www.befit.space/collections/hanging/</link>
-      <pubDate>Tue, 16 Mar 2021 11:54:30 +0100</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/hanging/</guid>
       <description></description>
@@ -32,25 +32,16 @@
     <item>
       <title>Kick Friendly</title>
       <link>http://www.befit.space/collections/kick-friendly/</link>
-      <pubDate>Tue, 16 Mar 2021 11:54:30 +0100</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/kick-friendly/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>L-Sit Friendly</title>
-      <link>http://www.befit.space/collections/l-sit-friendly/</link>
-      <pubDate>Tue, 16 Mar 2021 11:54:30 +0100</pubDate>
-      
-      <guid>http://www.befit.space/collections/l-sit-friendly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Push-up Variations</title>
       <link>http://www.befit.space/collections/push-up-variations/</link>
-      <pubDate>Tue, 16 Mar 2021 11:54:30 +0100</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/push-up-variations/</guid>
       <description></description>
@@ -59,7 +50,7 @@
     <item>
       <title>Raising Legs</title>
       <link>http://www.befit.space/collections/raising-legs/</link>
-      <pubDate>Tue, 16 Mar 2021 11:54:30 +0100</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/raising-legs/</guid>
       <description></description>
@@ -68,10 +59,20 @@
     <item>
       <title>Squat Variations</title>
       <link>http://www.befit.space/collections/squat-variations/</link>
-      <pubDate>Tue, 16 Mar 2021 11:54:30 +0100</pubDate>
+      <pubDate>Tue, 16 Mar 2021 12:01:26 +0100</pubDate>
       
       <guid>http://www.befit.space/collections/squat-variations/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>L-Sit Friendly exercises</title>
+      <link>http://www.befit.space/collections/l-sit-friendly/</link>
+      <pubDate>Sat, 11 Jul 2020 12:01:45 +0100</pubDate>
+      
+      <guid>http://www.befit.space/collections/l-sit-friendly/</guid>
+      <description>The L-Sit is a very complete exercise, involving many muscles.
+This list of exercises facilitate the L-Sit execution. Check the L-Sit Progression to see how to progress from zero to a perfect L-Sit</description>
     </item>
     
     <item>

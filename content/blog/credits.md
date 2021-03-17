@@ -11,5 +11,7 @@ Mr Isaac Newton said, back in 1675.
 
 * Motivation, coaching, learning: {{< link "Darebee" "http://www.darebee.com">}}
 * Technology to build this website: {{< link "Hugo" "https://gohugo.io/" >}} static site generator
+* How-to and knowledge to built this site: {{< link "Hugo Tutorial" "https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3" >}}
+on Youtube by {{< link "Mike Dane" "https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw" >}}
 * Look & feel, formatting: {{< link "Mainroad" "https://github.com/Vimux/Mainroad/" >}} theme for Hugo
 {{< credits_allauthors >}}

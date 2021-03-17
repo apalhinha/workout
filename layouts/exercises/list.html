@@ -11,9 +11,17 @@
 	</div>
 	{{- end }}
 
+	<p>
+		{{ range $i, $e := .Site.Data.othernames }}
+			{{ if $e.letter_start }}
+				<a href="#{{ $e.letter_start}}">{{ $e.letter_start}}</a>
+			{{ end }}
+		{{ end }}
+	</p>
+
 	{{ range $i, $e := .Site.Data.othernames }}
 		{{ if $e.letter_start }}
-			<h3>{{- $e.letter_start}}</h3>
+			<h1><a name="{{- $e.letter_start}}"></a>{{- $e.letter_start}}</h1>
 			<p>
 		{{ end }}
 		{{ range where $.Data.Pages "Params.eid" $e.eid }}

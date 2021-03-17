@@ -1,9 +1,0 @@
-
-Favicon foi alterado dentro do theme, não é o método correcto
-
-Para fazer um .ICO:
-Desenha on PNG, transforma para 16x16 ou 48x48, converte online para .ICO.
-
-Os do site estão na \static\images
-
-Para colocar online: Copiar o .ICO from \static\images\xyz.ico para \themes\mainroad\static\favicon.ico

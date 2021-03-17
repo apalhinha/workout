@@ -15,6 +15,14 @@
 		{{ partial "ex_quadrado" .}}
 	{{- end }}
 
+	<p></p>
+	<hr>
+	<p>There are {{ partial "num_othernames_p" . }} exercise names in this database, corresponding to
+{{ partial "num_exercises_p" . }} distinct exercises. In total, {{ partial "num_exercises_planned_p" . }} exercises are planned.
+Last update was on {{ partial "update_date_p" . }}</p>
+
+
+
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}
