@@ -1,4 +1,5 @@
 ---
+date: 2021-03-23T10:16:52+01:00
 draft: false
 title: "Air Bike Crunch"
 url: "/exercises/air-bike-crunch-workout-exercise"
@@ -10,16 +11,15 @@ steps: ["Lay down on your back.", "Place your hands behind your head.", "Raise y
 hints: ["Do not strain your neck."]
 benefits: ["Strengthen Abs and Obliques."]
 counting: ["Perform series of 20, meaning 10 on each leg."]
-othernames: ["Bicycle Crunch", "Bike Crunch", "Alternate Crunch Elbow Towards Knee"]
+othernames: ["Bicycle Crunch", "Bike Crunch", "Alternate Crunch Elbow Towards Knee", "Knee to Elbow Crunch"]
 number: 17
 similar: ["flutter kicks", "crunch", "air bike"]
 OrderFull_Prev: "close-g-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "pike-pus"
-OrderFull_Last: "lsit-tuck-pllt"
+OrderFull_Last: "f-lsit"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Hips"]
 categories: ["Balance"]
-date: 2021-03-17T22:53:43+01:00
 ---

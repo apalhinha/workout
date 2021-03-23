@@ -1,4 +1,5 @@
 ---
+date: 2021-03-23T10:16:52+01:00
 draft: false
 title: "Parallettes L-Sit Tuck"
 url: "/exercises/parallettes-l-sit-tuck-workout-exercise"
@@ -15,9 +16,10 @@ number: 46
 similar: ["L-Sit Tuck"]
 OrderFull_Prev: "f-lsit-bf"
 OrderFull_First: "calfr"
+OrderFull_Next: "elbow-plk"
+OrderFull_Last: "f-lsit"
 equipment: ["Parallettes"]
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Lats", "Hip Flexor"]
 flexibilities: ["Shoulder"]
-date: 2021-03-17T22:53:43+01:00
 ---

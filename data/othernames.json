@@ -31,7 +31,7 @@
 },
 {
   "othername": "Bench single leg raise",
-  "eid": "o423",
+  "eid": "bench-leg-raise",
   "letter_start": "B",
   "letter_end": ""
 },
@@ -55,7 +55,7 @@
 },
 {
   "othername": "Boat Pose",
-  "eid": "o424",
+  "eid": "boat-pose",
   "letter_start": "",
   "letter_end": ""
 },
@@ -211,7 +211,7 @@
 },
 {
   "othername": "Floor V-Sit",
-  "eid": "o424",
+  "eid": "boat-pose",
   "letter_start": "",
   "letter_end": ""
 },
@@ -255,6 +255,12 @@
   "othername": "Knee Raise Hold, Parallettes",
   "eid": "lsit-tuck-pllt",
   "letter_start": "K",
+  "letter_end": ""
+},
+{
+  "othername": "Knee to Elbow Crunch",
+  "eid": "air-bike-cru",
+  "letter_start": "",
   "letter_end": "K"
 },
 {
@@ -282,9 +288,15 @@
   "letter_end": "M"
 },
 {
+  "othername": "Navasana",
+  "eid": "boat-pose",
+  "letter_start": "N",
+  "letter_end": ""
+},
+{
   "othername": "Negative Pull-up",
   "eid": "neg-pul",
-  "letter_start": "N",
+  "letter_start": "",
   "letter_end": "N"
 },
 {

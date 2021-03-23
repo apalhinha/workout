@@ -1,4 +1,5 @@
 ---
+date: 2021-03-23T10:16:52+01:00
 draft: false
 title: "Pull-up"
 url: "/exercises/pull-up-workout-exercise"
@@ -17,12 +18,11 @@ support_from: ["pike-pus"]
 OrderFull_Prev: "jmp-sqt"
 OrderFull_First: "calfr"
 OrderFull_Next: "close-g-pus"
-OrderFull_Last: "lsit-tuck-pllt"
+OrderFull_Last: "f-lsit"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
 progressions_weight: 5
 progressions_notes: "Enjoy the pull-ups"
 equipment: ["Pull-up Bar"]
 muscles: ["Shoulder", "Biceps", "Hand", "Chest", "Upper Back"]
-date: 2021-03-17T22:53:43+01:00
 ---

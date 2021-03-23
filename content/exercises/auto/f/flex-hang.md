@@ -1,4 +1,5 @@
 ---
+date: 2021-03-23T10:16:52+01:00
 draft: false
 title: "Flex Hang"
 url: "/exercises/flex-hang-workout-exercise"
@@ -16,12 +17,11 @@ oneway: "pul"
 OrderFull_Prev: "fg-w-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "w-lsit-pos"
-OrderFull_Last: "lsit-tuck-pllt"
+OrderFull_Last: "f-lsit"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
 progressions_weight: 2
 progressions_notes: "Prepare your biceps"
 equipment: ["Pull-up Bar"]
 muscles: ["Biceps", "Forearms", "Upper Back"]
-date: 2021-03-17T22:53:43+01:00
 ---

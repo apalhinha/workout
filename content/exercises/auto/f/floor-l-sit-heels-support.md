@@ -1,4 +1,5 @@
 ---
+date: 2021-03-23T10:16:52+01:00
 draft: false
 title: "Floor L-Sit Heels Support"
 url: "/exercises/floor-l-sit-heels-support-workout-exercise"
@@ -15,11 +16,10 @@ similar: ["Basic l-sit", "L-Sit Position"]
 OrderFull_Prev: "wide-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "f-lsit-tuck-1leg"
-OrderFull_Last: "lsit-tuck-pllt"
+OrderFull_Last: "f-lsit"
 progressions: ["Floor L-Sit Progression"]
 progressions_weight: 2
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Shoulder"]
-date: 2021-03-17T22:53:43+01:00
 ---

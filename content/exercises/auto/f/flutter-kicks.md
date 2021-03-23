@@ -1,4 +1,5 @@
 ---
+date: 2021-03-23T10:16:52+01:00
 draft: false
 title: "Flutter Kicks"
 url: "/exercises/flutter-kicks-workout-exercise"
@@ -15,8 +16,7 @@ similar: ["flutter kicks"]
 OrderFull_Prev: "heel-tap"
 OrderFull_First: "calfr"
 OrderFull_Next: "sqt"
-OrderFull_Last: "lsit-tuck-pllt"
+OrderFull_Last: "f-lsit"
 collections: ["Crunch Variations"]
 muscles: ["Abs"]
-date: 2021-03-17T22:53:43+01:00
 ---

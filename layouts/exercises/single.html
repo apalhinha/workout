@@ -37,7 +37,7 @@
 					<p>Exercise is also known as
 						{{ range $i, $v := .Params.othernames }}
 						  {{- if ne $i 0 -}}, {{end}}
-						  {{- $v -}}
+						  <b>{{- $v -}}</b>
 						{{- end -}}.
 					</p>
 				{{ end }}
