@@ -6,7 +6,7 @@
     <description>Recent content in Lowerback on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 12:24:03 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 17:21:29 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/muscles/lowerback/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>Floor L-Sit</title>
       <link>http://www.befit.space/exercises/floor-l-sit-workout-exercise/</link>
-      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      <pubDate>Mon, 29 Mar 2021 17:21:29 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/floor-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Leg L-Sit</title>
+      <link>http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/</link>
+      <pubDate>Mon, 29 Mar 2021 17:21:29 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L-Sit Position</title>
+      <link>http://www.befit.space/exercises/floor-l-sit-position-workout-exercise/</link>
+      <pubDate>Mon, 29 Mar 2021 16:57:24 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/floor-l-sit-position-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -26,24 +44,6 @@
       <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/floor-l-sit-back-and-forth-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floor L-Sit Position</title>
-      <link>http://www.befit.space/exercises/floor-l-sit-position-workout-exercise/</link>
-      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/floor-l-sit-position-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>One Leg L-Sit</title>
-      <link>http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/</link>
-      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/one-leg-l-sit-workout-exercise/</guid>
       <description></description>
     </item>
     

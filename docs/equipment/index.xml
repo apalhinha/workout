@@ -6,24 +6,15 @@
     <description>Recent content in Equipment on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 12:24:03 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 17:21:29 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/equipment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Parallel Bar</title>
-      <link>http://www.befit.space/equipment/parallel-bar/</link>
-      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
-      
-      <guid>http://www.befit.space/equipment/parallel-bar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Parallettes</title>
       <link>http://www.befit.space/equipment/parallettes/</link>
-      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      <pubDate>Mon, 29 Mar 2021 17:21:29 +0100</pubDate>
       
       <guid>http://www.befit.space/equipment/parallettes/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>Pull-up Bar</title>
       <link>http://www.befit.space/equipment/pull-up-bar/</link>
-      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      <pubDate>Mon, 29 Mar 2021 11:05:12 +0100</pubDate>
       
       <guid>http://www.befit.space/equipment/pull-up-bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Bar</title>
+      <link>http://www.befit.space/equipment/parallel-bar/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/equipment/parallel-bar/</guid>
       <description></description>
     </item>
     
