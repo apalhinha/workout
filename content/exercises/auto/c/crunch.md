@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Crunch"
 url: "/exercises/crunch-workout-exercise"
@@ -16,7 +16,7 @@ similar: ["crunch"]
 OrderFull_Prev: "pus-tricep"
 OrderFull_First: "calfr"
 OrderFull_Next: "jmp-sqt"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 collections: ["Crunch Variations"]
 muscles: ["Obliques", "Abs"]
 ---

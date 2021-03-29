@@ -1,4 +1,5 @@
 ---
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Boat Pose"
 url: "/exercises/boat-pose-workout-exercise"
@@ -15,9 +16,8 @@ number: 49
 OrderFull_Prev: "bench-leg-raise"
 OrderFull_First: "calfr"
 OrderFull_Next: "f-lsit"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 collections: ["L-Sit Friendly"]
 muscles: ["Abs", "Hip Flexor", "Quads"]
 categories: ["Yoga"]
-date: 2021-03-23T16:32:10+01:00
 ---

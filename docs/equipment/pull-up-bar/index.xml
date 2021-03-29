@@ -6,24 +6,15 @@
     <description>Recent content in Pull-up Bar on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 10:16:52 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 12:24:03 +0100</lastBuildDate>
     
 	<atom:link href="http://www.befit.space/equipment/pull-up-bar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chin-up</title>
-      <link>http://www.befit.space/exercises/chin-up-workout-exercise/</link>
-      <pubDate>Tue, 23 Mar 2021 10:16:52 +0100</pubDate>
-      
-      <guid>http://www.befit.space/exercises/chin-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dead Hang</title>
       <link>http://www.befit.space/exercises/dead-hang-workout-exercise/</link>
-      <pubDate>Tue, 23 Mar 2021 10:16:52 +0100</pubDate>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/dead-hang-workout-exercise/</guid>
       <description></description>
@@ -32,16 +23,25 @@
     <item>
       <title>Flex Hang</title>
       <link>http://www.befit.space/exercises/flex-hang-workout-exercise/</link>
-      <pubDate>Tue, 23 Mar 2021 10:16:52 +0100</pubDate>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/flex-hang-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Hanging L-Sit</title>
+      <link>http://www.befit.space/exercises/hanging-l-sit-workout-exercise/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/hanging-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Negative Pull-up</title>
       <link>http://www.befit.space/exercises/negative-pull-up-workout-exercise/</link>
-      <pubDate>Tue, 23 Mar 2021 10:16:52 +0100</pubDate>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/negative-pull-up-workout-exercise/</guid>
       <description></description>
@@ -50,9 +50,18 @@
     <item>
       <title>Pull-up</title>
       <link>http://www.befit.space/exercises/pull-up-workout-exercise/</link>
-      <pubDate>Tue, 23 Mar 2021 10:16:52 +0100</pubDate>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
       
       <guid>http://www.befit.space/exercises/pull-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chin-up</title>
+      <link>http://www.befit.space/exercises/chin-up-workout-exercise/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:02 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/chin-up-workout-exercise/</guid>
       <description></description>
     </item>
     

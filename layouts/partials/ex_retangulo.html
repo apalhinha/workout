@@ -2,6 +2,7 @@
 <div class="">
 
   <div style="display: inline-block;" >
+    <!-- display: inline-block; -->
     <a href="{{.Permalink}}">
 
       {{ $eid := .Params.Eid }}
@@ -19,9 +20,8 @@
 
     </a>
   </div>
-  <div style="display: inline-block; vertical-align: top">
-
-    <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
+  <div style="vertical-align: top; display: inline-block">
+    <a href="{{.Permalink}}">{{.Title}}</a>
   </div>
-
 </div>
+<!-- display: inline-block; -->

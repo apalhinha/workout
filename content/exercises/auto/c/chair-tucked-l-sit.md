@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Chair Tucked L-Sit"
 url: "/exercises/chair-tucked-l-sit-workout-exercise"
@@ -17,7 +17,7 @@ similar: ["Basic l-sit", "L-Sit Tuck"]
 OrderFull_Prev: "lsit-r-leg"
 OrderFull_First: "calfr"
 OrderFull_Next: "lsit-pos"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Lats", "Hip Flexor"]
 flexibilities: ["Shoulder"]

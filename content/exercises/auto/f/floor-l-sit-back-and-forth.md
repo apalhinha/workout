@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T15:46:56+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Floor L-Sit Back and Forth"
 url: "/exercises/floor-l-sit-back-and-forth-workout-exercise"
@@ -15,7 +15,7 @@ similar: ["L-Sit Position"]
 OrderFull_Prev: "lsit-pos"
 OrderFull_First: "calfr"
 OrderFull_Next: "lsit-tuck-pllt"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 collections: ["L-Sit Friendly"]
 muscles: ["Obliques", "Lowerback"]
 flexibilities: ["Shoulder", "Back", "Harmstring"]

@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Dead Hang"
 url: "/exercises/dead-hang-workout-exercise"
@@ -18,7 +18,7 @@ oneway: "pul"
 OrderFull_Prev: "neg-pul"
 OrderFull_First: "calfr"
 OrderFull_Next: "pus-tricep"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 collections: ["Pull-up friendly", "Hanging"]
 progressions: ["Pull-up progression"]
 progressions_weight: 1

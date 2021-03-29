@@ -126,6 +126,12 @@
   "letter_end": ""
 },
 {
+  "othername": "Crossed Leg Lift",
+  "eid": "f-lsit-cross-tuck",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Crunch",
   "eid": "cru",
   "letter_start": "",
@@ -180,6 +186,12 @@
   "letter_end": ""
 },
 {
+  "othername": "Floor L-Sit Cross Tucked",
+  "eid": "f-lsit-cross-tuck",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Floor L-Sit Crunches, Seated Pike Leg Lifts",
   "eid": "lsit-r-leg",
   "letter_start": "",
@@ -192,13 +204,19 @@
   "letter_end": ""
 },
 {
+  "othername": "Floor L-Sit One Leg Support",
+  "eid": "f-lsit-1leg-sup",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Floor L-Sit Position",
   "eid": "lsit-pos",
   "letter_start": "",
   "letter_end": ""
 },
 {
-  "othername": "Floor L-Sit tuck",
+  "othername": "Floor L-Sit Tuck",
   "eid": "f-lsit-tuck",
   "letter_start": "",
   "letter_end": ""
@@ -234,9 +252,15 @@
   "letter_end": "F"
 },
 {
+  "othername": "Hanging L-Sit",
+  "eid": "hang-lsit",
+  "letter_start": "H",
+  "letter_end": ""
+},
+{
   "othername": "Heel taps",
   "eid": "heel-tap",
-  "letter_start": "H",
+  "letter_start": "",
   "letter_end": "H"
 },
 {
@@ -264,9 +288,21 @@
   "letter_end": "K"
 },
 {
+  "othername": "L-Sit Butt Scoot",
+  "eid": "lsit-butt",
+  "letter_start": "L",
+  "letter_end": ""
+},
+{
   "othername": "L-Sit Leg Extension",
   "eid": "ol-lsit",
-  "letter_start": "L",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "L-Sit Leg Raises",
+  "eid": "lsit-leg-r",
+  "letter_start": "",
   "letter_end": ""
 },
 {
@@ -312,9 +348,27 @@
   "letter_end": "O"
 },
 {
+  "othername": "Parallel Bar L-Sit",
+  "eid": "par-lsit",
+  "letter_start": "P",
+  "letter_end": ""
+},
+{
+  "othername": "Parallel Bar L-Sit Tuck",
+  "eid": "par-lsit-tuck",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
+  "othername": "Parallel Bar Low L-Sit",
+  "eid": "low-lsit",
+  "letter_start": "",
+  "letter_end": ""
+},
+{
   "othername": "Parallettes L-Sit Tuck",
   "eid": "lsit-tuck-pllt",
-  "letter_start": "P",
+  "letter_start": "",
   "letter_end": ""
 },
 {

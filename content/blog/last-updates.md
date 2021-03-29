@@ -8,8 +8,9 @@ This catalog was las updated on {{< update_date_s >}}. Last additions are:
 
 <!--more-->
 
-There are {{< num_othernames_s >}} entries in our database, corresponding to
-{{< num_exercises_s >}} distinct exercises.
+There are {{< num_othernames_s >}} exercise names in this database, corresponding to
+{{< num_exercises_s >}} distinct exercises. In total, {{< num_exercises_planned_s >}} exercises are planned.
+Last update was on {{< update_date_s >}}
 
 
 Also, a few collections were rehearsed:

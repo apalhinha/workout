@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Sit-up"
 url: "/exercises/sit-up-workout-exercise"
@@ -16,7 +16,7 @@ similar: ["crunch", "sit up"]
 OrderFull_Prev: "sumo-sqt"
 OrderFull_First: "calfr"
 OrderFull_Next: "heel-tap"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 collections: ["Crunch Variations"]
 muscles: ["Neck", "Chest", "Obliques", "Abs", "Hip Flexor"]
 ---

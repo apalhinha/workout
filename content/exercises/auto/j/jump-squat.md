@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Jump Squat"
 url: "/exercises/jump-squat-workout-exercise"
@@ -16,7 +16,7 @@ similar: ["jump-squats"]
 OrderFull_Prev: "cru"
 OrderFull_First: "calfr"
 OrderFull_Next: "pul"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 collections: ["Squat Variations"]
 muscles: ["Glutes", "Hip Flexor", "Quads", "Calves"]
 flexibilities: ["Hips"]

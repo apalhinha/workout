@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-29T11:23:30+01:00
 draft: false
 title: "Floor L-Sit Position"
 url: "/exercises/floor-l-sit-position-workout-exercise"
@@ -15,9 +15,10 @@ similar: ["L-Sit Position"]
 OrderFull_Prev: "lsit-tuck-chair"
 OrderFull_First: "calfr"
 OrderFull_Next: "f-lsit-bf"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 progressions: ["Floor L-Sit Progression"]
 progressions_weight: 1
+progressions_notes: "Prepare hamstrings and core. Repeat until you can sit down and hold 60secs in a perfect L-Sit position"
 collections: ["L-Sit Friendly"]
 muscles: ["Obliques", "Lowerback"]
 flexibilities: ["Shoulder", "Back", "Harmstring"]

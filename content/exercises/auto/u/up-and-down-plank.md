@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Up and Down Plank"
 url: "/exercises/up-and-down-plank-workout-exercise"
@@ -17,7 +17,7 @@ similar: ["Plank short list"]
 OrderFull_Prev: "f-lsit-tuck"
 OrderFull_First: "calfr"
 OrderFull_Next: "sit-up-butterfly"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 muscles: ["Shoulder", "Triceps", "Hand", "Obliques", "Abs", "Lowerback", "Glutes"]
 categories: ["Low Cardio"]
 ---

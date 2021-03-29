@@ -353,12 +353,12 @@
 },
 {
   "eid": "f-lsit-tuck",
-  "name": "Floor L-Sit tuck",
+  "name": "Floor L-Sit Tuck",
   "video": {
   "videoid": "IUZJoSP66HI",
     "name": "Floor L-sit Progression Tutorial by Antranik",
-    "start": 191,
-    "duration": 10,
+    "start": 189,
+    "duration": 12,
     "author": "Antranik DotOrg"
   }
 },
@@ -484,6 +484,72 @@
   }
 },
 {
+  "eid": "f-lsit-cross-tuck",
+  "name": "Floor L-Sit Cross Tucked",
+  "video": {
+  "videoid": "S8lFkkzNtQM",
+    "name": "5 Steps to the Floor L-Sit (Beginner Progressions)",
+    "start": 168,
+    "duration": 10,
+    "author": "johnsifferman"
+  }
+},
+{
+  "eid": "f-lsit-1leg-sup",
+  "name": "Floor L-Sit One Leg Support",
+  "video": {
+  "videoid": "7Zpqwyyx7ek",
+    "name": "5-Step L-Sit Progression",
+    "start": 38,
+    "duration": 10,
+    "author": "COR"
+  }
+},
+{
+  "eid": "hang-lsit",
+  "name": "Hanging L-Sit",
+  "video": {
+  "videoid": "WHi1bvZLwlw",
+    "name": "The Hanging L-Sit",
+    "start": 1,
+    "duration": 10,
+    "author": "CrossFit"
+  }
+},
+{
+  "eid": "lsit-butt",
+  "name": "L-Sit Butt Scoot",
+  "video": {
+  "videoid": "G6czgo1qT8w",
+    "name": "How To L-SIT (3 STEPS) For Beginners - Core Strength & Progressions",
+    "start": 243,
+    "duration": 10,
+    "author": "TappBrothers"
+  }
+},
+{
+  "eid": "par-lsit",
+  "name": "Parallel Bar L-Sit",
+  "video": {
+  "videoid": "yViHhet3OLE",
+    "name": "L sit on parallel bars bodyweight exercise madbarz exercises",
+    "start": 25,
+    "duration": 10,
+    "author": "Bodyweight-Workouts"
+  }
+},
+{
+  "eid": "par-lsit-tuck",
+  "name": "Parallel Bar L-Sit Tuck",
+  "video": {
+  "videoid": "xOa6u64byXM",
+    "name": "Tuck Hold on Parallel Bars",
+    "start": 4,
+    "duration": 7,
+    "author": "TotalTaiso"
+  }
+},
+{
   "eid": "w-lsit-pos",
   "name": "Wall/floor L-Sit Position",
   "video": {
@@ -517,6 +583,17 @@
   }
 },
 {
+  "eid": "low-lsit",
+  "name": "Parallel Bar Low L-Sit",
+  "video": {
+  "videoid": "5lV2p7_7Zq8",
+    "name": "Dominik Sky - L-SIT TUTORIAL",
+    "start": 111,
+    "duration": 10,
+    "author": "Dominik Sky"
+  }
+},
+{
   "eid": "sumo-sqt",
   "name": "Sumo Squat",
   "video": {
@@ -525,6 +602,17 @@
     "start": 3,
     "duration": 10,
     "author": "FitnessBlender"
+  }
+},
+{
+  "eid": "lsit-leg-r",
+  "name": "L-Sit Leg Raises",
+  "video": {
+  "videoid": "nMaDw8a6SSY",
+    "name": "TOP 30 EXERCISES ON PARALLEL BARS // Train all your body!",
+    "start": 124,
+    "duration": 7,
+    "author": "Fred Perra"
   }
 }
 ]

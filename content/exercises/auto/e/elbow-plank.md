@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T15:46:56+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Elbow plank"
 url: "/exercises/elbow-plank-workout-exercise"
@@ -17,6 +17,6 @@ similar: ["Plank short list"]
 OrderFull_Prev: "lsit-tuck-pllt"
 OrderFull_First: "calfr"
 OrderFull_Next: "bench-leg-raise"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 muscles: ["Shoulder", "Abs", "Upper Back"]
 ---

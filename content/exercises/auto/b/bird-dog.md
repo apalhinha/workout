@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Bird Dog"
 url: "/exercises/bird-dog-workout-exercise"
@@ -16,7 +16,7 @@ similar: ["bird dog"]
 OrderFull_Prev: "tricep-w-pus"
 OrderFull_First: "calfr"
 OrderFull_Next: "tricep-knee-pus"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 muscles: ["Upper Back", "Glutes"]
 categories: ["Yoga"]
 ---

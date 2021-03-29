@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Bench single leg raise"
 url: "/exercises/bench-single-leg-raise-workout-exercise"
@@ -16,7 +16,7 @@ similar: ["L-Sit Position"]
 OrderFull_Prev: "elbow-plk"
 OrderFull_First: "calfr"
 OrderFull_Next: "boat-pose"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 collections: ["L-Sit Friendly"]
 muscles: ["Abs", "Quads", "Hamstring"]
 ---

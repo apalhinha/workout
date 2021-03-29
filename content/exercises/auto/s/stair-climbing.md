@@ -1,5 +1,5 @@
 ---
-date: 2021-03-23T10:16:52+01:00
+date: 2021-03-28T12:24:02+01:00
 draft: false
 title: "Stair Climbing"
 url: "/exercises/stair-climbing-workout-exercise"
@@ -15,7 +15,7 @@ similar: ["stairs"]
 OrderFull_Prev: "calfr"
 OrderFull_First: "calfr"
 OrderFull_Next: "pus"
-OrderFull_Last: "f-lsit"
+OrderFull_Last: "par-lsit-tuck"
 muscles: ["Calves"]
 flexibilities: ["Calves"]
 categories: ["Low Cardio"]
