@@ -1,5 +1,5 @@
 ---
-date: 2021-03-28T12:28:48+01:00
+date: 2021-03-29T17:17:00+01:00
 draft: false
 title: "Floor L-Sit Tuck"
 url: "/exercises/floor-l-sit-tuck-workout-exercise"
@@ -21,6 +21,7 @@ OrderFull_Next: "up-down-plk"
 OrderFull_Last: "par-lsit-tuck"
 progressions: ["Floor L-Sit Progression"]
 progressions_weight: 4
+progressions_notes: "The Tuck position fully activates all core muscles for the L-Sit. Ain 60 seconds in a row"
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Hip Flexor"]
 flexibilities: ["Shoulder"]

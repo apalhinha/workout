@@ -1,5 +1,4 @@
 ---
-date: 2021-03-28T12:24:03+01:00
 draft: false
 title: "Floor L-Sit tuck to one leg"
 url: "/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise"
@@ -20,6 +19,10 @@ OrderFull_First: "calfr"
 OrderFull_Next: "f-lsit-tuck"
 OrderFull_Last: "par-lsit-tuck"
 collections: ["L-Sit Friendly"]
+progressions: ["Floor L-Sit Progression"]
+progressions_weight: 5
+progressions_notes: "Next step would be to have a  perfect position in one leg. Ensure is  fully straight and horizontal, or even feet higher than hips. Aim for 60 seconds in a row, 30 for each leg"
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Shoulder", "Harmstring"]
+date: 2021-03-29T17:21:29+01:00
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2021-03-29T11:23:30+01:00
+date: 2021-03-29T16:57:24+01:00
 draft: false
 title: "Floor L-Sit Position"
 url: "/exercises/floor-l-sit-position-workout-exercise"

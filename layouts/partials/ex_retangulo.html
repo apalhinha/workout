@@ -1,8 +1,7 @@
 
-<div class="">
+<div class="flex-container">
 
-  <div style="display: inline-block;" >
-    <!-- display: inline-block; -->
+  <div class="flex-child-pic">
     <a href="{{.Permalink}}">
 
       {{ $eid := .Params.Eid }}
@@ -20,8 +19,14 @@
 
     </a>
   </div>
-  <div style="vertical-align: top; display: inline-block">
-    <a href="{{.Permalink}}">{{.Title}}</a>
+
+  <div class="flex-child-text">
+    <p><b><a href="{{.Permalink}}">{{.Title}}</a></b></p>
+
+    {{range .Params.intro}}
+      <p>{{ . }}</p>
+    {{end}}
+
   </div>
+
 </div>
-<!-- display: inline-block; -->

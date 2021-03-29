@@ -1,5 +1,4 @@
 ---
-date: 2021-03-29T11:05:12+01:00
 draft: false
 title: "Floor L-Sit One Leg Support"
 url: "/exercises/floor-l-sit-one-leg-support-workout-exercise"
@@ -21,7 +20,9 @@ OrderFull_Next: "low-lsit"
 OrderFull_Last: "par-lsit-tuck"
 progressions: ["Floor L-Sit Progression"]
 progressions_weight: 3
+progressions_notes: "Work on an easy version, one leg at the time. Aim for 60 seconds in total, 30 for each leg"
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Harmstring"]
+date: 2021-03-29T17:21:29+01:00
 ---

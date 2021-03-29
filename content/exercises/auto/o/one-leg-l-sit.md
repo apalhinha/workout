@@ -1,5 +1,5 @@
 ---
-date: 2021-03-28T12:24:03+01:00
+progressions_weight: 5
 draft: false
 title: "One Leg L-Sit"
 url: "/exercises/one-leg-l-sit-workout-exercise"
@@ -19,9 +19,8 @@ OrderFull_Prev: "w-lsit-pos"
 OrderFull_First: "calfr"
 OrderFull_Next: "air-bike"
 OrderFull_Last: "par-lsit-tuck"
-progressions: ["Floor L-Sit Progression"]
-progressions_weight: 5
 equipment: ["Parallettes"]
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Lats", "Lowerback", "Hip Flexor", "Quads"]
+date: 2021-03-29T17:21:29+01:00
 ---

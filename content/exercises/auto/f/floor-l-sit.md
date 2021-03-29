@@ -1,5 +1,4 @@
 ---
-date: 2021-03-29T11:05:12+01:00
 draft: false
 title: "Floor L-Sit"
 url: "/exercises/floor-l-sit-workout-exercise"
@@ -20,7 +19,9 @@ OrderFull_Next: "f-lsit-cross-tuck"
 OrderFull_Last: "par-lsit-tuck"
 progressions: ["Floor L-Sit Progression"]
 progressions_weight: 6
+progressions_notes: "Finally, execute the L-Sit keeping your legs fully horizontal, or feet higher than the hips."
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Lats", "Lowerback", "Hip Flexor", "Quads"]
 flexibilities: ["Harmstring"]
+date: 2021-03-29T17:21:29+01:00
 ---

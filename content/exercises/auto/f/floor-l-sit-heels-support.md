@@ -1,4 +1,5 @@
 ---
+date: 2021-03-29T11:26:39+01:00
 draft: false
 title: "Floor L-Sit Heels Support"
 url: "/exercises/floor-l-sit-heels-support-workout-exercise"
@@ -23,5 +24,4 @@ progressions_notes: "Strengthen your shoulders. Hold this position for one minut
 collections: ["L-Sit Friendly"]
 muscles: ["Shoulder", "Triceps", "Chest", "Obliques", "Abs", "Hip Flexor", "Quads"]
 flexibilities: ["Shoulder"]
-date: 2021-03-29T11:26:39+01:00
 ---
