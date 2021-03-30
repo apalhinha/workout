@@ -2,6 +2,7 @@
 title: "Pull-up friendly"
 date: 2020-07-11T12:01:45+01:00
 draft: false
+description: A set of exercises that will facilitate and improve your Pull-up form. Includes tips, instructions, video demos and related exercises.
 ---
 A set of exercises that will ease reaching your first pull-up.
 Also they represent a pull-up endurance training and will improve your form and number of repetitions.
