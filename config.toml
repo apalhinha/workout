@@ -15,7 +15,7 @@ enableRobotsTXT = true
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
   customCSS = ["css/befit.css"]
-  description = Extensive exercise database and catalog, how-to instructions and tips, correct form, video demos, related exercises.
+  description = "Extensive exercise database and catalog, how-to instructions and tips, correct form, video demos, related exercises."
 
 [Params.sidebar]
   home = "right" # Configure layout for home page

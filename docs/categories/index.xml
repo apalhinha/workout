@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Be Fit, Move, Exercise, Workout</title>
+    <link>http://www.befit.space/categories/</link>
+    <description>Recent content in Categories on Be Fit, Move, Exercise, Workout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2021 12:24:03 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.befit.space/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Balance</title>
+      <link>http://www.befit.space/categories/balance/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/categories/balance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardio</title>
+      <link>http://www.befit.space/categories/cardio/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/categories/cardio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isometric</title>
+      <link>http://www.befit.space/categories/isometric/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/categories/isometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Cardio</title>
+      <link>http://www.befit.space/categories/low-cardio/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/categories/low-cardio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plyometrics</title>
+      <link>http://www.befit.space/categories/plyometrics/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/categories/plyometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoga</title>
+      <link>http://www.befit.space/categories/yoga/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/categories/yoga/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

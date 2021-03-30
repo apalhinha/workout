@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 32 32" width="16px" height="16px" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.098" y="0.071" width="31.99" height="31.914" style="fill: rgb(226, 45, 48);"/>
+  <path style="stroke-linejoin: round; stroke-linecap: round; stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);" d="M 0.757 28.919 L 17.419 1.058 L 19.536 2.417 L 3.852 28.912 L 31.456 28.884 L 31.454 31.232 L 0.732 31.301 L 0.757 28.919 Z"/>
+  <path style="stroke-linecap: round; stroke-linejoin: round; fill: rgb(255, 255, 255); stroke-width: 2px;" d="M 6.766 27.284 L 17.132 10.177 C 25.022 13.885 27.903 20.283 27.205 27.373 L 6.766 27.284 Z"/>
+</svg>

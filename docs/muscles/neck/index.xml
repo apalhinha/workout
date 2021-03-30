@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neck on Be Fit, Move, Exercise, Workout</title>
+    <link>http://www.befit.space/muscles/neck/</link>
+    <description>Recent content in Neck on Be Fit, Move, Exercise, Workout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2021 12:24:03 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.befit.space/muscles/neck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Butterfly sit-ups</title>
+      <link>http://www.befit.space/exercises/butterfly-sit-ups-workout-exercise/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/butterfly-sit-ups-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sit-up</title>
+      <link>http://www.befit.space/exercises/sit-up-workout-exercise/</link>
+      <pubDate>Sun, 28 Mar 2021 12:24:03 +0100</pubDate>
+      
+      <guid>http://www.befit.space/exercises/sit-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
