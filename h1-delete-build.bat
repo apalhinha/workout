@@ -2,7 +2,8 @@ copy docs\CNAME .
 cd docs
 rm -R *
 cd ..
-echo www.befit.space > docs\CNAME
+rem echo www.befit.space > docs\CNAME
+echo www.some.space > docs\CNAME
 set HUGO_TEST=
 hugo
 
